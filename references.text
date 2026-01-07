@@ -223,12 +223,6 @@
 %I Unwin Paperbacks
 %C London
 
-%T Naming and necessity
-%A Kripke, Saul A
-%D 1972
-%I Blackwell
-%C Oxford
-
 %T On the notion of cause
 %A Russell, Bertrand
 %D 1913
@@ -236,6 +230,20 @@
 %V 13
 %P 1-26
 %O https://www.jstor.org/stable/4543833
+
+%T A modal free lunch
+%A Maudlin, Tim
+%J Foundations of physics
+%V 50
+%N 6
+%P 522-529
+%D 2020
+
+%T Naming and necessity
+%A Kripke, Saul A
+%D 1972
+%I Blackwell
+%C Oxford
 
 %A Kripke, Saul A
 %T Speaker\'s reference and semantic reference

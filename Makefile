@@ -29,7 +29,7 @@ clean:
 
 qr.pdf: qr.eps
 
-initial-theses.pdf: initial-theses.ms $(OTHERS)
+initial-theses.pdf: initial-theses.ms qr.pdf back-matter.ms $(OTHERS)
 
 # Remember
 #
