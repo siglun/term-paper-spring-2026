@@ -2,11 +2,10 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: moore.pdf properties.pdf causation.pdf epistemology.pdf \
-	language.pdf logic.pdf consciousness.pdf
+default: initial-theses.pdf
 
 PAPER = -dpaper=a4 -P-pa4
-OTHERS =  ../references.text ../tmac/dropcap.tmac \
+OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic parameters.ms back-matter.ms
 
 .ms.pdf:
