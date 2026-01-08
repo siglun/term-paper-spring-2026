@@ -1,17 +1,13 @@
 .SH
 Philosophy is the study of philosophical problem
 .LP
-Many philosophers, perhaps starting with
+Philosophers claim, perhaps starting with,
 .[\  
 #
 Russell problems 1912
-.]\,
-claim that philosophy is defined by its problems.
-In particular,
-that these problems are (i) fundamental,
-(ii) not possible to answer using empirical methods and
-(iii) nor by mathematics.
-Russell gives an example
+.]\ p. 1
+that philosophy is defined by its problems.
+Russell gives an example in the first paragraph in his first chapter
 .QP
 .vs 12
 .ps 10
@@ -27,4 +23,21 @@ but critically,
 after exploring all that makes such questions puzzling,
 and after realizing all the vagueness and confusion that underlie our ordinary ideas.
 .LP
-
+About a century later
+.[\ 
+#
+Floridi question
+.]\ 
+spends an entire essay on just this statement.
+In particular,
+.QP
+.vs 12
+.ps 10
+The result is a definition of philosophical questions as questions whose answers are in principle open to informed,
+rational,
+and honest disagreement,
+ultimate but not absolute,
+closed under further questioning,
+possibly constrained by empirical and logico-mathematical resources,
+but requiring noetic resources to be answered.
+.LP
