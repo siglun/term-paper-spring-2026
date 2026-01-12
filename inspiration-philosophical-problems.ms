@@ -1,13 +1,9 @@
 .SH
 Philosophy is the study of philosophical problem
 .LP
-Philosophers claim, perhaps starting with,
-.[\  
-#
-Russell problems 1912
-.]\ p. 1
+Philosophers claim, perhaps starting with Bertrand Russell,
 that philosophy is defined by its problems.
-Russell gives an example in the first paragraph in his first chapter
+Russell gives an example in the first paragraph in the first page of the  first chapter of his book \f[I]Problems of philosophy\f[P]
 .QP
 .vs 12
 .ps 10
@@ -22,6 +18,9 @@ as we do in ordinary life and even in the sciences,
 but critically,
 after exploring all that makes such questions puzzling,
 and after realizing all the vagueness and confusion that underlie our ordinary ideas.
+.[\ (
+Russell problems 1912
+.], p. 1)
 .LP
 About a century later
 .[\ 
