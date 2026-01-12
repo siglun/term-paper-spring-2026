@@ -3,6 +3,11 @@ Modality and dynamical systems theory
 .AU
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
+.AB
+.ps -2
+.vs -2
+What I believe my paper will be about.
+.AE
 .SH
 My points of departure
 .LP
