@@ -30,7 +30,8 @@ clean:
 qr.pdf: qr.eps
 
 initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
-	inspiration-philosophical-problems.ms  qr.pdf back-matter.ms $(OTHERS)
+	inspiration-philosophical-problems.ms inspiration-williamson.ms \
+	qr.pdf back-matter.ms $(OTHERS)
 
 # Remember
 #
