@@ -1,4 +1,4 @@
-.SH
+.NH 1
 Philosophy is the study of philosophical problem
 .LP
 Philosophers claim, perhaps starting with Bertrand Russell,
