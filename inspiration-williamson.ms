@@ -61,4 +61,8 @@ That is, the idea that things have some inherent unchangeable essence that they 
 .I iff
 $o$ is necessarily $p$.
 Without $p$ it would not exist.
-The scepticism of this goes from Hume to Quine and beyond.
+The scepticism of any kind of essentialism this goes from Hume to Quine and beyond.
+It extends to virtually all kinds of objective modality,
+and, according to Williamson, it is not saved by nomic necessity and contingency.
+Thas is, one would need to show that the laws of nature entail full blown nomic modalities.
+This is not made easier by the fact that scientists seldom use formal logic.
