@@ -14,3 +14,8 @@ positions and velocities of the planets in the solar system.
 .IP 2.
 a set of equations defining the change in the state variables.
 .LP
+I'll give a number of concrete examples below.
+.SH
+The logistic equation with harvesting
+.LP
+The simplest system with nonlinear dynamics is the logistic equation.
