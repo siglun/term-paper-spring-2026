@@ -24,6 +24,7 @@ N <- 0:100
 
 out <- as.data.frame(lsoda(x, time, logist, parms))
 
+pdf("logistic.pdf")
 par(mfrow = c(2, 2))
 
 plot(N,r*N*(1-N/K), type="l")
