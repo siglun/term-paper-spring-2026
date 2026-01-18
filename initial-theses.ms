@@ -14,6 +14,7 @@ My points of departure
 This document is about my points of departure for my spring 2026 essay.
 It takes the form of a handful of theses that I will use in the forthcoming text.
 .so inspiration-williamson.ms
+.so inspiration-williamson-dynamics.ms
 .so inspiration-philosophical-problems.ms
 .so inspiration-causality.ms
 .so inspiration-grounding-commitment.ms

@@ -1,5 +1,5 @@
 .NH 1
-Modal reasoning is appears everywhere in science, but not as modal logic
+Modal reasoning appears everywhere in science, but usually not as modal logic
 .LP
 According to the writings of
 .[\ 
@@ -66,3 +66,6 @@ It extends to virtually all kinds of objective modality,
 and, according to Williamson, it is not saved by nomic necessity and contingency.
 Thas is, one would need to show that the laws of nature entail full blown nomic modalities.
 This is not made easier by the fact that scientists seldom use formal logic.
+.PP
+Nomic modality is an obvious case where science is modal,
+but it is not really tractable for modal reasoning.
