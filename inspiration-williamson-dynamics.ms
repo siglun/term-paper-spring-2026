@@ -1,3 +1,4 @@
+.PDFPIC -C logistic.pdf 15.0c
 .NH 1
 Modality and dynamical systems
 .LP
