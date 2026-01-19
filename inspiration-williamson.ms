@@ -46,7 +46,7 @@ or
 .I "subjective modality:"
 related to whether we know something for sure or just believes it.
 Subjective modality seems to be a special case of epistemic modality related to the strengths of beliefs.
-Dynamic epistemic logic is a collection of epistemic logics each of which requiring special operators.
+Dynamic epistemic logic requires special operators.
 .[
 dynamic epistemic logic
 .]
@@ -56,7 +56,7 @@ He argues that this mirrors the vocabulary used for probability, where objective
 I will follow him on this in the following, using objective and subjective as determinants for both probabilities and modalities.
 .PP
 Williamson spends a whole section on scepticism about objective modality.
-Early on that scepticism was due to the resistance agains aristotelian essentialism.
+Early on that scepticism was due to the resistance against Aristotelian essentialism.
 That is, the idea that things have some inherent unchangeable essence that they cannot exist without, like the object $o$ is essentially $p$
 .I iff
 $o$ is necessarily $p$.
@@ -64,7 +64,7 @@ Without $p$ it would not exist.
 The scepticism of any kind of essentialism this goes from Hume to Quine and beyond.
 It extends to virtually all kinds of objective modality,
 and, according to Williamson, it is not saved by nomic necessity and contingency.
-Thas is, one would need to show that the laws of nature entail full blown nomic modalities.
+That is, one would need to show that the laws of nature entail full blown nomic modalities.
 This is not made easier by the fact that scientists seldom use formal logic.
 .PP
 Nomic modality is an obvious case where science is modal,
