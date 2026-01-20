@@ -71,3 +71,19 @@ Graph (1e \[en] f) shows the situation when the harvesting strategy is a constan
 .LP
 We have seen cases where dynamical systems can elucidate possibility and necessity in biological system.
 In particular we have seen one case where a harvesting strategy is capable driving a species to extinction (Eq. 1b and Figure 1 c \[en] d)
+.SH
+Modal operators for dynamical systems are possible
+.LP
+A list extracted from
+.[\ 
+#
+Williamson spaces possibility
+.]\ 
+.IP \[bu]
+sometime in the future
+.IP \[bu]
+always in the future
+.IP \[bu]
+sometime in the past
+.IP \[bu]
+always in the past

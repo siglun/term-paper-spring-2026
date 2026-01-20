@@ -31,7 +31,8 @@ qr.pdf: qr.eps
 
 initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	inspiration-philosophical-problems.ms inspiration-williamson.ms \
-	inspiration-williamson-dynamics.ms logistic.pdf qr.pdf back-matter.ms $(OTHERS)
+	inspiration-williamson-dynamics.ms \
+	logistic.pdf qr.eps back-matter.ms $(OTHERS)
 
 # Remember
 #
