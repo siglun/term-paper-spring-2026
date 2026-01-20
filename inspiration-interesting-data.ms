@@ -1,7 +1,7 @@
 .NH 1
 There are data
-.SH
-Snowshoe hare and lynx
+.NH 1
+Snowshoe hare and lynx are in a Nietzschean eternal recurrence
 .LP
 .KF
 .PDFPIC -C hare-and-lynx.pdf 15.0c
@@ -14,8 +14,8 @@ Fluctuations in Canadian populations of snowshoe hare and lynx.
 Bradley Udell 2016 
 .]
 .KE
-.SH
-Measels in London
+.NH 1
+Herd immunity has an effect on the spread of infections
 .LP
 .KF
 .PDFPIC -C measels-london-1629-1837.pdf 15.0c
@@ -25,8 +25,6 @@ Measels in London
 Figure 4.
 Historical records of outbreak of measels in London.
 .KE
-.SH
-Herd immunity
 .LP
 In the absence of herd immunity, there will be rapid outbreaks of measles.
 .LP

@@ -15,7 +15,7 @@ positions and velocities of the planets in the solar system.
 a set of equations defining the change in the state variables.
 .LP
 I'll give a number of concrete examples below.
-.SH
+.NH 1
 An example where sustainability is necessarily impossible
 .LP
 One of the simplest system with nonlinear dynamics is the logistic equation.
@@ -71,7 +71,7 @@ Graph (1e \[en] f) shows the situation when the harvesting strategy is a constan
 .LP
 We have seen cases where dynamical systems can elucidate possibility and necessity in biological system.
 In particular we have seen one case where a harvesting strategy is capable driving a species to extinction (Eq. 1b and Figure 1 c \[en] d)
-.SH
+.NH 1
 Modal operators for dynamical systems are possible
 .LP
 A list extracted from
