@@ -1,6 +1,4 @@
 .NH 1
-There are data
-.NH 1
 Snowshoe hare and lynx are in a Nietzschean eternal recurrence
 .LP
 .KF

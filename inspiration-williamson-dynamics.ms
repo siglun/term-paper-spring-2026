@@ -21,7 +21,13 @@ An example where sustainability is necessarily impossible
 One of the simplest system with nonlinear dynamics is the logistic equation.
 It is one-dimensional equation,
 and in continuous time it has no complex dynamics but it is capable of demonstrating nomic necessity and possibility.
-We have three versions below (Eq 1a \[en] c),
+.PP
+The examples below come from.
+.[\ 
+#
+Colin Clark 1976 mathematical bioeconomics
+.]
+We have three versions (Eq 1a \[en] c),
 the first of which has solutions showing the typical sigmoid form where at low population densities the growth is exponential but at high it approaches the equilibrium $N hat = K$ (Figure 1 a \[en] b). Sustainability is possible.
 .EQ (1a)
 diff(N,t) = r N left ( 1 - N over K right )
@@ -71,19 +77,3 @@ Graph (1e \[en] f) shows the situation when the harvesting strategy is a constan
 .LP
 We have seen cases where dynamical systems can elucidate possibility and necessity in biological system.
 In particular we have seen one case where a harvesting strategy is capable driving a species to extinction (Eq. 1b and Figure 1 c \[en] d)
-.NH 1
-Modal operators for dynamical systems are possible
-.LP
-A list extracted from
-.[\ 
-#
-Williamson spaces possibility
-.]\ 
-.IP \[bu]
-sometime in the future
-.IP \[bu]
-always in the future
-.IP \[bu]
-sometime in the past
-.IP \[bu]
-always in the past

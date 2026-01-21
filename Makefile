@@ -4,8 +4,7 @@
 
 default: initial-theses.pdf
 
-URI = https://github.com/siglun/term-paper-spring-2026
-
+URI = https://github.com/siglun/term-paper-spring-2026/blob/main/initial-theses.pdf
 PAPER = -dpaper=a4 -P-pa4
 OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic parameters.ms back-matter.ms
@@ -21,13 +20,8 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 qr.eps:
 	qrencode -l H -v 1 -s 3 -d300 -t EPS -o qr.eps $(URI)
 
-.eps.pdf:
-	epstopdf  $<
-
 clean:
-	rm -f *~ *.pdf
-
-qr.pdf: qr.eps
+	rm -f *~ *.eps
 
 initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	inspiration-philosophical-problems.ms inspiration-williamson.ms \
