@@ -14,3 +14,14 @@ always in the future
 sometime in the past
 .IP \[bu]
 always in the past
+.LP
+Things to consider:
+These are meant to be operators for objective or metaphysical modality,
+not epistemic ones.
+Still they are close to the historical predictions so vehemently objected to by Karl Popper, which I believe are more epistemic.
+.[
+Popper open society
+.]
+.[
+popper historicism
+.]

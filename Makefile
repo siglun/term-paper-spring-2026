@@ -26,6 +26,7 @@ clean:
 initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	inspiration-philosophical-problems.ms inspiration-williamson.ms \
 	inspiration-williamson-dynamics.ms \
+	inspiration-modal-operators.ms \
 	logistic.pdf qr.eps back-matter.ms $(OTHERS)
 
 # Remember
