@@ -77,3 +77,16 @@ Graph (1e \[en] f) shows the situation when the harvesting strategy is a constan
 .LP
 We have seen cases where dynamical systems can elucidate possibility and necessity in biological system.
 In particular we have seen one case where a harvesting strategy is capable driving a species to extinction (Eq. 1b and Figure 1 c \[en] d)
+.KF
+.PDFPIC -C rosenzweigh-stable.pdf 12.0c
+.PDFPIC -C rosenzweigh-limit-cycles.pdf 12.0c
+.QP
+.vs 12
+.ps 10
+Figure 2.
+Two models of predator\[en]prey-relations.
+.[
+Rosenzweig MacArthur 1963
+.]
+.sp
+.KE

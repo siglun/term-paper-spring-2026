@@ -6,7 +6,7 @@ Snowshoe hare and lynx are in a Nietzschean eternal recurrence
 .QP
 .vs 12
 .ps 10
-Figure 2.
+Figure 3.
 Fluctuations in Canadian populations of snowshoe hare and lynx.
 .[
 Bradley Udell 2016 
