@@ -65,13 +65,14 @@ Figure 1.
 Graph (1a \[en] b) depicts the ordinary differential equation Eq. 1a and its solution, respectively.
 The population grows asymptotically towards the equilibrium $N = K$.
 .sp
-Graph  (1c \[en] d) adds harvesting (such as a fishery) to the population dynamics.
-The curve in Graph 1c is population growth (i.e., the logistic equation the same as in Graph 1a) and the line represents a constant harvesting rate, which is assumed to be independent of the population density.
+Graph (1c \[en] f) adds harvesting (such as a fishery) to the population dynamics.
+Graph 1c shows the situation when the harvesting strategy is a constant per capita harvesting rate (i.e., the rate is proportional to the population density).
+The curves in Graph 1d show how the population could approach the equlibrium from below and above.
+.sp
+The curve in Graph 1e is population growth (i.e., the logistic equation the same as in Graph 1a) and the line represents a constant harvesting rate, which is assumed to be independent of the population density.
 The harvesting line intersects twice with the curve giving two equilibria.
 The lower one is unstable and be low that the population will necessarily go extinct.
 Graph 1d shows three solutions approaching the equilibrium from above and below, and one where the population rapidly disappears because the initial population density is below the lower equilibrium.
-.sp
-Graph (1e \[en] f) shows the situation when the harvesting strategy is a constant per capita harvesting rate (i.e., the rate is proportional to the population density).
 .sp
 .KE
 .LP
