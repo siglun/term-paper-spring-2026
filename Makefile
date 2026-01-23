@@ -28,6 +28,7 @@ initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	inspiration-williamson-dynamics.ms \
 	inspiration-chaos.ms \
 	inspiration-modal-operators.ms \
+	inspiration-grounding-commitment.ms \
 	lorenz-attractor.pdf logistic.pdf qr.eps back-matter.ms $(OTHERS)
 
 # Remember

@@ -40,3 +40,8 @@ closed under further questioning,
 possibly constrained by empirical and logico-mathematical resources,
 but requiring noetic resources to be answered.
 .LP
+A number of problems:
+.IP 1
+Can philosophy actually pose relevant problems without empiri
+.IP 2
+Can dynamical systems theory actually contribute things to philosophy
