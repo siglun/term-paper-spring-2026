@@ -39,12 +39,12 @@ or
 things that are necessary or possible in the real world.
 .IP
 .I "nomic modality:"
-a special case of metaphysical modality which is related to what necessities and contingencies is entailed by the laws of nature.
+a special case of metaphysical modality which is related to what necessities and contingencies is entailed from the laws of nature.
 .IP
 .I "dynamical, epistemic"
 or
 .I "subjective modality:"
-related to whether we know something for sure or just believes it.
+related to whether we know something for sure or just believe it.
 Subjective modality seems to be a special case of epistemic modality related to the strengths of beliefs.
 Dynamic epistemic logic requires special operators.
 .[

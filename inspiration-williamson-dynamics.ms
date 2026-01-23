@@ -11,8 +11,11 @@ A dynamical system consists of
 a set of state variables,
 i.e., the variables needed to define the system such as the weights,
 positions and velocities of the planets in the solar system.
+The set of state variables is often referred to as a state space.
 .IP 2.
 a set of equations defining the change in the state variables.
+.IP 3.
+the set of state variables form sets referred to as orbits or trajectories defining the states a system can be reached given its initial condition.
 .LP
 I'll give a number of concrete examples below.
 .NH 1
@@ -73,6 +76,14 @@ The curve in Graph 1e is population growth (i.e., the logistic equation the same
 The harvesting line intersects twice with the curve giving two equilibria.
 The lower one is unstable and be low that the population will necessarily go extinct.
 Graph 1d shows three solutions approaching the equilibrium from above and below, and one where the population rapidly disappears because the initial population density is below the lower equilibrium.
+I solved the differential equations using Rscript
+.[
+statistical computing
+.]
+with the package deSolve.
+.[
+deSolve
+.]
 .sp
 .KE
 .LP

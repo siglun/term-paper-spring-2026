@@ -22,6 +22,7 @@ Herd immunity has an effect on the spread of infections
 .vs 12
 Figure 4.
 Historical records of outbreak of measels in London.
+.sp
 .KE
 .LP
 In the absence of herd immunity, there will be rapid outbreaks of measles.

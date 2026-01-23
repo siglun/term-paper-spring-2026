@@ -42,5 +42,6 @@ out <- ode(y = state, times = times, func = lorenz, parms = parameters)
 
 par(oma = c(0, 0, 3, 0))
 plot(out, xlab = "time", ylab = "-")
-plot(out[, "X"], out[, "Z"], pch = ".")
-mtext(outer = TRUE, side = 3, "Lorenz model", cex = 1.5)
+plot(out[, "X"], out[, "Z"], pch = ".",xlab = "X", ylab = "Z")
+
+# mtext(outer = TRUE, side = 3, "Lorenz model", cex = 1.5)
