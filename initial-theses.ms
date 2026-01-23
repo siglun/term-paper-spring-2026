@@ -5,8 +5,8 @@ Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
 .LP
 These are my points of departure.
-The document is about what I believe my spring 2026 essay will be about.
-It takes the form of a handful of theses that I may use in the forthcoming text.
+There are ten of them.
+They are about what I believe my spring 2026 essay will be about.
 .so inspiration-williamson.ms
 .so inspiration-williamson-dynamics.ms
 .so inspiration-modal-operators.ms

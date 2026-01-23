@@ -22,13 +22,13 @@ but does so from the point of view of the philosophy of physics.
 .LP
 Williamson introduces modality by listing modal auxiliary verbs like
 .IP a.
-can, could
+can, can not, could ...
 .IP b.
-may, might, must
+may, might, must ..
 .IP c.
 able to,
 has to,
-needs to
+needs to ...
 .LP
 All of them are related to possibilities, contingencies and necessities.
 Williamson introduces further distinctions:
