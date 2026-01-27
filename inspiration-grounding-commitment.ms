@@ -35,3 +35,19 @@ The methods for establishing a theorys commitment
 Regimenting (to add something to an ontology)
 .IP \[bu]
 Paraphrasing (to remove something from an ontology)
+.bp
+.LP
+Causal essentialism or quidditism?
+.QP
+.vs 12
+.ps 10
+Is the relation between properties and the causal powers they confer upon their bearers necessary or contingent?
+One camp holds that the relation is necessary, with the most popular view being causal essentialism.
+On this view,
+properties play their causal or nomic roles essentially.
+It is necessarily the case that a negatively charged particle is repelled by other negatively charged particles\[em]this follows from the nature or essence of the property of being negatively charged.
+The other camp holds that the relation is contingent,
+with the most popular view being quidditism.
+.[
+Jennifer Wang 2016
+.]
