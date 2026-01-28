@@ -1,24 +1,29 @@
 .NH 1
 Modal reasoning appears everywhere in science, but usually not as modal logic
 .LP
-According to the writings of
-.[\ 
-#
-Williamson spaces possibility
-.]\ 
-on modal logic and dynamic systems.\**
+According to the writings of Timothy Williamson\**
 .FS
 The original lecture can be found on YouTube
 https://youtu.be/ZfaHf_TESEw
 .FE
+on modal logic and dynamic systems.
 much theory in the natural sciences is modal,
-albeit they do not use modal logic \f[I]per se.\f[P]
+albeit they do not use modal logic \f[I]per se\f[P].
+.[ 
+Williamson spaces possibility
+.] 
+He gives a much more detailed treatment in his paper \[lq]Modal science\[rq].
+.[
+Williamson modal science
+.]
+\ 
 .[\ 
 #
 tim maudlin modal free lunch
 .]\ 
 shares Williamson's views on modality in the sciences,
 but does so from the point of view of the philosophy of physics.
+
 .LP
 Williamson introduces modality by listing modal auxiliary verbs like
 .IP a.

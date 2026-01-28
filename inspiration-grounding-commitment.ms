@@ -35,7 +35,6 @@ The methods for establishing a theorys commitment
 Regimenting (to add something to an ontology)
 .IP \[bu]
 Paraphrasing (to remove something from an ontology)
-.bp
 .LP
 Causal essentialism or quidditism?
 .QP
