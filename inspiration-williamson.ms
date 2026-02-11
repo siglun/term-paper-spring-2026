@@ -9,9 +9,9 @@ https://youtu.be/ZfaHf_TESEw
 on modal logic and dynamic systems.
 much theory in the natural sciences is modal,
 albeit they do not use modal logic \f[I]per se\f[P].
-.[ 
+.[
 Williamson spaces possibility
-.] 
+.]
 He gives a much more detailed treatment in his paper \[lq]Modal science\[rq].
 .[
 Williamson modal science
