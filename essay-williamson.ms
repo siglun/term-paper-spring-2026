@@ -15,11 +15,11 @@ Listen also his lecture from 2018.
 The Royal Institute of Philosophy
 https://youtu.be/ZfaHf_TESEw
 .FE
-.[\ 
-#
-tim maudlin modal free lunch
-.]\ 
+Tim Maudlin 
 shares Williamson's views on modality in the sciences,
+.[
+tim maudlin modal free lunch
+.]
 but does so from the point of view of the philosophy of physics.
 .LP
 Williamson introduces modality by listing modal auxiliary verbs like
