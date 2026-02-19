@@ -1,6 +1,7 @@
 .special STIXMath
 .char \[/-] \[u22A2]
 .char \[/--] \[u22A8]
+.char \[sr] \[u203E]
 \" \[turn] \[dturn]
 .EQ
 sdefine falsum  %{type "operator" \[pp]}%
