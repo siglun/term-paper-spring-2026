@@ -4,7 +4,7 @@ Modality and dynamical systems theory
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
 .so essay-williamson.ms
-.so essay-tractatus-paraphrase.ms
+.so essay-kripkensteinian-paraphrase.ms
 .\" inspiration-williamson-dynamics.ms
 .\" inspiration-modal-operators.ms
 .\" inspiration-interesting-data.ms
@@ -15,4 +15,3 @@ sigfrid@sigfrid-lundberg.se
 .[
 $LIST$
 .]
-
