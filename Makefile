@@ -2,7 +2,7 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: initial-theses.pdf
+default: initial-theses.pdf essay.pdf
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/initial-theses.pdf
 PAPER = -dpaper=a4 -P-pa4
