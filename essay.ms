@@ -3,9 +3,8 @@ Modality and dynamical systems theory
 .AU
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
-.LP
-My point of departure.
 .so essay-williamson.ms
+.so essay-tractatus-paraphrase.ms
 .\" inspiration-williamson-dynamics.ms
 .\" inspiration-modal-operators.ms
 .\" inspiration-interesting-data.ms
