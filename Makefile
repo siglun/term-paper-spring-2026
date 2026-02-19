@@ -33,6 +33,9 @@ initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
+
+essay.pdf: essay.ms essay-williamson.ms
+
 # Remember
 #
 # inkscape World_line.svg -o  world_line.eps
