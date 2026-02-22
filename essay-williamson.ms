@@ -71,4 +71,4 @@ This is not made easier by the fact that scientists seldom use formal logic.
 .PP
 Nomic modality is an obvious case where science is modal,
 but it is not really tractable for modal reasoning.
-.separator
+.\" separator
