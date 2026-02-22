@@ -34,7 +34,8 @@ initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
-essay.pdf: essay.ms essay-williamson.ms essay-kripkensteinian-paraphrase.ms
+essay.pdf: essay.ms essay-intro.ms essay-williamson.ms \
+	essay-kripkensteinian-paraphrase.ms
 
 # Remember
 #
