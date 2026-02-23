@@ -1,6 +1,6 @@
 .LP
-.dropcap Modal 3 red4 R STIX
-reasoning appears everywhere in science says Timothy Williamson.\**
+.\" dropcap Modal 3 red4 R STIX
+Modal reasoning appears everywhere in science says Timothy Williamson.\**
 He claims that dynamical systems theory, which is abundantly used in natural sciences,
 is by its very nature modal, in spite of the fact that these sciences hardly ever use modal logic \f[I]per se\f[P].
 .[
