@@ -4,6 +4,7 @@ Modality and dynamical systems theory
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
 .so essay-intro.ms
+.so essay-quine-kripke.ms
 .so essay-williamson.ms
 .so essay-kripkensteinian-paraphrase.ms
 .\" inspiration-williamson-dynamics.ms
