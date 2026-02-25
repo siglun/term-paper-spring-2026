@@ -1,5 +1,25 @@
-.SH
-An attempt
+.LP
+.dropcap A 3 red4 R STIX 1n
+n attempt at paraphrase of Tractatus.
+.[
+Wittgenstein tractatus
+.]
+fragment.
+I believe there are two ways to connect the phase space of a dynamical system to a theory of time.
+Either we think of the state of the system as a kind of possible world,
+or we see an entire trajectory.
+The latter makes more sense,
+everything that happens given a boundary condition will be a part of that world.
+\
+.[\ 
+#
+Williamson spaces
+.]
+mentions both, leans towards the latter but has not made up his mind completely.
+The latter theory works nicely with eternalism and the block universe,
+the former with presentism or some growing block theory.
+This section should presumably go to the bin,
+but the points below is a play with an eternalistic view of orbits.
 .IP \fB1\fP 2.5c
 Each world is all that which goes on in that world\**
 .FS
