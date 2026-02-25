@@ -1,6 +1,5 @@
 .LP
-.dropcap A 3 red4 R STIX 1n
-t its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P].\**
+At its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P].\**
 Since that decision was controversial, some of us would perhaps still say
 .FS
 As a matter of fact,
