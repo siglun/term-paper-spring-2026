@@ -2,7 +2,7 @@
 Modality and dynamical systems theory
 .AU
 Sigfrid Lundberg
-,\"sigfrid@sigfrid-lundberg.se
+.\"sigfrid@sigfrid-lundberg.se
 .so essay-intro.ms
 .so essay-quine-kripke.ms
 .so essay-williamson.ms
