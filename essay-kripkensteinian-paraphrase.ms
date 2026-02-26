@@ -1,6 +1,6 @@
 .LP
-.dropcap A 3 red4 R STIX 1n
-n attempt at paraphrase of Tractatus.
+.dropcap This 3 red4 R STIX 1n
+is an attempt at paraphrasing of \f[I]Tractatus logico-philosophicus\f[P]
 .[
 Wittgenstein tractatus
 .]

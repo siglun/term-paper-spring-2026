@@ -59,16 +59,13 @@ I will follow him on this in the following, using objective and subjective as de
 .PP
 Williamson points out that concept of objective modality has been subject to hard criticism.
 That scepticism was due to the resistance against Aristotelian essentialism.
-That is, the idea that things have some inherent unchangeable essence that they cannot exist without, like the object $o$ is essentially $p$
-.I iff
-$o$ is necessarily $p$.
+That is, the idea that things have some inherent unchangeable essence that they cannot exist without, like the object $o$ is essentially $p$ \f[I]iff\f[P] $o$ is necessarily $p$.
 Without $p$ it would not exist.
 The scepticism of any kind of essentialism this goes from Hume to Quine and beyond.
 It extends to virtually all kinds of objective modality,
 and, according to Williamson, it is not saved by nomic necessity and contingency.
 That is, one would need to show that the laws of nature entail full blown nomic modalities.
 This is not made easier by the fact that scientists seldom use formal logic.
-.PP
 Nomic modality is an obvious case where science is modal,
 but it is not really tractable for modal reasoning.
 .separator
