@@ -42,9 +42,8 @@ He points out that
 .EQ (1)
 forall(x) forall(y) left [ (x = y) implies necessarily (x = y ) right ]
 .EN
-can only be true when $x = y$ is an essential property ($x$ exists if and only if $y$).
-The alternative is that Eq. (1) is a
-true because  $x = y$ is true \f[I]a priori\f[P]
+can only be true if $x = y$ is an essential property of $x$ and $y$.
+Eq. (1) is a truth because  $x = y$ is true \f[I]a priori\f[P]
 .PP
-Here comes more on Kripke
+Here comes more on Kripke bla bla bla bla
 .separator
