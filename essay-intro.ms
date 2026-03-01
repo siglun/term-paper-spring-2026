@@ -1,12 +1,13 @@
 .LP
-.dropcap Most 3 red4 R STIX 1n
-of what we notice are not things that are,
+.dropcap Much 3 red4 R STIX 1n
+of what we notice around us are not not things that are,
 but rather changes in what there is.
-Perhaps you woke up one morning and the radio news declares that the central bank in your country had concluded that the inflation had increased too much,
-and that the bank had to increase the interest rate.
+Perhaps you wake up one morning while the news declares that the central bank in your country has found that the inflation has increased too much,
+and that the bank must increase the interest rate.
 That could make people less inclined to buy your house,
 and that could, in turn, by the law of demand and supply, lead to a decreased value of your property.
 This in turn could give you problem to pay off your mortgage when moving.
+.PP
 Suppose you pull the blinds and go to bed again.
 .PP
 All of this is about change.
@@ -14,17 +15,25 @@ So is climate change (you realize that directly just by seeing the concept),
 species extinctions and decrease in biodiversity.
 The fall of republics, and the rise of empires.
 You name it.
-There is a tradition of Western philosophy which studies change.
+There is a tradition of Western philosophy which studies processes.
 It goes from Heraclitus of Ephesus (born ca. 560 B.C.E.), to modern \f[I]process philosophy\fP via (for example) Georg Wilhelm Friedrich Hegel, Alfred North Whitehead, Martin Heidegger and Wilfred Sellars.
 .[
 Seibt Process Philosophy
 .]
-To tackle change we need to concentrate more on what is becoming than on what there is.
+To tackle processes, we need to concentrate more on what is becoming than on what there is.
 .PP
 However,
-I leave process philosophy for the time being.
+I leave process philosophy here.
 In this note I concentrate on subset of change,
-namely those processes that are studied using methodologies from dynamical systems theory.
+namely those processes that are studied using methodologies from dynamical systems theory.\**
+.FS
+A branch of mathematics, working with difference and differential equations to model processes.
+I learned it from.
+.[\ 
+#
+Luenberger 1979
+.]
+.FE
 I aim at elucidating the modal free lunch we get from dynamical systems.
 .[
 maudlin lunch
