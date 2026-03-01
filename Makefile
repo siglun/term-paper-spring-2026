@@ -2,7 +2,7 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: initial-theses.pdf
+default: initial-theses.pdf essay.pdf
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/initial-theses.pdf
 PAPER = -dpaper=a4 -P-pa4
@@ -32,6 +32,10 @@ initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	lorenz-attractor.pdf logistic.pdf qr.eps back-matter.ms $(OTHERS)
 
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
+
+
+essay.pdf: essay.ms essay-intro.ms essay-williamson.ms \
+	essay-quine-kripke.ms  essay-kripkensteinian-paraphrase.ms  $(OTHERS)
 
 # Remember
 #

@@ -372,15 +372,6 @@
 %Z https://youtu.be/Qe0Ac_QwJ2M?si=_50oedqomoLxcyFD
 %O https://bit.ly/41SDgbs
 
-%A Quine, Willard V.
-%D 1951
-%T Two Dogmas of Empiricism
-%J The Philosophical Review
-%V 60
-%N 1
-%P 20-43
-%O https://doi.org/10.2307/2181906
-
 %T Reference and definite descriptions
 %A Donnellan, Keith S
 %J The philosophical review
@@ -618,13 +609,31 @@
 %O https://www.jstor.org/stable/20123117
 
 %T Ontology and Ideology
-%A Quine, W. V.
+%A Quine, Willad V.
 %J Philosophical Studies
 %D 1951
 %V 2
 %N 1
 %P 11-15
 %O https://www.jstor.org/stable/4318102
+
+%A Quine, Willard V.
+%D 1951
+%T Two Dogmas of Empiricism
+%J The Philosophical Review
+%V 60
+%N 1
+%P 20-43
+%O https://doi.org/10.2307/2181906
+
+%A Quine, Willard V.
+%D 1947
+%T The Problem of Interpreting Modal Logic
+%J The Journal of Symbolic Logic
+%V 12
+%N 2
+%P 43-48
+%O https://www.jstor.org/stable/2267247
 
 %A Church, Alonzo
 %T The Ontological Status Of Women and Abstract Entities
@@ -633,8 +642,12 @@
 
 %A Wittgenstein, Ludwig
 %T Tractatus logico-philosophicus
-%D 2001
-%I Routledge
+%D 1921/2001
+%I Routledge & Kegan Paul
+%C London
+%ZZZZ 1. Wittgenstein L, Hacker PMS. Tractatus Logico-Philosophicus. Bazzocchi L, ed. Anthem Press; 2021.
+%ZZZZ https://www.cambridge.org/core/books/tractatus-logicophilosophicus/904D93B05A8AE9398D42D02CBF16BD48?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark
+
 
 %A Black, M.
 %D 1934
@@ -1413,3 +1426,49 @@
 %N 1
 %P 134
 %O https://bit.ly/3NYNNgJ
+
+%J Studies in History and Philosophy of Biological and Biomedical Sciences
+%A Dupré, John
+%T In Defence of Classification
+%V 32
+%N 2
+%P 203–219
+%D 2001
+%O https://doi.org/10.1016/S1369-8486(01)00003-6
+
+%A Martin, Jesse M.
+%A Leece, A. B.
+%A Baker, Stephanie E.
+%A Herries, Andy I. R.
+%A Strait, David S.
+%T A lineage perspective on hominin taxonomy and evolution
+%J Evolutionary Anthropology
+%D 2024
+%N 2
+%V 33
+%P e22018
+%O https://doi.org/10.1002/evan.22018
+
+%A Wikipedia
+%T Pluto
+%B Wikipedia, The Free Encyclopedia
+%D 2026
+%O https://w.wiki/XqS
+%Z https://en.wikipedia.org/wiki/Pluto
+
+%A Seibt, Johanna
+%T Process Philosophy
+%B The Stanford Encyclopedia of Philosophy
+%E Zalta, Edward N.
+%E Nodelman, Uri
+%O https://plato.stanford.edu/archives/sum2025/entries/process-philosophy/
+%D 2025
+
+%A Luenberger, David G.
+%T Introduction to Dynamic Systems: Theory, Models & Applications
+%D 1979
+%I John Wiley & Sons
+%C New York
+
+
+

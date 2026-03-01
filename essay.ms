@@ -1,0 +1,19 @@
+.TL
+Modality and dynamical systems theory
+.AU
+Sigfrid Lundberg
+.\"sigfrid@sigfrid-lundberg.se
+.so essay-intro.ms
+.so essay-quine-kripke.ms
+.so essay-williamson.ms
+.so essay-kripkensteinian-paraphrase.ms
+.\" inspiration-williamson-dynamics.ms
+.\" inspiration-modal-operators.ms
+.\" inspiration-interesting-data.ms
+.\" inspiration-chaos.ms
+.\" inspiration-philosophical-problems.ms
+.\" inspiration-causality.ms
+.\" inspiration-grounding-commitment.ms
+.[
+$LIST$
+.]

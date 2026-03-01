@@ -11,8 +11,8 @@ sdefine or      %{type "operator" \[OR]}%
 sdefine any     %{type "operator" \[fa]}%
 sdefine some    %{type "operator" \[te]}%
 
-sdefine nece  %{type "operator"  vcenter \[sq]}%
-sdefine possi %{type "operator"  vcenter \[lz]}%
+sdefine nece  %{type "operator"  vcenter \[sq] ^ }%
+sdefine possi %{type "operator"  vcenter \[lz] ^ }}%
 
 define necessarily X { nece } X
 define possibly    X {possi } X
