@@ -1,10 +1,11 @@
 .LP
-.dropcap This 3 red4 R STIX 1n
-is an attempt at paraphrasing of \f[I]Tractatus logico-philosophicus\f[P]
+.\" dropcap This 3 red4 R STIX 1n
+This is an attempt at paraphrasing of \f[I]Tractatus logico-philosophicus\f[P]
 .[
 Wittgenstein tractatus
 .]
 fragment.
+.ig
 I believe there are two ways to connect the phase space of a dynamical system to a theory of time.
 Either we think of the state of the system as a kind of possible world,
 or we see an entire trajectory.
@@ -20,6 +21,7 @@ The latter theory works nicely with eternalism and the block universe,
 the former with presentism or some growing block theory.
 This section should presumably go to the bin,
 but the points below is a play with an eternalistic view of orbits.
+..
 .IP \fB1\fP 2.5c
 Each world is all that which goes on in that world\**
 .FS
