@@ -14,7 +14,7 @@ Pluto Wikipedia
 .]
 .FE
 .IP
-(P1)	Possibly \[oq]the number planets = 9\[cq]
+(P1)	Possibly \[ulcorner]the number planets = 9\[urcorner]
 .LP
 After all, even before 2006 we would say that the number of planets is \f[I]contingent\f[P].
 It could change.
@@ -38,17 +38,26 @@ According to
 #
 Quine 1947
 .]
-quantified modal logic may yield nonsense when combined with referential logic.
+quantified referential modal logic can yield nonsense.
 He points out that
 .EQ (1)
 forall(x) forall(y) left [ (x = y) implies necessarily (x = y ) right ]
 .EN
 can only be true if $x = y$ is an essential property of $x$ and $y$.
-Eq. (1) is a truth because  $x = y$ is true \f[I]a priori\f[P].
+Eq. (1) is a truth because  $x = y$ is true \f[I]a priori\f[P],
+which in addition is the same as accepting \f[I]analyticity\f[P].
+That is, we need to accept Aristotelian essentialism:
 .QP
 .vs 12
 .ps 10
-The upshot of these reflections is meant to be that the way to do quantified modal logic, if at all, is to accept Aristotelian essentialism.
-.PP
-Here comes more on Kripke bla bla bla bla
+Things had essences,
+for Aristotle,
+but only linguistic forms have meanings.
+Meaning is what essence becomes when it is divorced from the object of reference and wedded to the word.
+.[
+quine dogmas
+.]
+.LP
+Eq. (1) can be as false as proposition (P4).
+We will not see the reference $x$ and $y$ because of \f[I]referential opacity\f[P].
 .separator
