@@ -1,8 +1,43 @@
-.separator
 .LP
-.dropcap A 3 red4 R STIX 1n
-t its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P] planets.\**
-Since that decision was controversial, some of us would perhaps still say
+.\" dropcap M 3 red4 R STIX 1n
+Modality is visible through auxiliary verbs like
+.IP a.
+can, can not, could ...
+.IP b.
+may, might, must ...
+.IP c.
+able to,
+has to,
+needs to ...
+.LP
+All of them are related to possibilities, contingencies and necessities.
+There are further distinctions,
+.[
+Kment modality
+.]
+such as
+.IP
+.I "metaphysical"
+or
+.I "objective modality:"
+things that are necessary or possible in the real world.
+.IP
+.I "nomic modality:"
+a special case of metaphysical modality which is related to what necessities and contingencies is entailed from the laws of nature.
+.IP
+.I "dynamical, epistemic"
+or
+.I "subjective modality:"
+related to whether we know something for sure or just believe it.
+Subjective modality seems to be a special case of epistemic modality related to the strengths of beliefs.
+Dynamic epistemic logic requires special operators.
+.[
+dynamic epistemic logic
+.]
+.LP
+At its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P] planets.\**
+Since that decision was controversial,
+some of us would perhaps still say
 .FS
 As a matter of fact,
 Pluto is a more complex celestial body than most of us realise.
@@ -60,4 +95,3 @@ quine dogmas
 .LP
 Eq. (1) can be as false as proposition (P4).
 We will not see the reference $x$ and $y$ because of \f[I]referential opacity\f[P].
-.separator
