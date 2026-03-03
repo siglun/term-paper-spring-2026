@@ -81,7 +81,25 @@ forall(x) forall(y) left [ (x = y) implies necessarily (x = y ) right ]
 can only be true if $x = y$ is an essential property of $x$ and $y$.
 Eq. (1) is a truth because  $x = y$ is true \f[I]a priori\f[P],
 which in addition is the same as accepting \f[I]analyticity\f[P].
-That is, we need to accept Aristotelian essentialism:
+Eq. (1) can be as false as proposition (P4).
+We will not see the reference $x$ and $y$ because of \f[I]referential opacity\f[P].
+Quine claims that this leads to queer ontologies:
+.QP
+.vs 12
+.ps 10
+What I shall show is that it has queer ontological consequences.
+It leads us to hold that there are no concrete objects (men, planets, etc.),
+but rather that there are only,
+corresponding to each supposed concrete object,
+a multitude of distinguishable entities (perhaps \[lq]individual concepts,\[rq] in Church's phrase).
+It leads us to hold, e. g., that there is no such ball of matter as the so-called planet Venus,
+but rather at least three distinct entities: Venus, Evening Star,
+and Morning Star.
+.[
+Quine interpreting 1947
+.]
+.LP
+In addition it requires us to adopt Aristotelian essentialism:
 .QP
 .vs 12
 .ps 10
@@ -92,6 +110,3 @@ Meaning is what essence becomes when it is divorced from the object of reference
 .[
 quine dogmas
 .]
-.LP
-Eq. (1) can be as false as proposition (P4).
-We will not see the reference $x$ and $y$ because of \f[I]referential opacity\f[P].
