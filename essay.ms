@@ -6,10 +6,10 @@ Sigfrid Lundberg
 .so essay-intro.ms
 .separator
 .so essay-quine-kripke.ms
-.separator
+.\" separator
 .so essay-williamson.ms
-.separator
-.so essay-kripkensteinian-paraphrase.ms
+.\" separator
+.\" so essay-kripkensteinian-paraphrase.ms
 .\" inspiration-williamson-dynamics.ms
 .\" inspiration-modal-operators.ms
 .\" inspiration-interesting-data.ms

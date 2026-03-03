@@ -21,10 +21,10 @@ shares Williamson's views on modality in the sciences,
 tim maudlin modal free lunch
 .]
 but does so from the point of view of the philosophy of physics.
-.LP
+.PP
 Objective and subjective modalities are Williamson's choice of terminology.
 He argues that this mirrors the vocabulary used for probability, where objective probability refers to truly stochastic processes and subjective probability refers to the strength of a conviction.
-I will follow him on this in the following, using objective and subjective as determinants for both probabilities and modalities.
+I will follow him on this in using objective and subjective as determinants for both probabilities and modalities.
 .\"
 .\"Williamson points out that concept of objective modality has been subject to hard criticism.
 .\"That scepticism was due to the resistance against Aristotelian essentialism.
