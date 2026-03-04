@@ -1,4 +1,4 @@
-.LP
+.PP
 .\" dropcap Modal 3 red4 R STIX
 Modal reasoning appears everywhere in science says Timothy Williamson.
 He claims that dynamical systems theory, which is abundantly used in natural sciences,
