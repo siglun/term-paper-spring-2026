@@ -25,15 +25,11 @@ things that are necessary or possible in the real world.
 .I "nomic modality:"
 a special case of metaphysical modality which is related to what necessities and contingencies is entailed from the laws of nature.
 .IP
-.I "dynamical, epistemic"
+.I epistemic
 or
 .I "subjective modality:"
 related to whether we know something for sure or just believe it.
 Subjective modality seems to be a special case of epistemic modality related to the strengths of beliefs.
-Dynamic epistemic logic requires special operators.
-.[
-dynamic epistemic logic
-.]
 .LP
 At its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P] planets.\**
 Since that decision was controversial,
@@ -99,7 +95,22 @@ and Morning Star.
 Quine interpreting 1947
 .]
 .LP
-In addition it requires us to adopt Aristotelian essentialism:
+Here is where the referential opacity comes in,
+as something between the reference and the terms.
+We can not see that ball of matter,
+hence there is Venus and the Evening Star and the Morning Star,
+each on its own.
+Or as Kripke puts it:
+.QP
+.vs 12
+.ps 10
+Quine has also  urged that even if these objections have been answered,
+modal logic would clearly commit itself to the metaphysical jungle of Aristotelian essentialism.
+.[
+Kripke 2017
+.]
+.LP
+Quine himself claims that it requires us to adopt Aristotelian essentialism:
 .QP
 .vs 12
 .ps 10
@@ -110,3 +121,6 @@ Meaning is what essence becomes when it is divorced from the object of reference
 .[
 quine dogmas
 .]
+.LP
+Now I will discuss Kripke's criticism of Quine.
+Then further on I will a guided tour of that metaphysical jungle we might be forced to cope with.
