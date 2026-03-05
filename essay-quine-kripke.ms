@@ -124,7 +124,7 @@ quine dogmas
 .]
 .LP
 Which is exactly what Quine does not want.
-Now I will discuss Kripke's criticism of Quine.
+I will now discuss Kripke's criticism of Quine.
 Then further on I will offer you a guided tour into that metaphysical jungle we might be forced to cope with.
 .PP
 Kripke first introduces a distinction between
