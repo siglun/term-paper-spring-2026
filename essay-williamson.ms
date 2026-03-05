@@ -10,11 +10,11 @@ He gives a much more detailed treatment in his paper \[lq]Modal science\[rq].
 .[
 Williamson modal science
 .]
-Listen also his lecture from 2018.\**
-.FS
-The Royal Institute of Philosophy
-https://youtu.be/ZfaHf_TESEw
-.FE
+.\" Listen also his lecture from 2018.\**
+.\" FS
+.\" The Royal Institute of Philosophy
+.\" https://youtu.be/ZfaHf_TESEw
+.\" FE
 Tim Maudlin 
 shares Williamson's views on modality in the sciences,
 .[
