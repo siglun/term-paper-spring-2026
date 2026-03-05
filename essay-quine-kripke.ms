@@ -32,10 +32,8 @@ or
 related to whether we know something for sure or just believe it.
 Subjective modality seems to be a special case of epistemic modality related to the strengths of beliefs.
 .LP
-At its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet; \f[I]and then there were only eight\f[P] planets.\**
-Since that decision was controversial,
-some of us would perhaps still say
-.FS
+At its meeting 2006 the International Astronomical Union redefined Pluto from a planet to a dwarf planet.
+\f[I]And then they were only eight\f[P].
 As a matter of fact,
 Pluto is a more complex celestial body than most of us realise.
 It is a dwarf planet with five moons,
@@ -44,7 +42,7 @@ In a poor telescope it appears much larger than it is.
 .[
 Pluto Wikipedia
 .]
-.FE
+Since that decision was controversial, some of us would perhaps still say
 .IP
 (P1)	Possibly \[ulcorner]the number planets = 9\[urcorner]
 .LP
@@ -126,13 +124,12 @@ quine dogmas
 .]
 .LP
 Which is exactly what Quine does not want.
-.PP
 Now I will discuss Kripke's criticism of Quine.
-Then further on I will a guided tour of that metaphysical jungle we might be forced to cope with.
+Then further on I will offer you a guided tour into that metaphysical jungle we might be forced to cope with.
+.PP
 Kripke first introduces a distinction between
 .I pure
 and
 .I applied
 semantics.
-The two variants of semantics is very much like pure and applied mathematics or biology or wehatever.
-
+The two variants of semantics is very much like pure and applied mathematics or biology or whatever.
