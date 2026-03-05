@@ -14,16 +14,18 @@ All of this is about change.
 So is climate change (you realize that directly just by seeing the concept),
 species extinctions and decrease in biodiversity.
 The fall of republics, and the rise of empires.
+Revolutions.
+Innovations and invasions.
 You name it.
 There is a tradition of Western philosophy which studies processes.
-It goes from Heraclitus of Ephesus (born ca. 560 B.C.E.), to modern \f[I]process philosophy\fP via (for example) Georg Wilhelm Friedrich Hegel, Alfred North Whitehead, Martin Heidegger and Wilfred Sellars.
+It goes from Heraclitus of Ephesus (born ca. 560 B.C.E.), to modern \f[I]process philosophy\fP via (for example) Georg Wilhelm Friedrich Hegel, Karl Marx, Alfred North Whitehead, Martin Heidegger and Wilfred Sellars.
 .[
 Seibt Process Philosophy
 .]
 To tackle processes, we need to concentrate more on what is becoming than on what there is.
 .PP
 However,
-I leave process philosophy here.
+I leave most process philosophy here.
 In this note I concentrate on subset of change,
 namely those processes that are studied using methodologies from dynamical systems theory.\**
 .FS
@@ -40,9 +42,8 @@ maudlin lunch
 .]
 I accept that lunch,
 and pay with a few lines on causality and laws of nature.
-Then I discuss modality from the point of view of Quine and Kripke,
-after all:
-What changes has to contingent.
+Then I discuss modality from the points of view of Quine and Kripke:
+What changes has to be contingent.
 The change itself has to be possible.
 Here I discuss on what there need to be for us study the becoming,
 that is the dynamical systems.
@@ -55,6 +56,8 @@ Williamson modal science
 Williamson spaces possibility
 .]
 Here I concentrate at the analogy between orbits or trajectories and possible worlds semantics.
-I will give some examples from population biology and evolution on systems with interesting stability or dynamics.
-.PP
+I also analyse the state variables of dynamical systems in terms of ontological commitments and arguments for and agains essentialism.
+Even if science may need generous allocations of natural kinds and biological species,
+It is not obvious that it supports essentialism.
+Where applicable, I give examples from population biology and evolution with systems with interesting properties.
 After that it is time to draw some conclusions.

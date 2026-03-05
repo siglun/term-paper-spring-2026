@@ -1,11 +1,12 @@
 .LP
-.\" dropcap M 3 red4 R STIX 1n
-Modality is visible through auxiliary verbs like
-.IP a.
+.\" dropcap "We expect" 3 red4 R STIX 1n
+We expect or fear changes,
+and talk about the corresponding modalities  with adverbs and auxiliary verbs like
+.IP
 can, can not, could ...
-.IP b.
+.IP
 may, might, must ...
-.IP c.
+.IP
 able to,
 has to,
 needs to ...
@@ -17,15 +18,15 @@ Kment modality
 .]
 such as
 .IP
-.I "metaphysical"
+.I "Metaphysical"
 or
 .I "objective modality:"
 things that are necessary or possible in the real world.
 .IP
-.I "nomic modality:"
-a special case of metaphysical modality which is related to what necessities and contingencies is entailed from the laws of nature.
+.I "Nomic modality:"
+a special case of metaphysical modality which is related to necessities and contingencies that are entailed from the laws of nature.
 .IP
-.I epistemic
+.I Epistemic
 or
 .I "subjective modality:"
 related to whether we know something for sure or just believe it.
@@ -51,7 +52,9 @@ After all, even before 2006 we would say that the number of planets is \f[I]cont
 It could change.
 Astronomers could direct their telescopes towards far end of the solar system and possibly discover yet another.
 That had happened before.
-However, I am old enough to have learned in school that
+Note how close it is between metaphysical and epistemic modalithy.
+.PP
+I am old enough to have learned in school that
 .IP
 (P2)	the number planets = 9
 .LP
@@ -75,7 +78,7 @@ He points out that
 forall(x) forall(y) left [ (x = y) implies necessarily (x = y ) right ]
 .EN
 can only be true if $x = y$ is an essential property of $x$ and $y$.
-Eq. (1) is a truth because  $x = y$ is true \f[I]a priori\f[P],
+Eq. (1) is a truth when  $x = y$ is true \f[I]a priori\f[P],
 which in addition is the same as accepting \f[I]analyticity\f[P].
 Eq. (1) can be as false as proposition (P4).
 We will not see the reference $x$ and $y$ because of \f[I]referential opacity\f[P].
@@ -104,7 +107,7 @@ Or as Kripke puts it:
 .QP
 .vs 12
 .ps 10
-Quine has also  urged that even if these objections have been answered,
+Quine has also urged that even if these objections have been answered,
 modal logic would clearly commit itself to the metaphysical jungle of Aristotelian essentialism.
 .[
 Kripke 2017
@@ -122,5 +125,14 @@ Meaning is what essence becomes when it is divorced from the object of reference
 quine dogmas
 .]
 .LP
+Which is exactly what Quine does not want.
+.PP
 Now I will discuss Kripke's criticism of Quine.
 Then further on I will a guided tour of that metaphysical jungle we might be forced to cope with.
+Kripke first introduces a distinction between
+.I pure
+and
+.I applied
+semantics.
+The two variants of semantics is very much like pure and applied mathematics or biology or wehatever.
+
