@@ -11,7 +11,7 @@ OTHERS =  ../references.text ../tmac/dropcap.tmac \
 
 .ms.pdf:
 	pdfroff -U -R -sGtep   -ms -m pdfmark \
-	-m decorations -m dropcap -M ./tmac   \
+	-m decorations -m dropcap -M ../tmac   \
 	-k  ${PAPER} -Tps  parameters.ms  $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
@@ -29,7 +29,7 @@ initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
 	inspiration-chaos.ms \
 	inspiration-modal-operators.ms \
 	inspiration-grounding-commitment.ms \
-	lorenz-attractor.pdf logistic.pdf qr.eps back-matter.ms $(OTHERS)
+	lorenz-attractor.pdf logistic.pdf qr.eps ../back-matter.ms $(OTHERS)
 
 
 # Remember
