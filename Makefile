@@ -2,9 +2,9 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: initial-theses.pdf essay.pdf
+default: essay.pdf
 
-URI = https://github.com/siglun/term-paper-spring-2026/blob/main/initial-theses.pdf
+URI = https://github.com/siglun/term-paper-spring-2026/blob/main/essay.pdf
 PAPER = -dpaper=a4 -P-pa4
 OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic parameters.ms back-matter.ms
@@ -23,19 +23,10 @@ qr.eps:
 clean:
 	rm -f *~ *.eps
 
-initial-theses.pdf: initial-theses.ms inspiration-causality.ms  \
-	inspiration-philosophical-problems.ms inspiration-williamson.ms \
-	inspiration-williamson-dynamics.ms \
-	inspiration-chaos.ms \
-	inspiration-modal-operators.ms \
-	inspiration-grounding-commitment.ms \
-	lorenz-attractor.pdf logistic.pdf qr.eps back-matter.ms $(OTHERS)
-
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
-essay.pdf: essay.ms essay-intro.ms essay-williamson.ms \
-	essay-quine-kripke.ms  essay-kripkensteinian-paraphrase.ms  $(OTHERS)
+essay.pdf: essay.ms essay-intro.ms  $(OTHERS)
 
 # Remember
 #
