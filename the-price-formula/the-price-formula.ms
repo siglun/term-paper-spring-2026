@@ -25,3 +25,15 @@ The frequency of $A$ in $P sub 1$ is
 .EQ (2)
 Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
 .EN
+where we take the sums over all members of population $P sub 1$.
+Now, turn to the frequency of $A$ in the offspring population $P sub 2$.
+That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
+but also the number of $A$ genes $g prime sub i$.
+Then the frequency of $A$ in individual gametes produced by $i$ is
+.EQ (3)
+q prime sub i ^=^ left { lpile {
+{ {g prime sub i } / { z sub i n sub G } }
+above 
+{ q sub i } }
+~~ lpile { { roman if ^ z sub i != 0 } above {roman if ^ z sub i = 0 } } 
+.EN
