@@ -16,6 +16,12 @@ In this case his equation looks like this:
 Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
 .EN
  Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$. $z bar$ is the mean frequency of $A$ over all the $N$ individuals in the population.
- .PP
- Price considers two populations $P sub 1$ and $P sub 2$
- Let $g sub i$ be the dose of $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species. Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
+.PP
+Price considers two populations $P sub 1$ and $P sub 2$,
+where the former represents the parents and the latter its offspring.
+We first consider the  $P sub 1$.
+Let $g sub i$ be the dose of $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species. Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
+The frequency of $A$ in $P sub 1$ is
+.EQ (2)
+Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
+.EN
