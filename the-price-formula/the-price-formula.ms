@@ -1,6 +1,21 @@
 .TL
-Modality and dynamical systems theory
+On the Price Formula and its derivation
 .AU
 Sigfrid Lundberg
 .\"sigfrid@sigfrid-lundberg.se
 .LP
+George R. Price was an American population geneticist (and before that he had a career as a physical chemist and science journalism).
+One of his main contribution to population genetics is his alternative formulation of \[oq]mathematical treatment of selection in general\[cq].
+.[
+Price selection covariance
+.]
+.PP
+We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency of $A$ from one generation to the next, $Delta Q$ .
+In this case his equation looks like this:
+.EQ (1)
+Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
+.EN
+ Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$. $z bar$ is the mean frequency of $A$ over all the $N$ individuals in the population.
+ .PP
+ Price considers two populations $P sub 1$ and $P sub 2$
+ Let $g sub i$ be the dose of $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species. Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
