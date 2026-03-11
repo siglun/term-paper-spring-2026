@@ -15,7 +15,9 @@ In this case his equation looks like this:
 .EQ (1)
 Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
 .EN
- Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$. $z bar$ is the mean frequency of $A$ over all the $N$ individuals in the population.
+ Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$. $z bar$ is the arithmetic mean of frequencies of $A$ over all the $N$
+.I individuals
+in the population.
 .PP
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter its offspring.
@@ -29,11 +31,32 @@ where we take the sums over all members of population $P sub 1$.
 Now, turn to the frequency of $A$ in the offspring population $P sub 2$.
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
 but also the number of $A$ genes $g prime sub i$.
-Then the frequency of $A$ in individual gametes produced by $i$ is
+The frequency of $A$ in individual gametes produced by $i$ is defined by
 .EQ (3)
 q prime sub i ^=^ left { lpile {
 { {g prime sub i } / { z sub i n sub G } }
 above 
 { q sub i } }
 ~~ lpile { { roman if ^ z sub i != 0 } above {roman if ^ z sub i = 0 } } 
+.EN
+Let $Delta q sub i = q prime sub i - q sub i$ for short.
+Also, recall that the population covariance between two stochastic variables, lets call them $z$ and $q$, are defined as
+.EQ
+roman cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar q bar
+.EN
+Let $Q sub 2$ be the frequency of $A$ in the offspring population $P sub 2$.
+Then
+.EQ (4a)
+Q sub 2 mark = { sum from i=1 to N g prime sub i } over {sum from i=1 to N z sub i n sub G } = { sum from i=1 to N z sub i n sub G q prime sub i } over { sum from i=1 to N z sub i n sub G } = { sum from i=1 to N z sub i q prime sub i } over { N z bar }
+.EN
+.EQ (4b)
+lineup = { sum from i=1 to N z sub i q sub i } over { N z bar } + { sum from i=1 to N z sub i Delta q sub i } over { N z bar } = z bar q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
+.EN
+.EQ (4c)
+lineup = q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
+.EN
+Now we are approaching the end of the derivation.
+Subtract Equation (2) from (4c)
+.EQ (5)
+Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=0 to N z sub i Delta q sub i } over { N z bar }
 .EN
