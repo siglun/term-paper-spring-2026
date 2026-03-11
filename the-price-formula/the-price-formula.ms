@@ -18,7 +18,7 @@ Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
  Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$.
 $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes and frequencies of $A$ over all the $N$
 .I individuals
-in the population.
+in the population, respectively.
 .PP
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter its offspring.
