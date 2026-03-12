@@ -1,8 +1,3 @@
-.TL
-On the Price Formula and its derivation
-.AU
-Sigfrid Lundberg
-.\"sigfrid@sigfrid-lundberg.se
 .LP
 George R. Price was an American population geneticist (and before that he had a career as a physical chemist and science journalism).
 One of his main contribution to population genetics is his alternative formulation of \[oq]mathematical treatment of selection in general\[cq].

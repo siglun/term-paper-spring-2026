@@ -1,9 +1,11 @@
 .TL
-Is the probability that you die at an old age really a propensity?
+On probabilities, propensities and natural selection
 .AU
 Sigfrid Lundberg
-.\"sigfrid@sigfrid-lundberg.se
 .so essay-intro.ms
+.SH
+On the Price Formula and its derivation
+.so the-price-formula/the-price-formula.ms
 .[
 $LIST$
 .]

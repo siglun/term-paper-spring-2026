@@ -17,6 +17,8 @@
 .ds MO \E*[MONTH\n[mo]]
 .\"ds DY \*[MO] \n[dy], \n[year]
 .ds DY \n[dy] \*[MO] \n[year]
+.char \[vC] \[u010C]
+.char \[vc] \[u010D]
 .EQ
 define diff X { roman d $1 } over { roman d $2 } X
 delim $$
