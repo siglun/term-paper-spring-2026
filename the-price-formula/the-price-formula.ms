@@ -23,7 +23,8 @@ in the population, respectively.
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter its offspring.
 We first consider the  $P sub 1$.
-Let $g sub i$ be the dose of $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species. Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
+Let $g sub i$ be the dose of the gene $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species.
+Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
 The frequency of $A$ in $P sub 1$ is
 .EQ (2)
 Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
@@ -32,7 +33,9 @@ where we take the sums over all members of population $P sub 1$.
 Now, turn to the frequency of $A$ in the offspring population $P sub 2$.
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
 but also the number of $A$ genes $g prime sub i$.
-The frequency of $A$ in individual gametes produced by $i$ is defined by
+We also have to take into account the gametic ploidy $n sub G$.
+For an diploid species the diploidy is $n sub z = 1$ (see above) and consequentlyt the gametic is $n sub G = 1$.
+The frequency of $A$ in individual gametes produced by individual $i$ is then defined by
 .EQ (3)
 q prime sub i ^=^ left { lpile {
 { {g prime sub i } / { z sub i n sub G } }
