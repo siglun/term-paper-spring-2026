@@ -5,6 +5,8 @@ Sigfrid Lundberg
 .so essay-intro.ms
 .SH
 On the Price Formula and its derivation
+.LP
+\f[B]Will be augumented with the conventional frequency interpretation\f[P]
 .so the-price-formula/the-price-formula.ms
 .[
 $LIST$
