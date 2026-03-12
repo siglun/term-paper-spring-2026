@@ -23,7 +23,8 @@ in the population, respectively.
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter its offspring.
 We first consider the  $P sub 1$.
-Let $g sub i$ be the dose of the gene $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species. Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
+Let $g sub i$ be the dose of the gene $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species.
+Further, let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
 The frequency of $A$ in $P sub 1$ is
 .EQ (2)
 Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
