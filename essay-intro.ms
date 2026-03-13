@@ -77,6 +77,7 @@ An ESS is characterised by that when a strategy is adopted by a majority of a po
 Here we see how the properties of few individuals are having crucial importance of the fate of the many.
 Or in terms of a dynamic system,
 is the equlibrium state of the system invasible or susceptibility to change.
+Here is where dynamical systems theory meets modalities such as possibility and necessity.
 .PP
 The frequency theory is looking from some point backwards along a lineage.
 What worked in the past might is inductive knowledge.
