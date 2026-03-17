@@ -12,9 +12,9 @@ the most important one is, as pointed out by Bertrand Russell in a lecture 1929
 .vs 12
 .ps 10
 Probability is the most important concept in modern science, especially as nobody has the slightest notion what it means.
-.[
+.[ (cited from\ 
 probability alan 2023
-.]
+.])
 .LP
 Little has changed during the century that has passed since Russell held that lecture.
 We have now sofisticated theories on probability,
@@ -28,10 +28,10 @@ among plants and animals and how they evolve.
 .PP
 As a gambit, I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
 Poppers first argument is that his theory works with individuals.
-This suits my purposes.
 .[
 Popper propensity 1959 
 .]
+This suits my purposes.
 Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
 Just for that reason we have to flip the coin and look upon how individual properties manifest themelves at the level of the population.
 For instance:

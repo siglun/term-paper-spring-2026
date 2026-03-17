@@ -1,5 +1,5 @@
 .LP
-George R. Price was an American population geneticist (and before that he had a career as a physical chemist and in science journalism).
+George R. Price was an American population geneticist (and before that he had a career as a physical chemist and as science journalist).
 One of his main contribution to population genetics is his alternative formulation of \[oq]mathematical treatment of selection in general\[cq].
 .[
 Price selection covariance
