@@ -27,6 +27,7 @@ squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
 essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
+	essay-historicism.ms  essay-williamson.ms \
 	the-price-formula/the-price-formula.ms $(OTHERS)
 
 # Remember
