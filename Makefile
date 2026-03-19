@@ -26,7 +26,8 @@ clean:
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
-essay.pdf: essay.ms essay-intro.ms the-price-formula/the-price-formula.ms $(OTHERS)
+essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
+	the-price-formula/the-price-formula.ms $(OTHERS)
 
 # Remember
 #

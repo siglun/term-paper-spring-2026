@@ -27,42 +27,4 @@ My goal is to elucidate what probability means in Nature,
 among plants and animals and how they evolve.
 .PP
 This contribution has the following structure:
-.PP
-Then I discuss the ways population genetics models natural selection,
-starting with George
-.[\ 
-#
-price selection covariance
-.]\ 
-covariance models for natural selection.
-It is unique in that it does not make any assumptions about probabilities for any events.
-I start with Price's model and its derivation and from that I derive the more traditional models used by, for instance, Sewall Wright and Ronald Fisher.
-In doing that I am able to demonstrate that the usage of the word probability seem more like a frequency interpretation.
-.PP
-This exercise leads me to a set of dynamical systems modelling the change in gene frequencies between generations.
-I discuss them briefly from the point of the modal spaces by.
-.[\
-#
-Williamson spaces possibility
-.]
-These systems have many properties that are important when some state variable has low values.
-That is, when individual propensities are manifesting themselves.
-In evoluation we can see this in evolution in the theory of Evolutionarily Stable Strategies (ESS).
-In infectious diseases we have the problem of when and if a few infected individuals can cause an epidemic.
-An ESS is characterised by that when a strategy is adopted by a majority of a population no rare mutant is able to invade that population.
-Here we see how the properties of few individuals are having crucial importance of the fate of the many.
-Or in terms of a dynamic system,
-is the equlibrium state of the system invasible or susceptibility to change.
-Here is where dynamical systems theory meets modalities such as possibility and necessity.
-.PP
-The frequency theory is looking from some point backwards along a lineage.
-What worked in the past might be seen as inductive knowledge.
-The propensity theory is looking forward from the same point.
-The future is always an experiment,
-a test that can falsify that knowledge in a changing environment.
-I have the impression that Karl
-.[\ 
-Popper magic
-.]\ 
-sees his theory this way,
-that his view of probabilities should be valid at a metaphysical level.
+
