@@ -1,9 +1,4 @@
-.ID
-How to do better than the \f[I]persistence forcast\f[P]
-Blind variation and selective retention (Campbell)
-The poverty of historicism.
-.DE
-.PP
+.LP
 The frequency theory is looking from some point backwards along a lineage.
 What worked in the past might be seen as inductive knowledge.
 The propensity theory is looking forward from the same point.

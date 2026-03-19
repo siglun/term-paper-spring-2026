@@ -1,4 +1,4 @@
-.PP
+.LP
 As a gambit, I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
 Poppers first argument is that his theory works with individuals.
 .[
@@ -19,4 +19,3 @@ This mirrors his falsification theory.
 .[
 Popper magic 1957
 .]
-

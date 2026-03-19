@@ -443,32 +443,26 @@
 %I Thales
 %C Stockholm
 
-
-%A  Keck, François
-%A  Peller, Tianna
-%A  Alther, Roman
-%A  Barouillet, Cécilia
-%A  Blackman, Rosetta
-%A  Capo, Eric
-%A  Chonova, Teofana
-%A  Couton, Marjorie
-%A  Fehlinger, Lena
-%A  Kirschner, Dominik
-%A  Knüsel, Mara
-%A  Muneret, Lucile
-%A  Oester, Rebecca
-%A  Tapolczai, Kálmán
-%A  Zhang, Heng
-%A  Altermatt, Florian
-%D  2025
-%Z DA  2025/03/26
-%T  The global human impact on biodiversity
-%J  Nature
-%X  Human activities drive a wide range of environmental pressures, including habitat change, pollution and climate change, resulting in unprecedented effects on biodiversity1,2. However, despite decades of research, generalizations on the dimensions and extent of human impacts on biodiversity remain ambiguous. Mixed views persist on the trajectory of biodiversity at the local scale3 and even more so on the biotic homogenization of biodiversity across space4,5. We compiled 2,133 publications covering 97,783 impacted and reference sites, creating an unparallelled dataset of 3,667 independent comparisons of biodiversity impacts across all main organismal groups, habitats and the five most predominant human pressures1,6. For all comparisons, we quantified three key measures of biodiversity to assess how these human pressures drive homogenization and shifts in composition of biological communities across space and changes in local diversity, respectively. We show that human pressures distinctly shift community composition and decrease local diversity across terrestrial, freshwater and marine ecosystems. Yet, contrary to long-standing expectations, there is no clear general homogenization of communities. Critically, the direction and magnitude of biodiversity changes vary across pressures, organisms and scales at which they are studied. Our exhaustive global analysis reveals the general impact and key mediating factors of human pressures on biodiversity and can benchmark conservation strategies.
-%Z SN  1476-4687QAA
+%A Keck, François
+%A Peller, Tianna
+%A Alther, Roman
+%A Barouillet, Cécilia
+%A Blackman, Rosetta
+%A Capo, Eric
+%A Chonova, Teofana
+%A Couton, Marjorie
+%A Fehlinger, Lena
+%A Kirschner, Dominik
+%A Knüsel, Mara
+%A Muneret, Lucile
+%A Oester, Rebecca
+%A Tapolczai, Kálmán
+%A Zhang, Heng
+%A Altermatt, Florian
+%D 2025
+%T The global human impact on biodiversity
+%J Nature
 %O https://doi.org/10.1038/s41586-025-08752-2
-%Z DO  10.1038/s41586-025-08752-2
-%Z ID  Keck2025
 
 
 %T The Logical Status of Fictional Discourse
@@ -1509,3 +1503,10 @@
 %A \[vC]ulina, Boris
 %B Arxiv
 %O https://doi.org/10.48550/arXiv.2310.00002
+
+%T An Unsolved Problem of Biology
+%A Medawar, Peter B.
+%B The Uniqueness of the Individual
+%D 1957
+%I Routledge
+

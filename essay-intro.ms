@@ -21,10 +21,6 @@ We have now sofisticated theories on probability,
 statistical inference and big data.
 I assume that all of these mentions Kolmogorov's axioms,
 flipping coins and true dices but none of them disputes Russell's contention.
-.PP
 Neither will I.
 My goal is to elucidate what probability means in Nature,
 among plants and animals and how they evolve.
-.PP
-This contribution has the following structure:
-
