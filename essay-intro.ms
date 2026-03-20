@@ -53,7 +53,7 @@ Popper propensity
 make further distinctions between two objective types of probabilities,
 namely frequency and propensity interpretations of probability.
 The frequency interpretation claims that a probability can only be understood,
-and be calculated,
+and be estimated,
 through a series of estimates.
 The adherent of the propensity theory does not dispute that a series of measurements is needed,
 but regard that as an epistemic problem.
