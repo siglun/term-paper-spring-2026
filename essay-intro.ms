@@ -24,3 +24,19 @@ flipping coins and true dices but none of them disputes Russell's contention.
 Neither will I.
 My goal is to elucidate what probability means in Nature,
 among plants and animals and how they evolve.
+.PP
+We normally make a distinction between
+.I subjective
+and
+.I objective
+probabilities.
+.[
+Popper magic knowledge probability
+.]
+These are the two interpretations of probabilities.
+The subjective probability refers to an epistemic aspect of an event,
+for instance our confidence that a certain proposition is true.
+Objective probabilities are those that exist in Nature no matter what, for instance the mutation rate for a certain gene is in the order of magnitude $10 sup -8$ per locus per generation and it has been like that for long time.
+.[
+mutation rate
+.]

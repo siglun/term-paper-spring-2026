@@ -1,5 +1,5 @@
 .TL
-On probabilities, propensities and natural selection
+Probabilities and natural selection
 .AU
 Sigfrid Lundberg
 .so essay-intro.ms
@@ -9,8 +9,11 @@ Popper and the propensity interpretation of probability
 .SH
 Natural Selection and our understanding of probability
 .ID
-From Darwin and Frater Gregor Mendel
+From Mr. Darwin and Frater Gregor Mendel
 to William Hamilton and George Price
+Deriving Fisher's and Wright's equations from Price's
+Mendel's laws and Hardy-Weinberg enters frequency interpretation into the dynamics
+Frequency interpretation is epistemology, not metaphysics
 .DE
 .so the-price-formula/the-price-formula.ms
 .SH
