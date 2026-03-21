@@ -5,7 +5,7 @@
 .nr PO 2.5c
 .nr PS 12
 .nr VS 14
-.nr PI 3n
+.nr PI 4n
 .nr QI 5n
 .nr PD 0.3v
 .nr step 0 1
