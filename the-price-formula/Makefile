@@ -2,7 +2,7 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: the-price-formula.pdf
+default: the-price-formula.pdf evolutionarily-stable-strategy.pdf
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/
 PAPER = -dpaper=a4 -P-pa4
@@ -24,6 +24,8 @@ clean:
 	rm -f *~ *.eps
 
 the-price-formula.pdf: the-price-formula.ms  $(OTHERS)
+evolutionarily-stable-strategy.pdf: evolutionarily-stable-strategy.ms $(OTHERS)
+
 
 # Remember
 #
