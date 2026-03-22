@@ -8,6 +8,7 @@ Williamson spaces possibility
 Stability of biological system dependent on what happens when when some state variables has low values.
 This is, when individual propensities are manifesting themselves.
 In evoluation we can see this in evolution in the theory of Evolutionarily Stable Strategies (ESS).
+.PP
 In infectious diseases we have the problem of when and if a few infected individuals can cause an epidemic.
 An ESS is characterised by that when a strategy is adopted by a majority of a population no rare mutant is able to invade that population.
 Here we see how the properties of few individuals are having crucial importance of the fate of the many.
