@@ -3,6 +3,8 @@
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
 default: essay.pdf
+	cd the-price-formula && $(MAKE)
+	cd too-much-modality && $(MAKE)
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/essay.pdf
 PAPER = -dpaper=a4 -P-pa4

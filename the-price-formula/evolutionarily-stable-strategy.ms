@@ -3,15 +3,17 @@ Causation is causal dependence with transitivity.
 .[\& (
 Lewis causation
 .], p. 563)
-Assume that we have a population growing according to some law and that its population grows from $N sub t$ one year to $N sub t+x$ the year after.
-Further,
-let $AA$ the dominating genotype in the population, its wild type.
-This $A$ gene manifests itself on some trait called $x$.
-In particular, let the $AA$ have the specific value of $x = x hat$,
-and that the growth rate is affected by the value of $x$
+Assume that we have a population growing according to some law $f$ and that its population changes from $N sub t$ one year to $N sub t+x$ the year after.
 .EQ
 N sub t+x = N sub t left ( 1 + f (x , N sub t ) right )
 .EN
+Further,
+let $AA$ the dominating genotype in the population,
+i.e. its wild type.
+This $A$ gene manifests itself on some trait called $x$.
+In particular, let the $AA$ have the specific value of $x = x hat$,
+and that the growth rate is affected by the value of $x$
+.PP
 Consider the following series of events:
 .IP \f[B]M\f[P]
 \f[I]A rare mutation occurs\f[P]
