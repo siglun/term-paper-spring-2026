@@ -5,7 +5,7 @@ Lewis causation
 .], p. 563)
 Assume that we have a population growing according to some law $f$ and that its population changes from $N sub t$ one year to $N sub t+x$ the year after.
 .EQ
-N sub t+x = N sub t left ( 1 + f (x , N sub t ) right )
+N sub t+1 = N sub t left ( 1 + f (x , N sub t ) right )
 .EN
 Further,
 let $AA$ the dominating genotype in the population,
