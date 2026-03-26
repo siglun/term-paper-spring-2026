@@ -4,6 +4,10 @@ use strict;
 
 use Data::Dumper qw(Dumper);
 
+# parses and prints the data from 
+# https://www.mortality.org/File/GetDocument/hmd.v6/SWE/STATS/fltper_1x5.txt
+# https://www.mortality.org/File/GetDocument/hmd.v6/SWE/STATS/mltcoh_1x5.txt
+
 my $selection = '^(1751-1754)|(1800-1804)|(1900-1904)|(2000-2004).*$';
 my %array;
 
