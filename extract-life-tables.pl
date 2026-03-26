@@ -2,7 +2,9 @@
 
 use strict;
 
-my $selection = '^(1751-1754)|(1800-1804).*$';
+use Data::Dumper qw(Dumper);
+
+my $selection = '^(1751-1754)|(1800-1804)|(1900-1904)|(2000-2004).*$';
 my %array;
 
 my $time = "1751-1754";
@@ -14,35 +16,29 @@ while(my $in = <>) {
     
     if($in =~ /$selection/) {
 	my @data = split(/\s+/,$in,10);
-#	print "Data 0 $data[ 0]\n";
-#	print "Time $time $data[ 0]\n";
-	if($data[0] !~  /$time/ && @data_list) {
-	    print "in if\n";
-	    $array{$time} = \@data_list;
-	    @data_list = ();
-	    print "list $data_list[0]\n";
-	    $line = "";
-	} elsif ($data[0] =~ /$time/) { 
-	    print "in else\n";
+	if($data[0] !~  /$time/) {
 	    $time = $data[0];
-	    print "parsed " . $time . " $data[1] " . "$data[6]\n";
-	    push(@data_list,$data[6]);
 	}
+	$array{$time}{$data[1]} = $data[5];
     }
-
-
 }
 
+my @period = sort keys %array;
 
-my @keys = keys %array;
+my $head = "# Age\t";
+my @body = ();
 
-foreach( my $key = shift(@keys)) {
-    print "shift keys\n";
-    foreach( my @values = @{$array{$key}} ) {
-	print "values\n";
-	for(my $i=0; $i <= $#values; $i++) {
-	    print "$i\t$values[$i]\n";
-	}
-    }
-	
+for(my $i=0; $i <= $#period; $i++) {    
+    $head .= $period[$i] . "\t";
 }
+
+print "$head\n";
+for(my $i=0; $i < 110; $i++) {
+    print "$i\t";
+    for(my $j=0; $j <= $#period; $j++) {
+	my $key = $period[$j];
+	print $array{$key}{$i} . "\t";
+    }
+    print "\n";
+}
+
