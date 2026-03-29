@@ -1,4 +1,39 @@
 .LP
+.PP
+We normally make a distinction between
+.I subjective
+and
+.I objective
+probabilities.
+.[
+Popper magic knowledge probability
+.]
+These are the two interpretations of probabilities.
+The subjective probability refers to an epistemic aspect of an event,
+for instance our confidence that a certain proposition is true.
+Objective probabilities are those that exist in Nature no matter what,
+that is,
+and we make a metaphysical claim when using that concept. 
+For instance the mutation rate for a certain gene is in the order of magnitude $10 sup -8$ per locus per generation and it has been like that for long time.
+.[
+mutation rate
+.]
+.PP
+However,
+\ 
+.[\ 
+#
+Popper propensity
+.]\ 
+make further distinctions between two objective types of probabilities,
+namely frequency and propensity interpretations of probability.
+The frequency interpretation claims that a probability can only be understood,
+and be estimated,
+through a series of estimates.
+The adherent of the propensity theory does not dispute that a series of measurements is needed,
+but regard that as an epistemic problem.
+The propensity is to be understood as a probability for a single event.
+.PP
 About half of Karl R. 
 .[\ 
 #

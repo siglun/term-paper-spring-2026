@@ -5,6 +5,7 @@ coord x 0,110 y 1, 100000 log y
 frame invis ht 9 wid 11 left solid color "black" bot solid color "black"
 label bot "age" down 1
 label left "survivors" left 1.2
+# Age   1751-1754       1800-1804       1900-1904       2000-2004 
 draw a solid color "red"
 draw b solid color "green"
 draw c solid color "blue"

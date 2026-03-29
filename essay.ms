@@ -7,6 +7,13 @@ Sigfrid Lundberg
 Popper and the propensity interpretation of probability
 .so essay-popper.ms
 .SH
+Propensities can be a trait which is subject to evolution
+.ID
+Survival is related to traditional fitness
+still it is a trait that evolves in relation to reproduction, parental care etc
+.DE
+.so essay-medawar.ms
+.SH
 Natural Selection and our understanding of probability
 .ID
 From Mr. Darwin and Frater Gregor Mendel
@@ -27,13 +34,6 @@ We are not guaranteed that the propagation of a trate can be
 summarized in a single statistic
 .DE
 .so essay-williamson.ms
-.SH
-Propensities can be a trait which is subject to evolution
-.ID
-Survival is related to traditional fitness
-still it is a trait that evolves in relation to reproduction, parental care etc
-.DE
-.so essay-medawar.ms
 .SH
 Can vi overcome the persistence forcast\[em]or how poor is historicism?
 .ID
