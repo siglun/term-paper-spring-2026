@@ -20,7 +20,8 @@ Little has changed during the century that has passed since Russell held that le
 We have now sofisticated theories on probability,
 statistical inference and big data.
 I assume that all of these mentions Kolmogorov's axioms,
-flipping coins and true dices but none of them disputes Russell's contention.
 Neither will I.
-My goal is to elucidate what probability means in Nature,
-among plants and animals and how they evolve.
+.PP
+My goal is to elucidate what probability means in Nature.
+In particular I will study the consequences of how animals and plants a evolve,
+on what interpretation of probability is needed in biology.

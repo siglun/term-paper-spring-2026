@@ -10,3 +10,7 @@ Popper magic
 .]\ 
 sees his theory this way,
 that his view of probabilities should be valid at a metaphysical level.
+Origin of mind.
+.[
+popper 1978 natural selection
+.]
