@@ -20,6 +20,9 @@ Little has changed during the century that has passed since Russell held that le
 We have now sofisticated theories on probability,
 statistical inference and big data.
 I assume that all of these mentions Kolmogorov's axioms,
+flipping coins
+and fair dices.
+However, I do not think any of these theories dispute Russell.
 Neither will I.
 .PP
 My goal is to elucidate what probability means in Nature.
