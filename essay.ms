@@ -3,8 +3,6 @@ Probabilities and natural selection
 .AU
 Sigfrid Lundberg
 .so essay-intro.ms
-.SH
-Popper and the propensity interpretation of probability
 .so essay-popper.ms
 .SH
 Propensities can be a trait which is subject to evolution

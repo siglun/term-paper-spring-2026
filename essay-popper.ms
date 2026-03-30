@@ -1,4 +1,3 @@
-.LP
 .PP
 We normally make a distinction between
 .I subjective
@@ -30,9 +29,8 @@ namely frequency and propensity interpretations of probability.
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
 through a series of estimates.
-The adherent of the propensity theory does not dispute that a series of measurements is needed,
-but regard that as an epistemic problem.
-The propensity is to be understood as a probability for a single event.
+The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
+That as an epistemic problem.
 .PP
 About half of Karl R. 
 .[\ 
@@ -40,6 +38,7 @@ About half of Karl R.
 Popper discovery
 .]\ 
 is about probability rather than his more general theory science, hypotheses, falsification and demarcation criteria.
+The propensity is to be understood as a probability for a single event.
 That is to a large extent due to his research into the philosophy of quantum mechanics,
 where his interpretation required that probabilities could be assigned to single events.
 Poppers first argument is that his theory works with individuals.
@@ -56,10 +55,3 @@ An individual has a gene,
 a population has a gene frequency.
 Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
-.PP
-A second aspect of how Popper presents his theory is that he sees the frequency interpretation as an example how we get knowledge through induction,
-whereas his propensity theory is forward looking where a setup is evaluated in an experiment.
-This mirrors his falsification theory.
-.[
-Popper magic 1957
-.]

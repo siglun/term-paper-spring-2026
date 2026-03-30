@@ -2,6 +2,10 @@
 .dropcap Much 3 red4 R STIX 1n
 of what we notice around us are not things that are,
 but rather changes in what there is.
+Dynamicity is largely neglected by mainstream metaphysics.
+.[
+Johanna Seibt Process Philosophy
+.]
 All changes occur with some probability,
 or so we believe.
 In this note I try to describe what kinds of probabilities that lie behind processes in nature.
@@ -24,7 +28,8 @@ flipping coins
 and fair dices.
 However, I do not think any of these theories dispute Russell.
 Neither will I.
-.PP
+.if
 My goal is to elucidate what probability means in Nature.
 In particular I will study the consequences of how animals and plants a evolve,
 on what interpretation of probability is needed in biology.
+..
