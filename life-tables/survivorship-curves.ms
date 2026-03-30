@@ -1,5 +1,5 @@
 .G1
-size = 1.5
+size = 1.8
 graph Females
 coord x 0,110 y 1, 100000 log y
 #coord x 0,110 y 1, 100000
@@ -25,4 +25,7 @@ copy "life-tables/life-tables-females.text" thru {
         next d at $1, $5
 	}
 }
+"2000\[en]2004" at (103,10000)
+"1900\[en]1904" at (110,5)
+"1800\[en]1804" at (90,2)
 .G2
