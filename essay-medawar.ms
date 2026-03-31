@@ -1,4 +1,8 @@
-.LP
+.PP
+Propensities can be a trait which is subject to evolution
+Survival is related to traditional fitness
+still it is a trait that evolves in relation to reproduction, parental care etc
+.PP
 I begin while discussing an important example of an individual propensity,
 namely the demographic survivorship curve.
 Peter

@@ -47,8 +47,9 @@ Poppers first argument is that his theory works with individuals.
 .[
 Popper propensity 1959 
 .]
-.PP
-As a gambit, I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
+.LP
+.dropcap "As a gambit," 3 red4 R STIX -1n 1.5n
+I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
 This suits my purposes.
 Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
 Just for that reason we have to flip the coin and look upon how individual properties manifest themelves at the level of the population.

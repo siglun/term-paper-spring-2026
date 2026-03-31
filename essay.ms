@@ -4,12 +4,6 @@ Probabilities and natural selection
 Sigfrid Lundberg
 .so essay-intro.ms
 .so essay-popper.ms
-.SH
-Propensities can be a trait which is subject to evolution
-.ID
-Survival is related to traditional fitness
-still it is a trait that evolves in relation to reproduction, parental care etc
-.DE
 .so essay-medawar.ms
 .SH
 Natural Selection and our understanding of probability
