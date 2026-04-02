@@ -48,7 +48,7 @@ Poppers first argument is that his theory works with individuals.
 Popper propensity 1959 
 .]
 .LP
-.dropcap "As a gambit," 3 red4 R STIX -1n 1.5n
+.dropcap "As a gambit," 3 red4 R STIX -0.5n 1.0n
 I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
 This suits my purposes.
 Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
@@ -58,3 +58,47 @@ An individual has a gene,
 a population has a gene frequency.
 Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
+.PP
+Popper handels probability somewhat different from how most textbooks do it.
+First,
+he rejects explicitly the notion that probabilities exist outside a context.
+That is,
+all probabilities are conditional on something.
+This is not incompatible with mainstream probability theory,
+he is just adding another requirement.
+Second,
+he is implicitly requiring that any probability is given an interpretation,
+and by that he means that statements like
+.IP
+\[oq]The probability of $a$ given $b$ is equal to $r$ (where $ r\[mo]^\[u211D]$)\[cq]
+.LP
+implies, for example, that $a$ is a hypothesis which is studied in a experimental design $b$.
+In his notation this is written
+.EQ
+p(a,b)=r
+.EN
+In more conventional notation this is written
+.EQ
+P( a | b ) = { P(a inter b ) } over P(b)
+.EN
+using set theoretical notation rather than logical.
+In the following I will use logical notation similar to the one used by Popper.
+.PP
+Popper has defined his own calculus of probability containing three theorems.
+They are:
+The addition theorem,
+for calculating the probability of $a or b$
+.EQ (1)
+p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
+.EN
+This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
+The multiplication theorem
+.EQ (2)
+p(a and b, c) = p(a , b and c) p(b,c)
+.EN
+Finally,
+let $a bar$ be the complement of $a$.
+The complement of a set is everything which is not in that set.
+.EQ (3)
+p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
+.EN
