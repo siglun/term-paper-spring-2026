@@ -3,6 +3,7 @@ Probabilities and natural selection
 .AU
 Sigfrid Lundberg
 .so essay-intro.ms
+.\" so dna/adenine.chem
 .so essay-popper.ms
 .so essay-medawar.ms
 .SH

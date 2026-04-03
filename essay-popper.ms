@@ -82,7 +82,8 @@ In more conventional notation this is written
 P( a | b ) = { P(a inter b ) } over P(b)
 .EN
 using set theoretical notation rather than logical.
-In the following I will use logical notation similar to the one used by Popper.
+The textbook notation $P( a | b )$ is what Popper calls $r$.
+In this text I will use Popper's notation and logic rather than set theory.
 .PP
 Popper has defined his own calculus of probability containing three theorems.
 They are:
@@ -102,3 +103,5 @@ The complement of a set is everything which is not in that set.
 .EQ (3)
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
+Popper admits himself that Eq. (3) is somewhat unusual, but this is because if $c$ is true, a tautology, than its complement $c bar$ has to be a contradiction.
+.separator
