@@ -1,0 +1,70 @@
+.cstart
+
+ADENINE: [
+RA1:	ring6 pointing up double 1,2 3,4 5,6 put N at 2 put N at 4
+	bond up from RA1.V1
+	NH2
+RA2:	ring5 pointing left with .V4 at RA1.V5 put N at 5 put N at 2 double 1,2
+	bond -160 from RA2.V5
+	H
+
+]
+
+TOP: box invis ht 0.2 width 1.2 with .w at ADENINE.e
+line -> 0.8  with .n at TOP.nw + (0.1,0)
+line <- 0.8  with .s at TOP.sw + (0.1,0)
+
+LEFT: box invis width 0.2 height 1.0 with .n at ADENINE.s
+
+CYTOCINE: [
+RC1:	ring6 pointing up double 1,2 5,6 put N at 2 put N at 4
+	bond up at RC1.V1
+	NH2
+	double bond 120 at RC1.V3
+	O
+	bond down at RC1.V4
+	H
+] with .w at TOP.e
+
+GUANINE: [
+
+RG1:	ring6 pointing up double 3,4 5,6 put N at 2 put N at 4
+	double bond up from RG1.V1
+	O
+	bond 60 from RG1.V2
+	H
+	bond 120 from RG1.V3
+	NH2
+RG2:	ring5 pointing left with .V4 at RG1.V5 put N at 5 put N at 2 double 1,2
+	bond -160 from RG2.V5
+	H
+] with .n at LEFT.s
+
+line down -> 0.6  with .n at LEFT.nw - (0,0.1)
+line up   -> 0.6  with .n at LEFT.ne - (0,0.1)
+
+BOTTOM: box invis ht 0.2 width 0.8 with .w at GUANINE.e
+line right -> 0.6  with .n at BOTTOM.nw + (0.1,0)
+line right <- 0.6  with .s at BOTTOM.sw + (0.1,0)
+RIGHT: box invis width 0.2 height 1.0 with .n at CYTOCINE.s
+
+THYMINE: [
+
+RT1:	ring6 pointing up double 5,6 put N at 2 put N at 4
+	double bond up from RT1.V1
+	O
+	bond 60 from RT1.V2
+	H
+	double bond 120 from RT1.V3
+	O
+	bond down from RT1.V4
+	H
+	bond -60 from RT1.V6
+	H3C
+
+] with .w at BOTTOM.e
+
+line down -> 0.6  with .n at RIGHT.nw - (0,0.1)
+line up   -> 0.6  with .n at RIGHT.ne - (0,0.1)
+
+.cend
