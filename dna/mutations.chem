@@ -10,9 +10,16 @@ RA2:	ring5 pointing left with .V4 at RA1.V5 put N at 5 put N at 2 double 1,2
 
 ]
 
+"Adenine" with .s at ADENINE.nw
+
+#
+# These are Transversions
+#
 TOP: box invis ht 0.2 width 1.2 with .w at ADENINE.e
 line -> 0.8  with .n at TOP.nw + (0.1,0)
 line <- 0.8  with .s at TOP.sw + (0.1,0)
+
+"Transversions" with .s at TOP.n + (0,0.1)
 
 LEFT: box invis width 0.2 height 1.0 with .n at ADENINE.s
 
@@ -25,6 +32,8 @@ RC1:	ring6 pointing up double 1,2 5,6 put N at 2 put N at 4
 	bond down at RC1.V4
 	H
 ] with .w at TOP.e
+
+"Cytocine" with .s at CYTOCINE.ne
 
 GUANINE: [
 
@@ -40,12 +49,23 @@ RG2:	ring5 pointing left with .V4 at RG1.V5 put N at 5 put N at 2 double 1,2
 	H
 ] with .n at LEFT.s
 
+"Guanine" with .n at GUANINE.sw
+
+#
+# These are Transitions
+#
 line down -> 0.6  with .n at LEFT.nw - (0,0.1)
 line up   -> 0.6  with .n at LEFT.ne - (0,0.1)
+
+"Transitions" with .e at LEFT.w - (0.3,0)
 
 BOTTOM: box invis ht 0.2 width 0.8 with .w at GUANINE.e
 line right -> 0.6  with .n at BOTTOM.nw + (0.1,0)
 line right <- 0.6  with .s at BOTTOM.sw + (0.1,0)
+
+"Transversions" with .n at BOTTOM.s + (0.1,-0.1)
+
+
 RIGHT: box invis width 0.2 height 1.0 with .n at CYTOCINE.s
 
 THYMINE: [
@@ -64,7 +84,24 @@ RT1:	ring6 pointing up double 5,6 put N at 2 put N at 4
 
 ] with .w at BOTTOM.e
 
+"Thymine" with .n at THYMINE.se
+
+
 line down -> 0.6  with .n at RIGHT.nw - (0,0.1)
 line up   -> 0.6  with .n at RIGHT.ne - (0,0.1)
+
+"Transitions" with .w at RIGHT.e + (0.3,0)
+
+#
+# The difficult transversions
+#
+
+line -> from ADENINE.se + (0,-0.1) to THYMINE.nw + (0,-0.1)
+line <- from ADENINE.se + (0.1,0) to THYMINE.nw + (0.1,0.0)
+
+line -> from CYTOCINE.sw + (0,-0.1) to GUANINE.ne + (0,-0.1)
+line <- from CYTOCINE.sw + (-0.1,0) to GUANINE.ne + (-0.1,0)
+
+
 
 .cend
