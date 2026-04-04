@@ -17,15 +17,31 @@ For instance the mutation rate for a certain gene is in the order of magnitude $
 .[
 mutation rate
 .]
+.KF
+.so dna/mutations.chem
+.QP
+.vs 12
+.ps 10
+Figure 1.
+More than you ever wanted to know about mutations.
+There are two types of DNA substitution mutations.
+.I Transitions
+refer to substitutions between two-ring purines, i.e., an Adenine replaces Guanine (or vice versa),
+or an one-ring pyrimidines is replaced by another one-ring pyrimidine.
+That is Cytocine is replaced with a  Thymine (or vice versa).
+On base is replaced with another with a similar shape.
+.I Transversions
+are more complicated interchanges of a purine for a pyrimidine, or vice versa.
+They implies exchanges one-ring and two-ring bases. 
+.sp
+.KE
 .PP
 However,
-\ 
-.[\ 
-#
-Popper propensity
-.]\ 
-make further distinctions between two objective types of probabilities,
+Popper make further distinctions between two objective types of probabilities,
 namely frequency and propensity interpretations of probability.
+.[
+Popper propensity
+.]
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
 through a series of estimates.

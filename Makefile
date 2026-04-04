@@ -12,9 +12,9 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic parameters.ms back-matter.ms
 
 .ms.pdf:
-	pdfroff -U -R -sGtep   -ms -m pdfmark \
+	soelim  $<  | chem | pdfroff -i -U -R  -sGtep   -ms -m pdfmark \
 	-m decorations -m dropcap -M ./tmac   \
-	-k  ${PAPER} -Tps  parameters.ms  $<  > $*.pdf
+	-k  ${PAPER} -Tps  parameters.ms  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
 # -m refspec  -m refspec
@@ -30,9 +30,10 @@ squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
 	essay-historicism.ms  essay-williamson.ms \
-	life-tables/life-tables-males.text life-tables/life-tables-females.text  \
+	life-tables/life-tables-males.text \
+	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	the-price-formula/the-price-formula.ms $(OTHERS)
+	dna/mutations.chem the-price-formula/the-price-formula.ms $(OTHERS)
 
 # Remember
 #
