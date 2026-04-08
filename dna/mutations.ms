@@ -1,4 +1,5 @@
 .lf 1 ./dna/mutations.chem
+.KF
 .PS
 copy "/usr/share/groff/1.23.0/pic/chem.pic"
 	textht = 0.16; textwid = .1; cwid = 0.12
@@ -331,3 +332,26 @@ line -> from CYTOCINE.sw + (0,-0.2) to GUANINE.ne + (0,-0.2)
 #line <- from CYTOCINE.sw + (-0.1,0) to GUANINE.ne + (-0.1,0)
 line <- from CYTOCINE.sw + (-0.1,0) to GUANINE.ne + (-0.1,0)
 .PE
+.QP
+.vs 12
+.ps 10
+Figure 1.
+More than you ever wanted to know about mutations.
+There are two types of DNA substitution mutations.
+.I Transitions
+refer to substitutions between two-ring purines, i.e., an Adenine replaces Guanine (or vice versa),
+or an one-ring pyrimidines is replaced by another one-ring pyrimidine.
+That is Cytocine is replaced with a  Thymine (or vice versa).
+On base is replaced with another with a similar shape.
+.I Transversions
+are more complicated interchanges of a purine for a pyrimidine, or vice versa.
+They implies exchanges one-ring and two-ring bases.
+The frequency of transitions is in the order magnitude $10 sup -8$ whereas transversions occur at a rate $10 sup -9$ per gene per generation.
+.[
+nucleotide humans
+.]
+.[
+genome-wide
+.]
+.sp
+.KE
