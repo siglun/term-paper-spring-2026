@@ -1,6 +1,6 @@
 
-.SUFFIXES: .pic .ms .pdf .ps .eps 
-.DEFAULT: .ms.pdf .ps.pdf .eps.pdf
+.SUFFIXES: .pic .ms .pdf .ps .eps .chem
+.DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms
 
 default: essay.pdf
 	cd the-price-formula && $(MAKE)
@@ -12,10 +12,13 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic parameters.ms back-matter.ms
 
 .ms.pdf:
-	soelim  $<  | chem | pdfroff -i -U -R  -sGtep   -ms -m pdfmark \
+	pdfroff -U -R  -sGtep   -ms -m pdfmark \
 	-m decorations -m dropcap -M ./tmac   \
-	-k  ${PAPER} -Tps  parameters.ms  > $*.pdf
+	-k  ${PAPER} -Tps  parameters.ms $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
+
+.chem.ms:
+	soelim  $<  | chem > $*.ms
 
 # -m refspec  -m refspec
 
@@ -33,7 +36,9 @@ essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	dna/mutations.chem the-price-formula/the-price-formula.ms $(OTHERS)
+	dna/mutations.ms the-price-formula/the-price-formula.ms $(OTHERS)
+
+dna/mutations.ms: dna/mutations.chem
 
 # Remember
 #

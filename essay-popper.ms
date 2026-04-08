@@ -18,7 +18,7 @@ For instance the mutation rate for a certain gene is in the order of magnitude $
 mutation rate
 .]
 .KF
-.so dna/mutations.chem
+.so dna/mutations.ms
 .QP
 .vs 12
 .ps 10

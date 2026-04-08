@@ -16,7 +16,7 @@ the most important one is, as pointed out by Bertrand Russell in a lecture 1929
 .vs 12
 .ps 10
 Probability is the most important concept in modern science, especially as nobody has the slightest notion what it means.
-.[ (cited from\ 
+.[ (cited from \ 
 probability alan 2023
 .])
 .LP
