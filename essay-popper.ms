@@ -13,35 +13,21 @@ for instance our confidence that a certain proposition is true.
 Objective probabilities are those that exist in Nature no matter what,
 that is,
 and we make a metaphysical claim when using that concept. 
-For instance the mutation rate for a certain gene is in the order of magnitude $10 sup -8$ per locus per generation and it has been like that for long time.
+For instance, each of us carries $approx 75.8$ new mutations.\**
+.FS
+The mutation rate for humans is in the order of magnitude $1.24 \[mu] 10 sup -8$ per base pairs per generation.
 .[
-mutation rate
+estimating mutation rate
 .]
-.KF
+Each of us carries around $3.055 \[mu] 10 sup 9$ base pairs
+.[
+complete sequence human genome 
+.]
+and we are diploid organisms.
+Therefore both you and me have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
+.FE
+It has been like that since long before we became \f[I]Homo sapiens\f[P].
 .so dna/mutations.ms
-.QP
-.vs 12
-.ps 10
-Figure 1.
-More than you ever wanted to know about mutations.
-There are two types of DNA substitution mutations.
-.I Transitions
-refer to substitutions between two-ring purines, i.e., an Adenine replaces Guanine (or vice versa),
-or an one-ring pyrimidines is replaced by another one-ring pyrimidine.
-That is Cytocine is replaced with a  Thymine (or vice versa).
-On base is replaced with another with a similar shape.
-.I Transversions
-are more complicated interchanges of a purine for a pyrimidine, or vice versa.
-They implies exchanges one-ring and two-ring bases.
-The frequency of transitions is in the order magnitude $10 sup -8$ whereas transversions occur at a rate $10 sup -9$ per gene per generation.
-.[
-nucleotide humans
-.]
-.[
-genome-wide
-.]
-.sp
-.KE
 .PP
 However,
 Popper make further distinctions between two objective types of probabilities,
@@ -90,11 +76,11 @@ and by that he means that statements like
 .LP
 implies, for example, that $a$ is a hypothesis which is studied in a experimental design $b$.
 In his notation this is written
-.EQ
+.EQ (1)
 p(a,b)=r
 .EN
 In more conventional notation this is written
-.EQ
+.EQ (1\[aq])
 P( a | b ) = { P(a inter b ) } over P(b)
 .EN
 using set theoretical notation rather than logical.
@@ -105,19 +91,26 @@ Popper has defined his own calculus of probability containing three theorems.
 They are:
 The addition theorem,
 for calculating the probability of $a or b$
-.EQ (1)
+.EQ (2)
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
 This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
+When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (1) will be zero.
 The multiplication theorem
-.EQ (2)
+.EQ (3)
 p(a and b, c) = p(a , b and c) p(b,c)
 .EN
+That is really the same as
+.EQ (3\[aq])
+P(a inter b | c) = P( a | b inter c) P( b |c ) 
+.EN
+i.e., it comes from Eq. (1\[aq]).
+.PP
 Finally,
 let $a bar$ be the complement of $a$.
 The complement of a set is everything which is not in that set.
-.EQ (3)
+.EQ (4)
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
-Popper admits himself that Eq. (3) is somewhat unusual, but this is because if $c$ is true, a tautology, than its complement $c bar$ has to be a contradiction.
+Popper admits himself that Eq. (4) is somewhat unusual, but this is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
 .separator

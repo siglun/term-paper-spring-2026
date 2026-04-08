@@ -3,7 +3,7 @@
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms
 
 default: essay.pdf
-	cd the-price-formula && $(MAKE)
+	cd natural-selection/ && $(MAKE)
 	cd too-much-modality && $(MAKE)
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/essay.pdf
@@ -36,7 +36,7 @@ essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	dna/mutations.ms the-price-formula/the-price-formula.ms $(OTHERS)
+	dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
 

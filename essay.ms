@@ -3,19 +3,9 @@ Probabilities and natural selection
 .AU
 Sigfrid Lundberg
 .so essay-intro.ms
-.\" so dna/adenine.chem
 .so essay-popper.ms
 .so essay-medawar.ms
-.SH
-Natural Selection and our understanding of probability
-.ID
-From Mr. Darwin and Frater Gregor Mendel
-to William Hamilton and George Price
-Deriving Fisher's and Wright's equations from Price's
-Mendel's laws and Hardy-Weinberg enters frequency interpretation into the dynamics
-Frequency interpretation is epistemology, not metaphysics
-.DE
-.so the-price-formula/the-price-formula.ms
+.so essay-natural-selection.ms
 .SH
 Probability, possibility and dynamical systems
 .ID
