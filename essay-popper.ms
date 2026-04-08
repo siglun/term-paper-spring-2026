@@ -53,17 +53,10 @@ The frequency interpretation claims that a probability can only be understood,
 and be estimated,
 through a series of estimates.
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
-That as an epistemic problem.
+Rather, he regard that as an epistemic problem.
+I.e., it is irrelevant.
 .PP
-.ig
-About half of Karl R. 
-.[\ 
-#
-Popper discovery
-.]\ 
-is about probability rather than his more general theory science, hypotheses, falsification and demarcation criteria.
-..
-The propensity is to be understood as a probability for a singular event.
+A propensity is to be understood as the probability for a single event.
 That is to a large extent due to his research into the philosophy of quantum mechanics,
 where his interpretation required that probabilities could be assigned to single events.
 Poppers first argument is that his theory works with individuals.
