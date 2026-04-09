@@ -105,6 +105,7 @@ That is really the same as
 P(a inter b | c) = P( a | b inter c) P( b |c ) 
 .EN
 i.e., it comes from Eq. (1\[aq]).
+.ig
 .PP
 Finally,
 let $a bar$ be the complement of $a$.
@@ -113,4 +114,5 @@ The complement of a set is everything which is not in that set.
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
 Popper admits himself that Eq. (4) is somewhat unusual, but this is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
+..
 .separator

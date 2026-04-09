@@ -1,4 +1,4 @@
-.PP
+.LP
 Propensities can be a trait which is subject to evolution
 Survival is related to traditional fitness
 still it is a trait that evolves in relation to reproduction, parental care etc
