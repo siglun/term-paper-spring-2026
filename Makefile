@@ -1,6 +1,6 @@
 
-.SUFFIXES: .pic .ms .pdf .ps .eps .chem
-.DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms
+.SUFFIXES: .pic .ms .pdf .ps .eps .chem .svg
+.DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms .svg.eps
 
 default: essay.pdf
 	cd natural-selection/ && $(MAKE)
@@ -20,6 +20,9 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 .chem.ms:
 	soelim  $<  | chem > $*.ms
 
+.svg.eps:
+	inkscape $< -o  $*.eps
+
 # -m refspec  -m refspec
 
 qr.eps:
@@ -36,9 +39,10 @@ essay.pdf: essay.ms essay-intro.ms  essay-medawar.ms  essay-popper.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
+	dna/Aminoacids_table.eps dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
+dna/Aminoacids_table.eps: dna/Aminoacids_table.svg 
 
 # Remember
 #
