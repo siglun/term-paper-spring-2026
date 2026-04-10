@@ -27,6 +27,7 @@ and we are diploid organisms.
 Therefore both you and me have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
 .FE
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
+See Figure 1 for more information on mutations.
 .so dna/mutations.ms
 .PP
 However,
@@ -38,23 +39,63 @@ Popper propensity
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
 through a series of estimates.
-The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
-Rather, he regard that as an epistemic problem.
-I.e., it is irrelevant.
 .PP
 A propensity is to be understood as the probability for a single event.
-That is to a large extent due to his research into the philosophy of quantum mechanics,
-where his interpretation required that probabilities could be assigned to single events.
-Poppers first argument is that his theory works with individuals.
 .[
 Popper propensity 1959 
 .]
+Popper was convinced that probabilities are \[oq]physically real\[cq],
+.QP
+.vs 12
+.ps 10
+that they must be physical propensities,
+abstract relational properties of the physical situation,
+like Newtonian forces,
+and \[oq]real\[cq],
+not only in the sense that they could influence the experimental results,
+but also in the sense that they could,
+under certain circumstances (coherence), interfere with one another.
+.[ (
+Popper propensity 1959 
+.], p. 28)
 .PP
-One strict opponent to the idea of the assignment of probabilities to single events is.
+The key property of a propensity is that it behaves like a force.
+One opponent to Popper's idea of the assignment of probabilities to single events was.
 .[ 
 #
 probability statistics truth 1957
 .]
+von Mises talks about
+.I classes
+or
+.I collectives.
+For instance
+.QP
+.vs 12
+.ps 10
+When we speak of \[oq]the probability of death\[cq],
+the exact meaning of this expression can be defined in the following way only.
+We must not think of an individual,
+but of a certain class as a whole, e.g.,
+\[oq]'all insured men forty-one years old a given country and not engaged in certain dangerous occupations.\[cq]
+A probability of death is attached to this class of men or to another class that can be defined in a similar way.
+.[
+probability statistics truth 1957
+.]
+.LP
+Given a defined class of objects we can estimate a meaningful probability.
+For instance
+.QP
+.vs 12
+.ps 10
+The phrase 'probability of death’,
+when it refers to a single person,
+has no meaning at all for us.
+This is one of the most important consequences of our definition of probability and we shall discuss this point in greater detail later on.
+.PP
+The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
+However, he or she regard the frequency approach as a method,
+and its interpretation as an epistemic problem.
 .LP
 .dropcap "As a gambit," 3 red4 R STIX -0.5n 1.0n
 I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
