@@ -24,7 +24,7 @@ Each of us carries around $3.055 \[mu] 10 sup 9$ base pairs
 complete sequence human genome 
 .]
 and we are diploid organisms.
-Therefore both you and me have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
+Therefore both you and I have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
 .FE
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
 See Figure 1 for more information on mutations.
@@ -58,8 +58,8 @@ under certain circumstances (coherence), interfere with one another.
 .[ (
 Popper propensity 1959 
 .], p. 28)
-.PP
-The key property of a propensity is that it behaves like a force.
+.LP
+That is, the key property of a propensity is that it behaves like a force.
 One opponent to Popper's idea of the assignment of probabilities to single events was.
 .[ 
 #
@@ -69,7 +69,6 @@ von Mises talks about
 .I classes
 or
 .I collectives.
-For instance
 .QP
 .vs 12
 .ps 10
@@ -88,11 +87,14 @@ For instance
 .QP
 .vs 12
 .ps 10
-The phrase 'probability of death’,
+The phrase \[oq]probability of death\[cq],
 when it refers to a single person,
 has no meaning at all for us.
 This is one of the most important consequences of our definition of probability and we shall discuss this point in greater detail later on.
-.PP
+.[ (
+probability statistics truth 1957
+.], p. 11)
+.LP
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
