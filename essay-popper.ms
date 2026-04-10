@@ -49,6 +49,12 @@ Poppers first argument is that his theory works with individuals.
 .[
 Popper propensity 1959 
 .]
+.PP
+One strict opponent to the idea of the assignment of probabilities to single events is.
+.[ 
+#
+probability statistics truth 1957
+.]
 .LP
 .dropcap "As a gambit," 3 red4 R STIX -0.5n 1.0n
 I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
