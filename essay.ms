@@ -4,7 +4,7 @@ Probabilities and natural selection
 Sigfrid Lundberg
 .so essay-intro.ms
 .so essay-popper.ms
-.so essay-medawar.ms
+.so essay-senescence.ms
 .so essay-natural-selection.ms
 .so essay-historicism.ms
 .SH

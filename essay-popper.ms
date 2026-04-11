@@ -115,11 +115,3 @@ in observable accelerations.
 Similarly, the concept of propensity,
 or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
 of events\[em]in order to explain observable frequencies in sequencies repetitions of these events.
-.LP
-Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
-Just for that reason we have to flip the coin and look upon how individual properties manifest themelves at the level of the population.
-For instance:
-An individual has a gene,
-a population has a gene frequency.
-Individuals mate, give birth, survive and finally die.
-Populations grow, decline and go extinct.
