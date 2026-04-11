@@ -98,10 +98,24 @@ probability statistics truth 1957
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
+.PP
+Popper admits readily that from the point of view of a \[oq]purely statistical
+interpretation of probability\[cq].
+.[ (
+popper propensity interpretation 1959
+.], p. 30)
+the propensity interpretion is unacceptible.
+Still he maintains that it is useful.
+.QP
+.vs 12
+.ps 10
+The concept of force\[em]or better still,
+the concept of a field of forces\[em]introduces a dispositional physical entity described by certain equations (rather than by metaphors),
+in observable accelerations.
+Similarly, the concept of propensity,
+or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
+of events\[em]in order to explain observable frequencies in sequencies repetitions of these events.
 .LP
-.dropcap "As a gambit," 3 red4 R STIX -0.5n 1.0n
-I start the discussion by preliminarily accepting Karl Popper's propensity interpretation of probability.
-This suits my purposes.
 Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
 Just for that reason we have to flip the coin and look upon how individual properties manifest themelves at the level of the population.
 For instance:
@@ -109,59 +123,3 @@ An individual has a gene,
 a population has a gene frequency.
 Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
-.PP
-Popper handels probability somewhat different from how most textbooks do it.
-First,
-he rejects explicitly the notion that probabilities exist outside a context.
-That is,
-all probabilities are conditional on something.
-This is not incompatible with mainstream probability theory,
-he is just adding another requirement.
-Second,
-he is implicitly requiring that any probability is given an interpretation,
-and by that he means that statements like
-.IP
-\[oq]The probability of $a$ given $b$ is equal to $r$ (where $ r\[mo]^\[u211D]$)\[cq]
-.LP
-implies, for example, that $a$ is a hypothesis which is studied in a experimental design $b$.
-In his notation this is written
-.EQ (1)
-p(a,b)=r
-.EN
-In more conventional notation this is written
-.EQ (1\[aq])
-P( a | b ) = { P(a inter b ) } over P(b)
-.EN
-using set theoretical notation rather than logical.
-The textbook notation $P( a | b )$ is what Popper calls $r$.
-In this text I will use Popper's notation and logic rather than set theory.
-.PP
-Popper has defined his own calculus of probability containing three theorems.
-They are:
-The addition theorem,
-for calculating the probability of $a or b$
-.EQ (2)
-p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
-.EN
-This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
-When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (1) will be zero.
-The multiplication theorem
-.EQ (3)
-p(a and b, c) = p(a , b and c) p(b,c)
-.EN
-That is really the same as
-.EQ (3\[aq])
-P(a inter b | c) = P( a | b inter c) P( b |c ) 
-.EN
-i.e., it comes from Eq. (1\[aq]).
-.ig
-.PP
-Finally,
-let $a bar$ be the complement of $a$.
-The complement of a set is everything which is not in that set.
-.EQ (4)
-p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
-.EN
-Popper admits himself that Eq. (4) is somewhat unusual, but this is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
-..
-.separator
