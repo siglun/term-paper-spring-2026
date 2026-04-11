@@ -332,7 +332,9 @@ line -> from CYTOCINE.sw + (0,-0.2) to GUANINE.ne + (0,-0.2)
 #line <- from CYTOCINE.sw + (-0.1,0) to GUANINE.ne + (-0.1,0)
 line <- from CYTOCINE.sw + (-0.1,0) to GUANINE.ne + (-0.1,0)
 .PE
-.PSPIC -C  "dna/Aminoacids_table.eps" 8.0c
+.ig
+PSPIC -C  "dna/Aminoacids_table.eps" 8.0c
+..
 .QP
 .vs 12
 .ps 10
@@ -356,4 +358,3 @@ genome-wide
 .]
 .sp
 .KE
-.PE
