@@ -28,8 +28,3 @@ flipping coins
 and fair dices.
 However, I do not think any of these theories dispute Russell.
 Neither will I.
-.ig
-My goal is to elucidate what probability means in Nature.
-In particular I will study the consequences of how animals and plants a evolve,
-on what interpretation of probability is needed in biology.
-..

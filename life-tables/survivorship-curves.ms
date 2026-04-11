@@ -1,3 +1,4 @@
+.KF
 .G1
 size = 1.8
 graph Females
@@ -29,3 +30,24 @@ copy "life-tables/life-tables-females.text" thru {
 "1900\[en]1904" at (110,5)
 "1800\[en]1804" at (90,2)
 .G2
+.QP
+.vs 12
+.ps 10
+Figure 2.
+The survivorship curves for Swedish women during three five year intervals in hstory, namely, 1800-1804, 1900-1904 and 2000-2005 (solid, dashed and dotted curves, respectively).
+Data from Human Mortality Database.\**
+.FS
+HMD.
+Human Mortality Database (https://www.mortality.org/).
+Max Planck Institute for Demographic Research (Germany),
+University of California,
+Berkeley (USA),
+and French Institute for Demographic Studies (France).
+The data for the graph are available at
+.br
+https://www.mortality.org/File/GetDocument/hmd.v6/SWE/STATS/fltper_1x5.txt
+.br
+(data downloaded on 2026-03-26)
+.FE
+.sp
+.KE

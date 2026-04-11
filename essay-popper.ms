@@ -26,9 +26,9 @@ complete sequence human genome
 and we are diploid organisms.
 Therefore both you and I have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
 .FE
+.so dna/mutations.ms
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
 See Figure 1 for more information on mutations.
-.so dna/mutations.ms
 .PP
 However,
 Popper make further distinctions between two objective types of probabilities,
@@ -76,7 +76,7 @@ When we speak of \[oq]the probability of death\[cq],
 the exact meaning of this expression can be defined in the following way only.
 We must not think of an individual,
 but of a certain class as a whole, e.g.,
-\[oq]'all insured men forty-one years old a given country and not engaged in certain dangerous occupations.\[cq]
+\[oq]all insured men forty-one years old a given country and not engaged in certain dangerous occupations.\[cq]
 A probability of death is attached to this class of men or to another class that can be defined in a similar way.
 .[
 probability statistics truth 1957
@@ -95,6 +95,7 @@ This is one of the most important consequences of our definition of probability 
 probability statistics truth 1957
 .], p. 11)
 .LP
+The collective means in von Mises\[aq] vocabulary basically an experimental series. 
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
@@ -115,3 +116,20 @@ in observable accelerations.
 Similarly, the concept of propensity,
 or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
 of events\[em]in order to explain observable frequencies in sequencies repetitions of these events.
+.so ./life-tables/survivorship-curves.ms
+.LP
+Let us return to the probability of death example.
+When discussing such probabilities we need a kind of data usually referred to as
+.I "life table"
+data.
+Those data are collected by researchers in various disciplines and are in high demand from insurance companies and health authorities and pension funds.
+They are important for many practical purposes,
+like calculating your insurance premium.
+In Figure 2 there are graphs showing the probability of living to a given age for Swedish women at three different periods in time.
+.PP
+The ordinate (y axis) is logarithmic,
+and the abscissa (x axis) is linear.
+You will notice that there is a rapid fall at early ages,
+which later decline almost linearly till we reach perhaps 60 years of age when they bend downwards.
+After the bend the decline is again almost linear,
+but very much more rapid.
