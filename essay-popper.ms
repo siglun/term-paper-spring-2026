@@ -116,20 +116,4 @@ in observable accelerations.
 Similarly, the concept of propensity,
 or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
 of events\[em]in order to explain observable frequencies in sequencies repetitions of these events.
-.so ./life-tables/survivorship-curves.ms
-.LP
-Let us return to the probability of death example.
-When discussing such probabilities we need a kind of data usually referred to as
-.I "life table"
-data.
-Those data are collected by researchers in various disciplines and are in high demand from insurance companies and health authorities and pension funds.
-They are important for many practical purposes,
-like calculating your insurance premium.
-In Figure 2 there are graphs showing the probability of living to a given age for Swedish women at three different periods in time.
-.PP
-The ordinate (y axis) is logarithmic,
-and the abscissa (x axis) is linear.
-You will notice that there is a rapid fall at early ages,
-which later decline almost linearly till we reach perhaps 60 years of age when they bend downwards.
-After the bend the decline is again almost linear,
-but very much more rapid.
+
