@@ -34,7 +34,7 @@ clean:
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
-essay.pdf: essay.ms essay-intro.ms  essay-senescence.ms  essay-popper.ms \
+essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	essay-historicism.ms  essay-williamson.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
