@@ -1,6 +1,12 @@
 .so ./life-tables/survivorship-curves.ms
 .LP
 Let us return to the probability of death example.
+We are all mutants, and each of us will die.
+There is a connection between the deaths and the mutations,
+and that is
+.I "Natural Selection."
+We start with mortality.
+.PP
 When discussing such probabilities we need a kind of data usually referred to as
 .I "life table"
 data.
