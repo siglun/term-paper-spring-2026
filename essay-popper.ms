@@ -1,5 +1,6 @@
-.PP
-We normally make a distinction between
+.LP
+.dropcap We 2 red4 R STIX 1n
+normally make a distinction between
 .I subjective
 and
 .I objective
@@ -9,7 +10,7 @@ Popper magic knowledge probability
 .]
 These are the two interpretations of probabilities.
 The subjective probability refers to an epistemic aspect of an event,
-for instance our confidence that a certain proposition is true.
+for instance our confidence that a certain proposition about that event is true.
 Objective probabilities are those that exist in Nature no matter what.
 That is,
 we make metaphysical claims when using that concept.
@@ -27,7 +28,7 @@ and we are diploid organisms.
 Therefore both you and I have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
 .FE
 .so dna/mutations.ms
-Mutation occurs all over the human genome at a rate about $10 sup -9$ to $10 sup -8$ per base pair per generation.
+Mutation occurs all over the human genome at a rate from about $10 sup -9$ to $10 sup -8$ per base pair per generation.
 Still, the size of our genome $approx 3.055 \[mu] 10 sup 9$ ensures that all of us are mutants.
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
 See Figure 1 for more information on mutations.
@@ -78,7 +79,7 @@ When we speak of \[oq]the probability of death\[cq],
 the exact meaning of this expression can be defined in the following way only.
 We must not think of an individual,
 but of a certain class as a whole, e.g.,
-\[oq]all insured men forty-one years old a given country and not engaged in certain dangerous occupations.\[cq]
+\[oq]all insured men forty-one years old a given country and not engaged in certain dangerous occupations\[cq].
 A probability of death is attached to this class of men or to another class that can be defined in a similar way.
 .[
 probability statistics truth 1957
