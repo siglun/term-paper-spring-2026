@@ -30,7 +30,16 @@ After that bend the decline is again almost linear,
 but very much more rapid.
 That final bend marks the onset of senescence.
 .PP
-Note that the curves become linear on an ordinate logarithmic scale is significant.
+Note that the curves become linear on an ordinate logarithmic scale is significant.\**
+.FS
+Assume that at some moment in time there we see the birth of $N sub 0$ infants.
+Then, if a proportion $c$ of them dies per year we have $x$ years later $N sub x = N sub 0 c sup x$ people left.
+Taking the logarithm ($ln$) of that we see
+.EQ
+ln N sub x = x ln c + ln N sub 0
+.EN
+that is, a straight line with the slope $ln c$.
+.FE
 When the curve is linear the yearly death rate is constant,
 which means that fixed small proportion of the people of one age die
 .I "per annum."
@@ -45,3 +54,29 @@ who was one who first discussed ageing as an evolutionary problem.
 .PP
 The problem of ageing is to give an evolutionary explanations to the shapes of those curves.
 Genes that are favourable after the end of the reproductive phase of our lives will not benefit of a rapid spread in the next generation.
+Genes that enhance reproduction,
+or raises the survival rate up to and including the reproductive period,
+will have a chance to spread.
+However, there are no way a living being can improve in that way.
+Any improvement comes at a cost.
+Or as Williams puts it in his seminal paper:
+.QP
+.vs 12
+.ps 10
+The selective value of a gene depends on how it affects the total reproductive probability.
+Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves,
+but also on the times of the effects.
+An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.
+So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
+.[
+Williams Pleiotropy 1957
+.]
+.LP
+This is the gist of the socalled pleiotropy theory of senescence.
+Pleiotropy is the condition arising when one or many genes have multiple phenotypic manifestations.
+The phenotype is jargon for what the genes does for the individual.
+In this case the pleiotropy is stretching across time in a favourable way.
+You live through your youth and then you reproduce,
+but then you pay with arthritis, senility and stroke when after your offspring has fledged.
+To make such an organism,
+allowing individuals be vigorous at for a time period long enough for allowing them to help they grandchildren requires a lot of mutations to generate variation needed, an a lot deaths and survivals to fine tune the balance between reproduction and mortality.
