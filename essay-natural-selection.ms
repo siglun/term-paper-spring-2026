@@ -82,3 +82,4 @@ How to do better than the \f[I]persistence forcast\f[P]
 Blind variation and selective retention (Campbell)
 The poverty of historicism.
 .DE
+.so natural-selection/evolutionarily-stable-strategy.ms

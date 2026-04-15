@@ -1,5 +1,5 @@
 .LP
-.dropcap Much 3 red4 R STIX 1n
+.dropcap Much 2 red4 R STIX 1n
 of what we notice around us are not things that are,
 but rather changes in what there is.
 Dynamicity is largely neglected by mainstream metaphysics.
@@ -28,3 +28,12 @@ flipping coins
 and fair dices.
 However, I do not think any of these theories dispute Russell.
 Neither will I.
+However,
+in this note I argue that only one
+.I interpretation
+of the concept is compatible with the theory of evolution.
+Namely the propensity interpretation proposed by.
+.[ 
+#
+Popper 1959 propensity
+.]
