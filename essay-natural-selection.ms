@@ -1,7 +1,7 @@
 .separator
 .LP
 .\" dropcap This 2 red4 R STIX 1n
-This leads us to the theory of Natural Selection and how it impacts our understanding of probability.
+All this raises the question how the theory of Natural Selection impacts our understanding of probability.
 First, however, we need to make an excursion into some theory.
 Popper handles probability somewhat different from how most textbooks do it.
 First,
@@ -26,8 +26,11 @@ In more conventional notation this is written
 P( a | b ) = { P(a inter b ) } over P(b)
 .EN
 using set theoretical notation rather than logical.
-The textbook notation $P( a | b )$ is what Popper calls $r$.
-In this text I will use Popper's notation and logic rather than set theory.
+The two equations say the same things,
+with one exception.
+Eq. 1 is valid even in the case that $P(b)=0$.
+Otherwise, the textbook notation $P( a | b )$ is what Popper calls $r$.
+In this note I will use Popper's notation and logic rather than set theory.
 .PP
 Popper has defined his own calculus of probability containing three theorems.
 They are:
@@ -47,7 +50,6 @@ That is really the same as
 P(a inter b | c) = P( a | b inter c) P( b |c ) 
 .EN
 i.e., it comes from Eq. (1\[aq]).
-.ig
 .PP
 Finally,
 let $a bar$ be the complement of $a$.
@@ -55,8 +57,17 @@ The complement of a set is everything which is not in that set.
 .EQ (4)
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
-Popper admits himself that Eq. (4) is somewhat unusual, but this is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
-..
+Popper admits himself that Eq. (4) is somewhat unusual.\**
+I kept it here for the sake of completeness,
+we do not need it.
+.FS
+This is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
+The probability of anything given something certain (a tautology) is 1 and Eq. (4) would become
+.EQ
+1 = 1 - 1
+.EN
+which is necessarily false. Requiring $p( c bar , c ) \[!=] 0$ precludes this.
+.FE
 .separator
 .ID
 From Mr. Darwin and Frater Gregor Mendel
@@ -65,23 +76,3 @@ Deriving Fisher's and Wright's equations from Price's
 Mendel's laws and Hardy-Weinberg enters frequency interpretation into the dynamics
 Frequency interpretation is epistemology, not metaphysics
 .DE
-.so natural-selection/the-price-formula.ms
-.SH
-Probability, possibility and dynamical systems
-.ID
-One locus two alleles
-stability, invasibility and the role of propensities when rare
-We should avoid the fitness concept (interpreted as a propensity or not)
-Instead focus on selection as a process.
-We are not guaranteed that the propagation of a trate can be
-summarized in a single statistic
-.DE
-.so essay-williamson.ms
-.SH
-Can vi overcome the persistence forcast\[em]or how poor is historicism?
-.ID
-How to do better than the \f[I]persistence forcast\f[P]
-Blind variation and selective retention (Campbell)
-The poverty of historicism.
-.DE
-.so natural-selection/evolutionarily-stable-strategy.ms

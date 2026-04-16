@@ -1,3 +1,4 @@
+.separator
 .LP
 .dropcap Much 3 red4 R STIX 1n
 of what we notice around us are not things that are,

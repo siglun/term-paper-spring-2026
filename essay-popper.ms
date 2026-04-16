@@ -34,7 +34,7 @@ Still, the size of our genome $approx 3.055 \[mu] 10 sup 9$ ensures that all of 
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
 See Figure 1 for more information on mutations.
 .PP
-Popper make further distinctions between two objective types of probabilities,
+Popper make further distinctions between two kinds of objective probabilities,
 namely frequency and propensity interpretations of probability.
 .[
 Popper propensity
