@@ -1,7 +1,11 @@
 .LP
-.dropcap Much 2 red4 R STIX 1n
+.dropcap Much 3 red4 R STIX 1n
 of what we notice around us are not things that are,
 but rather changes in what there is.
+We are desensitised to the common things,
+while the changes are something we need to notice and possibly evaluate.
+In philosophy,
+it is the other way around:
 Dynamicity is largely neglected by mainstream metaphysics.
 .[
 Johanna Seibt Process Philosophy

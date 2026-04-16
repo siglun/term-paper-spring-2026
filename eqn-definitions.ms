@@ -4,6 +4,7 @@
 .char \[ulcorner] \[u231C]
 .char \[urcorner] \[u231D]
 .char \[strictif] \[u297D]
+.\" char \[ca]	\[u2229]
 \" \[turn] \[dturn]
 .EQ
 sdefine falsum   %{type "operator" \[pp]}%
