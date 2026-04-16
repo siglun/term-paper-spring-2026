@@ -39,7 +39,7 @@ essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	essay-natural-selection.ms \
+	essay-natural-selection.ms eqn-definitions.ms \
 	dna/Aminoacids_table.eps dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
