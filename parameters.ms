@@ -9,6 +9,8 @@
 .nr QI 5n
 .nr PD 0.3v
 .nr step 0 1
+.nr section 0 1
+.af section i
 .OH '''%'
 .\"OF 'left'center'right'
 .EH '%'''
@@ -44,8 +46,12 @@ bracket-label " (" ")" "; "
 .\" fam BA
 .fam STIX
 .de separator
+.sp
+.LP
 .CD
-*     *
-*
+.ps +10
+\\n+[section]
+.ps
 .DE
+.sp
 ..

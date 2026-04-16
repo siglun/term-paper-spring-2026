@@ -1,6 +1,10 @@
 .so ./life-tables/survivorship-curves.ms
 .LP
-Let us return to the probability of death example.
+Let us return to the probability of death example raised by.
+.[ 
+#
+probability statistics truth 1957
+.]
 We are all mutants, and each of us will die.
 There is a connection between the deaths and the mutations,
 and that is
@@ -10,10 +14,10 @@ We start with mortality.
 When discussing such probabilities we need a kind of data usually referred to as
 .I "life table"
 data.
-Those data are collected by researchers in various disciplines and are in high demand from insurance companies, health authorities and pension funds.
+Those data are collected by researchers in various disciplines and are in high demand from insurance companies, health authorities and pension funds, just to name a few.
 They are important for many practical purposes,
 like calculating your insurance premium.
-In Figure 2 there are graphs showing the probability of living to a given age for Swedish women at three different periods in time, around 1800, 1900 and 2000.
+In Figure 2 there are graphs showing the probability of living to a given age for Swedish women at three different periods in time, around 1800, 1900 and 2000, respectively.
 They are example of a kind of graph is called survivorship curves.
 See
 .[\  
@@ -32,8 +36,8 @@ That final bend marks the onset of senescence.
 .PP
 Note that the curves become linear on an ordinate logarithmic scale is significant.\**
 .FS
-Assume that at some moment in time there we see the birth of $N sub 0$ infants.
-Then, if a proportion $c$ of them dies per year we have $x$ years later $N sub x = N sub 0 c sup x$ people left.
+Assume that at some moment in time we see the birth of $N sub 0$ infants.
+Then, if a proportion $c$ of them dies per year, $x$ years later $N sub x = N sub 0 c sup x$ are still alive.
 Taking the logarithm ($ln$) of that we see
 .EQ
 ln N sub x = x ln c + ln N sub 0
@@ -41,7 +45,7 @@ ln N sub x = x ln c + ln N sub 0
 that is, a straight line with the slope $ln c$.
 .FE
 When the curve is linear the yearly death rate is constant,
-which means that fixed small proportion of the people of one age die
+which means that a small fixed proportion of the population of one age die
 .I "per annum."
 During a such a period the force of mortality (if I may express myself a bit like Karl Popper) is significant.
 It implies that the mortality rates are fairly constant during periods of life.
@@ -72,19 +76,25 @@ So natural selection will frequently maximize vigor in youth at the expense of v
 Williams Pleiotropy 1957
 .]
 .LP
-This is the gist of the socalled pleiotropy theory of senescence.
-Pleiotropy is the condition arising when one or many genes have multiple phenotypic manifestations.
+This is the gist of the socalled
+.I pleiotropy
+theory of senescence.
+Pleiotropy is the condition arising when one or a small group genes have multiple phenotypic manifestations.
 The phenotype is jargon for what the genes does for the individual.
 In this case the pleiotropy is stretching across time in a favourable way.
 You live through your youth and then you reproduce,
 but then you pay with arthritis, senility and stroke when after your offspring has fledged.
 .PP
-For such an organism to evelve,
-in which individuals can be vigorous at for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot deaths and survivals to fine tune the balance between reproduction and mortality.
+For such an organism to evolve,
+in which individuals can be vigorous at for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot deaths and survivals to fine tune the balance between reproduction, senescence and mortality.
+Evolutionary gerontology is now a science in its own right.
+.[
+The evolution of aging and lifespan
+.]
 .PP
-Popper provides arguments for allowing singular events having probabilities based on sequece of throws of two dice.
+Popper provides arguments for allowing singular events having probabilities based on sequence of throws of two dice.
 One die is homogenous and symmetrical and contribute a few throes,
 and the other is loaded and contribute a majority.
 Each throw becomes an individual event.
-And so are the deaths of individuals in a population,
-with the additional feature that they contribute evolutionary moulding of a survivorship curve.
+And so are the deaths of individuals\[em]each of which is a mutant\[em]in a population.
+The additional feature is that these deaths contribute to the moulding of a survivorship curve.

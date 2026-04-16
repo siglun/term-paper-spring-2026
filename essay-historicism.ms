@@ -1,3 +1,10 @@
+.separator
+Can vi overcome the persistence forcast\[em]or how poor is historicism?
+.ID
+How to do better than the \f[I]persistence forcast\f[P]
+Blind variation and selective retention (Campbell)
+The poverty of historicism.
+.DE
 .PP
 A second aspect of how Popper presents his theory is that he sees the frequency interpretation as an example how we get knowledge through induction,
 whereas his propensity theory is forward looking where a setup is evaluated in an experiment.
