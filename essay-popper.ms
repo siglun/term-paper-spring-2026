@@ -26,7 +26,7 @@ Each of us carries around $3.055 \[mu] 10 sup 9$ base pairs
 complete sequence human genome 
 .]
 and we are diploid organisms.
-Therefore both you and I have got about 75.76 new mutations ($ 2 \[mu] 1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9$) from our parents.
+Therefore both you and I have got about 75.76 new mutations ($1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9  \[mu] 2$) from our parents.
 .FE
 .so dna/mutations.ms
 Mutation occurs all over the human genome at a rate from about $10 sup -9$ to $10 sup -8$ per base pair per generation.
