@@ -1,6 +1,8 @@
-.SH
-Natural Selection and our understanding of probability
-.PP
+.separator
+.LP
+.\" dropcap This 2 red4 R STIX 1n
+This leads us to the theory of Natural Selection and how it impacts our understanding of probability.
+First, however, we need to make an excursion into some theory.
 Popper handles probability somewhat different from how most textbooks do it.
 First,
 he rejects explicitly the notion that probabilities exist outside a context.

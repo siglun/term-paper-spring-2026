@@ -1,6 +1,7 @@
+.separator
 .LP
-.dropcap We 2 red4 R STIX 1n
-normally make a distinction between
+.\" dropcap We 2 red4 R STIX 1n
+We normally make a distinction between
 .I subjective
 and
 .I objective

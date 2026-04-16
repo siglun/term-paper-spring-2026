@@ -78,5 +78,13 @@ The phenotype is jargon for what the genes does for the individual.
 In this case the pleiotropy is stretching across time in a favourable way.
 You live through your youth and then you reproduce,
 but then you pay with arthritis, senility and stroke when after your offspring has fledged.
-To make such an organism,
-allowing individuals be vigorous at for a time period long enough for allowing them to help they grandchildren requires a lot of mutations to generate variation needed, an a lot deaths and survivals to fine tune the balance between reproduction and mortality.
+.PP
+For such an organism to evelve,
+in which individuals can be vigorous at for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot deaths and survivals to fine tune the balance between reproduction and mortality.
+.PP
+Popper provides arguments for allowing singular events having probabilities based on sequece of throws of two dice.
+One die is homogenous and symmetrical and contribute a few throes,
+and the other is loaded and contribute a majority.
+Each throw becomes an individual event.
+And so are the deaths of individuals in a population,
+with the additional feature that they contribute evolutionary moulding of a survivorship curve.
