@@ -2,13 +2,18 @@
 Probabilities and natural selection
 .AU
 Sigfrid Lundberg
+.separator
 .so essay-intro.ms
+.separator
 .so essay-popper.ms
 .so essay-senescence.ms
+.separator
 .so essay-natural-selection.ms
 .so natural-selection/the-price-formula.ms
+.separator
 .so essay-williamson.ms
 .so natural-selection/evolutionarily-stable-strategy.ms
+.separator
 .so essay-historicism.ms
 .separator
 .LP

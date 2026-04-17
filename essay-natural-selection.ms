@@ -1,4 +1,3 @@
-.separator
 .LP
 .\" dropcap This 2 red4 R STIX 1n
 All this raises the question how the theory of Natural Selection impacts our understanding of probability.
@@ -68,7 +67,6 @@ The probability of anything given something certain (a tautology) is 1 and Eq. (
 .EN
 which is necessarily false. Requiring $p( c bar , c ) \[!=] 0$ precludes this.
 .FE
-.separator
 .ID
 From Mr. Darwin and Frater Gregor Mendel
 to William Hamilton and George Price
