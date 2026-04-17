@@ -1,4 +1,3 @@
-.separator
 .LP
 .\" dropcap We 2 red4 R STIX 1n
 We normally make a distinction between

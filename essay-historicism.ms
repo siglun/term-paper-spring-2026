@@ -1,4 +1,4 @@
-.separator
+.LP
 Can vi overcome the persistence forcast\[em]or how poor is historicism?
 .ID
 How to do better than the \f[I]persistence forcast\f[P]

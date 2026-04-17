@@ -1,4 +1,4 @@
-.separator
+.LP
 Probability, possibility and dynamical systems
 .ID
 One locus two alleles
