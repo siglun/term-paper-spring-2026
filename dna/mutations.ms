@@ -345,7 +345,7 @@ There are two types of DNA substitution mutations.
 refer to substitutions between two-ring purines, i.e., an Adenine replaces Guanine (or vice versa),
 or an one-ring pyrimidines is replaced by another one-ring pyrimidine.
 That is Cytocine is replaced with a  Thymine (or vice versa).
-On base is replaced with another with a similar shape.
+One base is replaced with another with a similar shape.
 .I Transversions
 are more complicated interchanges of a purine for a pyrimidine, or vice versa.
 They implies exchanges one-ring and two-ring bases.
