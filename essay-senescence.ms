@@ -24,7 +24,7 @@ See
 #
 Rauschert Emily 2010 Survivorship Curves
 .]\ 
-for a popular description of survivorship curves.
+for a popular description of survivorship curves, including curves for other organisms than humans.
 .PP
 The ordinate scale (on the y axis) is logarithmic,
 while the abscissa (x axis) is linear.
@@ -63,6 +63,7 @@ or raises the survival rate up to and including the reproductive period,
 will have a chance to spread.
 However, there are no way a living being can improve in that way.
 Any improvement comes at a cost.
+.PP
 Or as Williams puts it in his seminal paper:
 .QP
 .vs 12
@@ -80,7 +81,7 @@ This is the gist of the socalled
 .I pleiotropy
 theory of senescence.
 Pleiotropy is the condition arising when one or a small group genes have multiple phenotypic manifestations.
-The phenotype is jargon for what the genes does for the individual.
+The phenotype is jargon for what the genes do to their carriers.
 In this case the pleiotropy is stretching across time in a favourable way.
 You live through your youth and then you reproduce,
 but then you pay with arthritis, senility and stroke when after your offspring has fledged.
@@ -93,8 +94,8 @@ The evolution of aging and lifespan
 .]
 .PP
 Popper provides arguments for allowing singular events having probabilities based on sequence of throws of two dice.
-One die is homogenous and symmetrical and contribute a few throes,
+One die is homogenous and symmetrical and contribute a few throws,
 and the other is loaded and contribute a majority.
 Each throw becomes an individual event.
-And so are the deaths of individuals\[em]each of which is a mutant\[em]in a population.
+So are the deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
 The additional feature is that these deaths contribute to the moulding of a survivorship curve.

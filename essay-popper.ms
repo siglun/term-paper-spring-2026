@@ -20,11 +20,11 @@ The mutation rate for humans is in the order of magnitude $1.24 \[mu] 10 sup -8$
 .[
 estimating mutation rate
 .]
-Each of us carries around $3.055 \[mu] 10 sup 9$ base pairs
+Each of us carries around $3.055 \[mu] 10 sup 9$ base pairs per chromosome set
 .[
 complete sequence human genome 
 .]
-and we are diploid organisms.
+and we are diploid organisms (we have two sets of chromosomes, one from each parent).
 Therefore both you and I have got about 75.76 new mutations ($1.24 \[mu] 10 sup -8 \[mu] 3.055 \[mu] 10 sup 9  \[mu] 2$) from our parents.
 .FE
 .so dna/mutations.ms
@@ -40,7 +40,7 @@ Popper propensity
 .]
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
-through a series of estimates.
+through a series of measurements (possibly an infinitely long series).
 .PP
 A propensity should be understood as the probability for a single event.
 .[
