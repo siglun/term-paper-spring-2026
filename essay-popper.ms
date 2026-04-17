@@ -102,7 +102,6 @@ The collective means in von Mises\[aq] vocabulary basically an experimental seri
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
-.PP
 Popper admits readily that from the point of view of a \[oq]purely statistical
 interpretation of probability\[cq].
 .[ (
