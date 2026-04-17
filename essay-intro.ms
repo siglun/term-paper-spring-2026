@@ -29,13 +29,13 @@ We have now sofisticated theories on probability,
 statistical inference and big data.
 I assume that all of these mentions Kolmogorov's axioms,
 flipping coins
-and fair dices.
+and fair dice.
 However, I do not think any of these theories dispute Russell.
 Neither will I.
 However,
-in this note I argue that only one
+in this note I argue that one
 .I interpretation
-of the concept is compatible with the theory of evolution.
+of the concept has compatibility with the theory of evolution than the rest.
 Namely the propensity interpretation proposed by.
 .[ 
 #
