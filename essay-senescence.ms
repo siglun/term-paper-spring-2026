@@ -38,10 +38,7 @@ Note that the curves become linear on an ordinate logarithmic scale is significa
 .FS
 Assume that at some moment in time we see the birth of $N sub 0$ infants.
 Then, if a proportion $c$ of them dies per year, $x$ years later $N sub x = N sub 0 c sup x$ are still alive.
-Taking the logarithm ($ln$) of that we see
-.EQ
-ln N sub x = x ln c + ln N sub 0
-.EN
+Taking the logarithm ($ln$) of that we see $ln N sub x = x ln c + ln N sub 0$,
 that is, a straight line with the slope $ln c$.
 .FE
 When the curve is linear the yearly death rate is constant,
@@ -72,6 +69,9 @@ The selective value of a gene depends on how it affects the total reproductive p
 Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves,
 but also on the times of the effects.
 An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.
+.QP
+.vs 12
+.ps 10
 So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
 .[
 Williams Pleiotropy 1957
@@ -99,3 +99,5 @@ and the other is loaded and contribute a majority.
 Each throw becomes an individual event.
 So are the deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
 The additional feature is that these deaths contribute to the moulding of a survivorship curve.
+The mutation pressure provides a variation that enables evolution,
+the selection pressure decides where the population goes.
