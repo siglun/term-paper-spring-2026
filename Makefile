@@ -9,7 +9,8 @@ default: essay.pdf
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/essay.pdf
 PAPER = -dpaper=a4 -P-pa4
 OTHERS =  ./references.text ./tmac/dropcap.tmac \
-	Makefile fitch-macros.pic parameters.ms back-matter.ms
+	Makefile fitch-macros.pic  eqn-definitions.ms \
+	parameters.ms back-matter.ms 
 
 .ms.pdf:
 	pdfroff -U -R  -sGtep   -ms -m pdfmark \
@@ -35,12 +36,12 @@ squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
 
 essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
-	essay-historicism.ms  essay-williamson.ms \
+	essay-heredity.ms essay-historicism.ms  essay-williamson.ms \
 	life-tables/life-tables-males.text \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
-	essay-natural-selection.ms eqn-definitions.ms \
-	dna/Aminoacids_table.eps dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
+	dna/Aminoacids_table.eps \
+	dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
 dna/Aminoacids_table.eps: dna/Aminoacids_table.svg 

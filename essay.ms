@@ -8,7 +8,8 @@ Sigfrid Lundberg
 .so essay-popper.ms
 .so essay-senescence.ms
 .separator
-.so essay-natural-selection.ms
+.so essay-heredity.ms
+.separator
 .so natural-selection/the-price-formula.ms
 .separator
 .so essay-williamson.ms
