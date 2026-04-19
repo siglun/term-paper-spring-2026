@@ -13,8 +13,8 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	parameters.ms back-matter.ms 
 
 .ms.pdf:
-	pdfroff -U -R  -sGtep   -ms -m pdfmark \
-	-m decorations -m dropcap -M ./tmac   \
+	pdfroff -U -R  -sGtep   -m s -m pdfmark \
+	-mdecorations -m dropcap -M ./tmac   \
 	-k  ${PAPER} -Tps  parameters.ms $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
