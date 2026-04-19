@@ -125,19 +125,23 @@ The white gene is \f[I]recessive\f[P].
 arne 1971
 .]
 .PP
-Platsen f\[:o]r ett anlag kallas vi ett
-.I locus,
-och varje alternativt anlag som kan finnas i ett locus kallas \fIallel\fP.
-Om det i ett locus finns samma allel i tv\[oa] upplagor, t ex $WW$ som ger vita blommor, s\[:a]ger vi att vi har en
-.I homozygot
-och vi har olika alleler, t ex $RW$ (ger r\[:o]da blommor), s\[:a]ger vi att vi har en
+The place for a gene is called a
+.I locus.
+The loci are collected on
+.I chromosomes.
+A gene that may occupy a locus are called an
+.I allel.
+A locus can have two allels, as we saw above.
+An individual which is $WW$ giving white pea flowers is refererred to as a
+.I homozygot,
+whereas if we have to different allels, t ex $RW$, we have an 
 .I heterozygot.
-Bruna och bl\[oa] \[:o]gon har i det enklaste fallet liknande ned\[:a]rvning,
-men generellt p\[oa]verkas f\[:a]rgen p\[oa] iris av \[oa]tminstone tre olika gener med \[oa]tskilliga alleler f\[:o]r var och en av dem.
+Brown and blue eyes have in the simplest case similar inheritance but in general does the colour of the  iris of genes in at least three loci with several alleles in each of them.
 .[
 eye color
 .]
-Augustinerna sj\[:a]lva skriver om sin Fra Gregor
+.PP
+The Augustines themselves are justly proud of their Fra Gregor
 .QP
 .vs 12
 .ps 10
@@ -145,6 +149,9 @@ He spent two years preparing the material for his best-known experiment,
 the one with peas,
 until he was sure that he was working with pure breeds.
 He handled more than 27,000 plants and patiently crossed a large number of them, both a thankless and visually exhausting job.
+.QP
+.vs 12
+.ps 10
 When he discovered the mathematical relationship between the inherited traits,
 thanks to the breadth of his experiment,
 he summarised it in a 45-page publication,
@@ -154,4 +161,3 @@ method and patience.
 .[
 orcasitas
 .]
-.LP
