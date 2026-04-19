@@ -47,11 +47,10 @@ bracket-label " (" ")" "; "
 .fam STIX
 .de separator
 .SH
-.LP
 .CD
 .ps +20
 \\n+[section]
 .ps
 .DE
-.sp
+.LP
 ..

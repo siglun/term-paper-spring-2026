@@ -2,7 +2,12 @@
 .\" dropcap This 2 red4 R STIX 1n
 All this raises the question how the theories of Heredity and Natural Selection impacts our understanding of probability.
 First, however, we must make two excursion into some theory.
-We need to take a look at how Karl Popper handles probability and use that to analyse Frater Gregor Mendel's laws of heredity.
+We need to take a look at how Karl Popper handles probability and use that to analyse Frater Gregor Mendel's\** laws of heredity.
+.FS
+Frater Gregor belonged to \fIOrdo Fratrum Sancti Augustini\fP.
+.br
+https://bit.ly/4kp6oyD
+.FE
 .PP
 To start with Popper,
 we note first that he rejects explicitly the notion that probabilities exist outside a context.
@@ -23,7 +28,7 @@ and by that he means that statements like
 .IP
 \[oq]The probability of $a$ given $b$ is equal to $r$ (where $ r\[mo]^\[u211D]$)\[cq]
 .LP
-implies, for example, that $a$ is a hypothesis which is studied in a experimental design $b$.
+implies, for example, that $a$ can be a hypothesis which is studied in a experimental design $b$.
 That is,
 anyone using probabilities is obliged to explain what they are conditional on.
 He uses his own notation for this:
@@ -79,3 +84,74 @@ which is necessarily false.
 Requiring $p( c bar , c ) \[!=] 0$ precludes this.
 .FE
 .PP
+Let us return to Fra Gregor Mendel and his laws.
+In a series of experiments with crossing of peas with he could demonstrate the principles of inheteritance.\**
+.FS
+See
+.[\ 
+#
+Ilona Miko Mendel
+.]\ 
+for a popular description of the achievements of Mendel.
+.FE
+Mendels most important observation is that he the first to prove that both parents contribute equally to the genome of their offspring.
+Each individual contain two copies of the genome,
+one from each parent.
+In turn each individual one such copy to each of their own offspring.
+A gene are the genetic contribution to a trait,
+usually called a phenotype after the environment (the nurture) has had its impact.
+From Aristotle to Mendel the accepted truth was that the man's seed contained everything needed to make a little child.
+.PP
+We talk about
+.I quantitative
+and
+.I qualitative
+inheritance.
+In the former case there are (possibly large) a number of genes contributing to a single character.
+In the latter we a single gene leading to qualitative characters,
+such as red and white pea flowers.
+.PP
+In the formation of germ cells the two parts of the genom separates randomly.
+For the male function it is formed sperms for animals as well as in pollen for plants.
+Likewise, for the female function animal egg cells or plant ovules are formed.
+In the example worked on by Mendel we have red and white pea flowers:
+We have a red gene $R$ which is
+.I dominant
+and a white one ($W$) which is not expressed at all when it is combined with a red.
+That is we have two phenotypes but three genotypes:  $RR$ and $RW$ have both the phenotyp red,
+and just the genotype $WW$ is white.
+The white gene is \f[I]recessive\f[P].
+.[
+arne 1971
+.]
+.PP
+Platsen f\[:o]r ett anlag kallas vi ett
+.I locus,
+och varje alternativt anlag som kan finnas i ett locus kallas \fIallel\fP.
+Om det i ett locus finns samma allel i tv\[oa] upplagor, t ex $WW$ som ger vita blommor, s\[:a]ger vi att vi har en
+.I homozygot
+och vi har olika alleler, t ex $RW$ (ger r\[:o]da blommor), s\[:a]ger vi att vi har en
+.I heterozygot.
+Bruna och bl\[oa] \[:o]gon har i det enklaste fallet liknande ned\[:a]rvning,
+men generellt p\[oa]verkas f\[:a]rgen p\[oa] iris av \[oa]tminstone tre olika gener med \[oa]tskilliga alleler f\[:o]r var och en av dem.
+.[
+eye color
+.]
+Augustinerna sj\[:a]lva skriver om sin Fra Gregor
+.QP
+.vs 12
+.ps 10
+He spent two years preparing the material for his best-known experiment,
+the one with peas,
+until he was sure that he was working with pure breeds.
+He handled more than 27,000 plants and patiently crossed a large number of them, both a thankless and visually exhausting job.
+When he discovered the mathematical relationship between the inherited traits,
+thanks to the breadth of his experiment,
+he summarised it in a 45-page publication,
+giving an account of his nine years' work.
+Only scientific rigour and personal conviction that he was reaching important conclusions can explain his thoroughness,
+method and patience.
+.[
+orcasitas
+.]
+.LP

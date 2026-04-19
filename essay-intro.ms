@@ -25,7 +25,7 @@ probability alan 2023
 .])
 .LP
 Little has changed during the century that has passed since Russell held that lecture.
-We have now sofisticated theories on probability,
+We have now sophisticated theories on probability,
 statistical inference and big data.
 I assume that all of these mentions Kolmogorov's axioms,
 flipping coins
@@ -35,7 +35,7 @@ Neither will I.
 However,
 in this note I argue that one
 .I interpretation
-of the concept has compatibility with the theory of evolution than the rest.
+of the concept has a better compatibility with the theory of evolution than the rest.
 Namely the propensity interpretation proposed by.
 .[ 
 #

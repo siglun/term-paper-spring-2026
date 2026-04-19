@@ -19,7 +19,7 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
 .chem.ms:
-	soelim  $<  | chem > $*.ms
+	soelim $< | chem  > $*.ms
 
 .svg.eps:
 	inkscape $< -o  $*.eps
