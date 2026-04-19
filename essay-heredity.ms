@@ -32,11 +32,11 @@ implies, for example, that $a$ can be a hypothesis which is studied in a experim
 That is,
 anyone using probabilities is obliged to explain what they are conditional on.
 He uses his own notation for this:
-.EQ (1)
+.EQ C (1)
 p(a,b)=r
 .EN
 The probability for $a$ given $b$, to be pedagogically redundant, is written in a more conventional notation
-.EQ (1\[aq])
+.EQ C (1\[aq])
 P( a | b ) = { P(a inter b ) } over P(b)
 .EN
 using the more common set theoretical notation rather than Popper's logical one.
@@ -50,17 +50,17 @@ Popper has defined his own calculus of probability containing three theorems.
 They are:
 The addition theorem,
 for calculating the probability of $a or b$ given $c$
-.EQ (2)
+.EQ C (2)
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
 This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
 When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (1) will be zero.
 His multiplication theorem
-.EQ (3)
+.EQ C (3)
 p(a and b, c) = p(a , b and c) p(b,c)
 .EN
 is really the same as
-.EQ (3\[aq])
+.EQ C (3\[aq])
 P(a inter b | c) = P( a | b inter c) P( b |c ) 
 .EN
 i.e., it comes from Eq. (1\[aq]).
@@ -69,7 +69,7 @@ You cannot see that from Eq. (1), though.
 Finally,
 let $a bar$ be the complement of $a$.
 The complement of a set is everything which is not in that set.
-.EQ (4)
+.EQ C (4)
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
 Popper admits himself that Eq. (4) is somewhat unusual.\**
@@ -134,30 +134,26 @@ A gene that may occupy a locus are called an
 A locus can have two allels, as we saw above.
 An individual which is $WW$ giving white pea flowers is refererred to as a
 .I homozygot,
-whereas if we have to different allels, t ex $RW$, we have an 
-.I heterozygot.
+whereas if we have to different allels, t ex $RW$, we have an \f[I]heterozygote\f[P].
 Brown and blue eyes have in the simplest case similar inheritance but in general does the colour of the  iris of genes in at least three loci with several alleles in each of them.
 .[
 eye color
 .]
 .PP
 The Augustines themselves are justly proud of their Fra Gregor
-.QP
+.QS
+.LP
 .vs 12
 .ps 10
 He spent two years preparing the material for his best-known experiment,
 the one with peas,
 until he was sure that he was working with pure breeds.
 He handled more than 27,000 plants and patiently crossed a large number of them, both a thankless and visually exhausting job.
-.QP
-.vs 12
-.ps 10
 When he discovered the mathematical relationship between the inherited traits,
-thanks to the breadth of his experiment,
-he summarised it in a 45-page publication,
-giving an account of his nine years' work.
+thanks to the breadth of his experiment, he summarised it in a 45-page publication, giving an account of his nine years' work.
 Only scientific rigour and personal conviction that he was reaching important conclusions can explain his thoroughness,
 method and patience.
 .[
 orcasitas
 .]
+.QE

@@ -53,7 +53,7 @@ Medawar problem biology
 .]  
 who was one who first discussed ageing as an evolutionary problem.
 .PP
-The problem of ageing is to give an evolutionary explanations to the shapes of those curves.
+The problem of ageing is to give evolutionary explanations to the shapes of those curves.
 Genes that are favourable after the end of the reproductive phase of our lives will not benefit of a rapid spread in the next generation.
 Genes that enhance reproduction,
 or raises the survival rate up to and including the reproductive period,
@@ -61,13 +61,19 @@ will have a chance to spread.
 However, there are no way a living being can improve in that way.
 Any improvement comes at a cost.
 Or as Williams puts it in his seminal paper:
-.QP
+.QS
+.LP
 .vs 12
 .ps 10
-The selective value of a gene depends on how it affects the total reproductive probability. Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves, but also on the times of the effects. An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it. So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
+.in \n[PI]u
+The selective value of a gene depends on how it affects the total reproductive probability.
+Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves, but also on the times of the effects.
+An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.
+So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
 .[
 Williams Pleiotropy 1957
 .]
+.QE
 .LP
 This is the gist of the socalled
 .I pleiotropy
