@@ -98,6 +98,8 @@ One die is homogenous and symmetrical and contribute a few throws,
 and the other is loaded and contribute a majority.
 Each throw becomes an individual event.
 So are the deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
-The additional feature is that these deaths contribute to the moulding of a survivorship curve.
+The additional feature is that these
+.I individual
+deaths contribute to the moulding of the survivorship curve for the population.
 The mutation pressure provides a variation that enables evolution,
-the selection pressure decides where the population goes.
+the selection pressure determines what changes occur in the population.
