@@ -23,7 +23,7 @@ See
 .[\  
 #
 Rauschert Emily 2010 Survivorship Curves
-.]\ 
+.]
 for a popular description of survivorship curves, including curves for other organisms than humans.
 .PP
 The ordinate scale (on the y axis) is logarithmic,
@@ -47,10 +47,10 @@ which means that a small fixed proportion of the population of one age die
 During a such a period the force of mortality (if I may express myself a bit like Karl Popper) is significant.
 It implies that the mortality rates are fairly constant during periods of life.
 The significance of this was pointed out by Peter
-.[\ 
+.[  
 #
 Medawar problem biology 
-.]\ 
+.]  
 who was one who first discussed ageing as an evolutionary problem.
 .PP
 The problem of ageing is to give an evolutionary explanations to the shapes of those curves.
@@ -60,19 +60,11 @@ or raises the survival rate up to and including the reproductive period,
 will have a chance to spread.
 However, there are no way a living being can improve in that way.
 Any improvement comes at a cost.
-.PP
 Or as Williams puts it in his seminal paper:
 .QP
 .vs 12
 .ps 10
-The selective value of a gene depends on how it affects the total reproductive probability.
-Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves,
-but also on the times of the effects.
-An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.
-.QP
-.vs 12
-.ps 10
-So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
+The selective value of a gene depends on how it affects the total reproductive probability. Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves, but also on the times of the effects. An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it. So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
 .[
 Williams Pleiotropy 1957
 .]
