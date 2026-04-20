@@ -46,6 +46,12 @@ bracket-label " (" ")" "; "
 .\" fam BA
 .fam STIX
 .de separator
+.CD
+*   *
+*
+.DE
+..
+.de section
 .SH
 .ce 1
 .ps +20

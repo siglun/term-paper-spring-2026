@@ -28,12 +28,11 @@ for a popular description of survivorship curves, including curves for other org
 .PP
 The ordinate scale (on the y axis) is logarithmic,
 while the abscissa (x axis) is linear.
-You will notice that there is a rapid fall at early ages (including infant mortality).
+There is a rapid fall at early ages (including infant mortality).
 Later the curves decline almost linearly till we reach perhaps 55\[en]60 years of age when they bend downwards, the mortality accelerates.
 After that bend the decline is again almost linear,
 but very much more rapid.
 That final bend marks the onset of senescence.
-.PP
 Note that the curves become linear on an ordinate logarithmic scale is significant.\**
 .FS
 Assume that at some moment in time we see the birth of $N sub 0$ infants.
@@ -42,21 +41,19 @@ Taking the logarithm ($ln$) of that we see $ln N sub x = x ln c + ln N sub 0$,
 that is, a straight line with the slope $ln c$.
 .FE
 When the curve is linear the yearly death rate is constant,
-which means that a small fixed proportion of the population of one age die
-.I "per annum."
-During a such a period the force of mortality (if I may express myself a bit like Karl Popper) is significant.
+which means that a small fixed proportion of the population of one age die \f[I]per annum.\f[P]
+.PP
+During a such a period the constancy of the force of mortality is significant.
 It implies that the mortality rates are fairly constant during periods of life.
 The significance of this was pointed out by Peter
 .[  
 #
 Medawar problem biology 
 .]  
-who was one who first discussed ageing as an evolutionary problem.
-.PP
-The problem of ageing is to give evolutionary explanations to the shapes of those curves.
-Genes that are favourable after the end of the reproductive phase of our lives will not benefit of a rapid spread in the next generation.
-Genes that enhance reproduction,
-or raises the survival rate up to and including the reproductive period,
+who was one who first discussed ageing as an evolutionary point of view.
+The problem is to give evolutionary explanations to the shapes of the survivorship curves.
+Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
+Genes that enhance reproduction, or raises the survival rate up to and including the reproductive period,
 will have a chance to spread.
 However, there are no way a living being can improve in that way.
 Any improvement comes at a cost.
@@ -65,7 +62,6 @@ Or as Williams puts it in his seminal paper:
 .LP
 .vs 12
 .ps 10
-.in \n[PI]u
 The selective value of a gene depends on how it affects the total reproductive probability.
 Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves, but also on the times of the effects.
 An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.

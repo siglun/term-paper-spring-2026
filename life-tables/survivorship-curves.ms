@@ -35,19 +35,15 @@ copy "life-tables/life-tables-females.text" thru {
 .ps 10
 Figure 2.
 The survivorship curves for Swedish women during three five year intervals in hstory, namely, 1800-1804, 1900-1904 and 2000-2005 (solid, dashed and dotted curves, respectively).
-Data from Human Mortality Database.\**
-.FS
-HMD.
-Human Mortality Database (https://www.mortality.org/).
+Data from Human Mortality Database (HMD: https://www.mortality.org/).
 Max Planck Institute for Demographic Research (Germany),
 University of California,
 Berkeley (USA),
 and French Institute for Demographic Studies (France).
-The data for the graph are available at
+The data for the graph above are available at
 .br
 https://www.mortality.org/File/GetDocument/hmd.v6/SWE/STATS/fltper_1x5.txt
 .br
 (data downloaded on 2026-03-26)
-.FE
 .sp
 .KE

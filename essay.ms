@@ -2,21 +2,21 @@
 Probabilities and natural selection
 .AU
 Sigfrid Lundberg
-.separator
+.section
 .so essay-intro.ms
-.separator
+.section
 .so essay-popper.ms
 .so essay-senescence.ms
-.separator
+.section
 .so essay-heredity.ms
-.separator
+.section
 .so natural-selection/the-price-formula.ms
-.separator
+.section
 .so essay-williamson.ms
 .so natural-selection/evolutionarily-stable-strategy.ms
-.separator
+.section
 .so essay-historicism.ms
-.separator
+.section
 .LP
 I write the conclusions when I have concluded them.
 .ig

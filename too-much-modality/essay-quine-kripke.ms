@@ -72,7 +72,7 @@ Quine 1947
 .]
 quantified referential modal logic can yield nonsense.
 He points out that
-.EQ (1)
+.EQ C (1)
 forall(x) forall(y) left [ (x = y) implies necessarily (x = y ) right ]
 .EN
 can only be true if $x = y$ is an essential property of $x$ and $y$.

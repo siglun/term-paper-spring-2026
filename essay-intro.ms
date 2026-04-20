@@ -13,7 +13,7 @@ Johanna Seibt Process Philosophy
 All changes occur with some probability,
 or so we believe.
 In this note I try to describe what kinds of probabilities that lie behind processes in nature.
-In particular I concentrate on the kind of probabilities we can trace in the theory of evolution by natural selection.
+In particular, I concentrate on the kind of probabilities we can trace in the theory of evolution by natural selection.
 There are problems connected with this goal;
 the most important one is, as pointed out by Bertrand Russell in a lecture 1929
 .QP
