@@ -7,7 +7,7 @@ Sigfrid Lundberg
 .vs 12
 .ps 10
 Natural selection works on the individual level,
-hence the probabilities out in nature must be for singular events.
+hence the probabilities that matters for Evolution out there in Nature must be for singular events.
 Furthermore,
 Natural Selection is not looking at your CV and past merits.
 It looks at your next achievements.
