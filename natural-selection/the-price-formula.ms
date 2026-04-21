@@ -1,9 +1,20 @@
 .LP
-George R. Price was an American population geneticist (and before that he had a career as a physical chemist and as science journalist).
-One of his main contribution to population genetics is his alternative formulation of \[oq]mathematical treatment of selection in general\[cq].
+Singular events, such as the births and deaths of individuals can make it difficult to directly percieve the probabilities when they are hidden behind statistics.
+George R. Price's\** modelling of the selection process is one of the mechanistic treatments of the theory of Natural Selection.
+In particular his covariance formulation of \[oq]mathematical treatment of selection in general\[cq] is regarded as conceptually elucidating.
 .[
 Price selection covariance
 .]
+.FS
+Price was American population geneticist and before that he had a career as a physical chemist and as science journalist.
+He worked in the Manhattan project with the physical and chemical properties of Uranium 235,
+contracted thyroid cancer during the 1950s.
+He died by his own hand 1975, possibly induced by hypothyroidism which is both a physical and psychiatric condition following thyroid hormone deficiency.
+He lived among homeless in London and gave away all his possessions, while working on the evolution of altruism at the Galton Laboratory, University College, London.
+.[
+Oren Harman 2011
+.]
+.FE
 .PP
 We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency of the gene $A$ from one generation to the next, $Delta Q$ .
 In this case his equation looks like this:

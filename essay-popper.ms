@@ -41,7 +41,6 @@ Popper propensity
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
 through a series of measurements (possibly an infinitely long series).
-.bp
 .PP
 A propensity should be understood as the probability for a single event.
 .[
