@@ -2,6 +2,16 @@
 Probabilities and natural selection
 .AU
 Sigfrid Lundberg
+.AB
+Natural selection works on the individual level,
+hence the probabilities out in nature must be for singular events.
+Furthermore,
+Natural Selection is not looking at your CV and past merits.
+It looks at your next achievements.
+Do you survive and reproduce the next year?
+Natural Selection is not induction,
+it is falsification.
+.AE
 .section
 .so essay-intro.ms
 .section
