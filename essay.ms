@@ -3,6 +3,9 @@ Probabilities and natural selection
 .AU
 Sigfrid Lundberg
 .AB
+.LP
+.vs 12
+.ps 10
 Natural selection works on the individual level,
 hence the probabilities out in nature must be for singular events.
 Furthermore,
