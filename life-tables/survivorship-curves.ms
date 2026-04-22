@@ -34,7 +34,7 @@ copy "life-tables/life-tables-females.text" thru {
 .vs 12
 .ps 10
 Figure 2.
-The survivorship curves for Swedish women during three five year intervals in hstory, namely, 1800-1804, 1900-1904 and 2000-2005 (solid, dashed and dotted curves, respectively).
+The survivorship curves for Swedish women during three five year intervals in history, namely, 1800-1804, 1900-1904 and 2000-2005 (solid, dashed and dotted curves, respectively).
 Data from Human Mortality Database (HMD: https://www.mortality.org/).
 Max Planck Institute for Demographic Research (Germany),
 University of California,
