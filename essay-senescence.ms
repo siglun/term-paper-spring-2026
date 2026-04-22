@@ -18,7 +18,7 @@ Those data are collected by researchers in various disciplines and are in high d
 They are important for many practical purposes,
 like calculating your insurance premium.
 In Figure 2 there are graphs showing the probability of living to a given age for Swedish women at three different periods in time, around 1800, 1900 and 2000, respectively.
-They are example of a kind of graph is called survivorship curves.
+They are examples of a kind of graph called survivorship curves.
 See
 .[\  
 #

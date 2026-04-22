@@ -28,7 +28,7 @@ and by that he means that statements like
 .IP
 \[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[u211D]$)\[cq]
 .LP
-implies, for example, that $a$ can be a hypothesis which is studied in a experimental design $b$.
+implies, for example, that $a$ can be a hypothesis which is studied in an experimental design $b$.
 That is,
 anyone using probabilities is obliged to explain what they are conditional on.
 He uses his own notation for this:
@@ -85,7 +85,7 @@ Requiring $p( c bar , c ) \[!=] 0$ precludes this.
 .separator
 .LP
 Let us return to Fra Gregor Mendel and his laws.
-In a series of experiments with crossing of peas he could demonstrate the principles of inheteritance.\**
+In a series of experiments with crossings of peas he could demonstrate the principles of inheritance.\**
 .FS
 See
 .[\ 
@@ -121,7 +121,7 @@ In the example worked on by Mendel we have red and white pea flowers:
 We have a red gene $R$ which is
 .I dominant
 and a white one ($W$) which is not expressed at all when it is combined with a red.
-That is we have two phenotypes but three genotypes:  $RR$ and $RW$ have both the phenotyp red,
+That is we have two phenotypes but three genotypes:  $RR$ and $RW$ have both the phenotype red,
 and just the genotype $WW$ is white.
 The white gene is \f[I]recessive\f[P].
 .[
@@ -133,11 +133,11 @@ The place for a gene within the genome is called a
 The loci are collected on
 .I chromosomes.
 Each gene that may occupy a locus is called an
-.I allel.
-A locus may have two allels (for a diploid organism like me), as we saw above.
-An individual which is $WW$ giving white pea flowers is refererred to as a
-.I homozygot,
-whereas if we have to different allels, t ex $RW$, we have an \f[I]heterozygote\f[P].
+.I allele.
+A locus may have two alleles (for a diploid organism like me), as we saw above.
+An individual which is $WW$ giving white pea flowers is referred to as a
+.I homozygote,
+whereas if we have two different alleles, $RW$, we have an \f[I]heterozygote\f[P].
 Brown and blue eyes have in the simplest case similar inheritance but in general does the colour of the  iris of genes in at least three loci with several alleles in each of them.
 .[
 eye color
@@ -177,8 +177,8 @@ Just as it is impossible to tell the difference between $RW$ and $RR$,
 one phenotype produced by two genotypes.
 .PP
 The formation of germ cells through meiosis is not always simple and peaceful as they are in red and white peas in Fra Gregor's Monastery Garden.
-All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomenona called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
-An allel $A sub d$ can be capable of pushing for itself when germ cells are formed.
+All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomena called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
+An allele $A sub d$ can be capable of pushing for itself when germ cells are formed.
 That is, when individuals with genotype $A sub d A sub x$ ratio between $A sub d$ and $A sub x$ will be larger than unity.
 This can be caused by purely cellular mechanisms,
 but there are also known examples where sperms or eggs (in males and females, respectively) actually attack and kill each other in \[oq]The Battle for Transmission\[cq].
