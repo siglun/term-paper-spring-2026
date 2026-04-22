@@ -1,7 +1,7 @@
 .LP
-Singular events, such as the births and deaths of individuals can make it difficult to directly percieve the probabilities when they are hidden behind statistics.
-George R. Price's\** modelling of the selection process is one of the mechanistic treatments of the theory of Natural Selection.
-In particular his covariance formulation of \[oq]mathematical treatment of selection in general\[cq] is regarded as conceptually elucidating.
+Singular events, such as the births and deaths of individuals can make it difficult to directly percieve any probabilities that are hidden a plethora of other circumstances.
+George R. Price\** modelled selection as a truly mechanistic process.
+In particular his covariance formulation of the mathematical theory of Natural Selection is regarded as conceptually elucidating.
 .[
 Price selection covariance
 .]
@@ -15,6 +15,8 @@ He lived among homeless in London and gave away all his possessions, while worki
 Oren Harman 2011
 .]
 .FE
+I will derive Price's equation,
+and in parallel use Popper's theorems to derive a dynamical system which make it possible to calculate the change of gene frequencies over time.
 .PP
 We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency of the gene $A$ from one generation to the next, $Delta Q$ .
 In this case his equation looks like this:
@@ -27,16 +29,40 @@ $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes
 in the population, respectively.
 .PP
 Price considers two populations $P sub 1$ and $P sub 2$,
-where the former represents the parents and the latter its offspring.
+where the former represents the parents and the latter their offspring.
 We first consider the  $P sub 1$.
 Let $g sub i$ be the dose of the gene $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species.
 Further,
-let $n sub z$ the zygotic ploidy of the species. For a diploid species $n sub z = 2$.
+let $n sub z$ the zygotic ploidy of the species.
+For a diploid species $n sub z = 2$.
 The frequency of the gene $A$ in $P sub 1$ is
 .EQ C (2)
 Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
 .EN
 where we take the sums over all members of population $P sub 1$.
+.PP
+In traditional population genetics you do this differently.
+Here you assume (i) Mendel's law of inheritance and (ii) random mating.
+(Price assume nothing of this when deriving his equation.)
+We can use these traditional assumptions and from Equation (2) to calculate $q bar$.
+Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$.
+If we knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$ and had a method of calculating the frequencies of the genotypes from the gene frequency things many things could be easier.
+That can be done.
+Let us now form the population $P sub 1$ as zygotes from the gamets.
+This is an urn experiment.
+We pick up two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Equation (P3).
+Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1)$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplicaton theorem Equation (P3) and then we sum them together per Equation (P2).
+Since the two are identical, sum them together and get $2 Q sub 1 (1 - Q sub 1 )$.
+.EQ C (2\[aq])
+Q sub 1 = { 2 Q sub 1 sup 2 N + 2 Q sub 1 ( 1 - Q sub 1 ) N } over { 2  N } = q bar
+.EN
+Here we have used 2 for $g sub i $ for all those that are homozygous and 1 for those that are heterozygous.
+This way to go from gene frequencies to genotype ones is called Hardy-Weinberg's law:
+.EQ
+lpile { { AA: Q sup 2 } above { Aa: 2Q(1-Q) } above { aa: (1-Q) sup 2 }}
+.EN
+There is nothing more than Popper's theorems (or the corresponding traditional ones), behind this exercise.
+.PP
 Now, turn to the frequency of $A$ in the offspring population $P sub 2$.
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
 but also the number of $A$ genes $g prime sub i$.
@@ -51,23 +77,54 @@ above
 ~~ lpile { { roman if ^ z sub i != 0 } above {roman if ^ z sub i = 0 } } 
 .EN
 Let $Delta q sub i = q prime sub i - q sub i$ for short.
+It is the difference between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
+This quantity is very important,
+and I will return to its significant below.
+.PP
 Also, recall that the population covariance between two stochastic variables, lets call them $z$ and $q$, are defined as
-.EQ
-roman  cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar q bar
+.EQ C (4)
+roman  cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar
 .EN
 Let $Q sub 2$ be the frequency of $A$ in the offspring population $P sub 2$.
 Then
-.EQ C (4a)
+.EQ C (5a)
 Q sub 2 mark = { sum from i=1 to N g prime sub i } over {sum from i=1 to N z sub i n sub G } = { sum from i=1 to N z sub i n sub G q prime sub i } over { sum from i=1 to N z sub i n sub G } = { sum from i=1 to N z sub i q prime sub i } over { N z bar }
 .EN
-.EQ C (4b)
-lineup = { sum from i=1 to N z sub i q sub i } over { N z bar } + { sum from i=1 to N z sub i Delta q sub i } over { N z bar } = z bar q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
+.EQ C (5b)
+lineup = { sum from i=1 to N z sub i q sub i } over { N z bar } + { sum from i=1 to N z sub i Delta q sub i } over { N z bar } = z bar ^^ q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
-.EQ C (4c)
+.EQ C (5c)
 lineup = q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
 Now we are approaching the end of the derivation.
-Subtract Equation (2) from (4c)
-.EQ C (5)
-Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=0 to N z sub i Delta q sub i } over { N z bar }
+Subtract Equation (3) from (5c)
+.EQ C (6)
+Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
+.LP
+All this was an exercise to derive Equation (1).
+The second term in Equation (6) is not a bug but a feature.
+It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
+When it is nonzero this activates the reasons why Selection operates through individual events.
+We need to be able to discuss them, estimate the probabilities involved and so forth.
+That term is an argument for the propensity interpretation of probability.
+.PP
+The traditional population genetics use another formulation.
+We start with a variation of Equation (4)
+.EQ C (4\[aq])
+roman  cov(z,q) mark = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar = { N Q sub 1 sup 2 z sub AA + N 2 Q sub 1 ( 1 - Q sub 1 ) z sub Aa 1 smallover 2 } over N - z bar ^^ q bar
+.EN
+where we assume Hardy-Weinberg equilibrium and remember the defintion $q sub i$ above.
+Also we replace the index $i$ on the $z sub i$ (the number of successful gamets from individual $i$) with their genotypes.
+I also replace $Q sub 1$ and $q bar$ with the letter $p$ (they are equal under the given assumptions)
+.EQ
+lineup = { p sup 2 z sub AA + p  ( 1 - p ) z sub Aa } - z bar ^^ q bar
+.EN
+Substituting this into Equation (using the $p$ rather than $Q$) we get
+.EQ  C (1\[aq])
+Delta p = { p sup 2 z sub AA + p ( 1-p ) Z sub Aa } over z bar - p
+.EN
+which is derived from the Price rather than the conventional way.
+.[
+Okasha 2024
+.]
