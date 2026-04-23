@@ -97,7 +97,7 @@ lineup = { sum from i=1 to N z sub i q sub i } over { N z bar } + { sum from i=1
 lineup = q bar + { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
 Now we are approaching the end of the derivation.
-Subtract Equation (3) from (5c)
+Subtract Equation (2) from (5c)
 .EQ C (6)
 Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
@@ -112,7 +112,7 @@ like sexual selection.
 .[ (
 Fisher selection
 .], p. 146\[en]156)
-Selection can also operate through meiotic drive and segregation distorsion,
+Selection can also operate through meiotic drive and segregation distortion,
 when a gene is trying to get an upper hand in the Battle of Transmission
 .[
 Lindholm 2016
@@ -139,3 +139,4 @@ which is derived from the Price equation rather than the conventional way.
 .[
 Okasha 2024
 .]
+In this notation the mean value of the number of successful gamets from parents with different genotypes is $z bar = p sup 2 z sub AA + 2 p ( 1 - p ) z sub Aa + ( 1 - p ) sup 2 z sub aa$.

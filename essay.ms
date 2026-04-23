@@ -2,19 +2,16 @@
 Probabilities and natural selection
 .AU
 Sigfrid Lundberg
-.AB
 .LP
+.RD
 .vs 12
 .ps 10
-Natural selection works on the individual level,
-hence the probabilities that matters for Evolution out there in Nature must be for singular events.
-Furthermore,
-Natural Selection is not looking at your CV and past merits.
-It looks at your next achievements.
-Do you survive and reproduce the next year?
-Natural Selection is not induction,
-it is falsification.
-.AE
+widows I heard wailing wildly
+and children sobbing for bread –
+Stars do not care even mildly
+if someone is born or is dead.
+(Nils Ferlin)
+.DE
 .section
 .so essay-intro.ms
 .section
@@ -31,7 +28,14 @@ it is falsification.
 .so essay-historicism.ms
 .section
 .LP
-I write the conclusions when I have concluded them.
+Natural selection works on the individual level,
+hence the probabilities that matters for Evolution out there in Nature must be for singular events.
+Furthermore,
+Natural Selection is not looking at your CV and past merits.
+It looks at your next achievements.
+Do you survive and reproduce the next year?
+Natural Selection is not induction,
+it is falsification.
 .ig
 https://tegen-beeld.nl/muurgedichten/stjarnorna-kvittar-det-lika
 
