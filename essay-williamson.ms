@@ -1,14 +1,4 @@
 .LP
-Probability, possibility and dynamical systems
-.ID
-One locus two alleles
-stability, invasibility and the role of propensities when rare
-We should avoid the fitness concept (interpreted as a propensity or not)
-Instead focus on selection as a process.
-We are not guaranteed that the propagation of a trait can be
-summarized in a single statistic
-.DE
-.LP
 The Price equation leads us to dynamical systems modelling the change in gene frequencies between generations.
 I discuss them briefly from the point of the modal spaces by.
 .[\
