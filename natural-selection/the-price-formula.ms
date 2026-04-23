@@ -44,11 +44,11 @@ where we take the sums over all members of population $P sub 1$.
 In traditional population genetics you do this differently.
 Here you assume (i) Mendel's law of inheritance and (ii) random mating.
 (Price assume nothing of this when deriving his equation.)
-We can use these traditional assumptions and from Equation (2) to calculate $q bar$.
-Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$.
-If we knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$ and had a method of calculating the frequencies of the genotypes from the gene frequency things many things could be easier.
-That can be done.
-Let us now form the population $P sub 1$ as zygotes from the gametes.
+Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$ (basically this is what Price does).
+From those data we can easily calculate the gene frequence.
+Now we use the traditional assumptions and Equation (2) to calculate $q bar$.
+We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
+Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.
 This is an urn experiment.
 We pick up two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Equation (P3).
 Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1)$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Equation (P3) and then we sum them together per Equation (P2).
@@ -63,7 +63,7 @@ lpile { { AA: Q sup 2 } above { Aa: 2Q(1-Q) } above { aa: (1-Q) sup 2 }}
 .EN
 There is nothing more than Popper's theorems (or the corresponding traditional ones), behind this exercise.
 .PP
-Now, turn to the frequency of $A$ in the offspring population $P sub 2$.
+Now, turn to the frequency of $A$ in the offspring population $P sub 2$ (the next generation).
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
 but also the number of $A$ genes $g prime sub i$.
 We also have to take into account the gametic ploidy $n sub G$.
@@ -105,7 +105,14 @@ Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from
 All this was an exercise to derive Equation (1).
 The second term in Equation (6) is not a bug but a feature.
 It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
-When it is nonzero this activates the reasons why Selection operates through individual events,
+One reason for this term being is genetic drift,
+also known as sampling error.
+There are also a range of other factors,
+like sexual selection.
+.[ (
+Fisher selection
+.], p. 146\[en]156)
+Selection can also operate through meiotic drive and segregation distorsion,
 when a gene is trying to get an upper hand in the Battle of Transmission
 .[
 Lindholm 2016
