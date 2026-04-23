@@ -53,7 +53,7 @@ for calculating the probability of $a or b$ given $c$
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
 This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
-When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (1) will be zero.
+When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P1) will be zero.
 His multiplication theorem
 .EQ C (P3)
 p(a and b, c) = p(a , b and c) p(b,c)
@@ -62,8 +62,8 @@ is really the same as
 .EQ C (P3\[aq])
 P(a inter b | c) = P( a | b inter c) P( b |c ) 
 .EN
-i.e., it comes from Eq. (1\[aq]).
-You cannot see that from Eq. (1), though.
+i.e., it comes from Eq. (P1\[aq]).
+You cannot see that from Eq. (P1), though.
 .PP
 Finally,
 let $a bar$ be the complement of $a$.
@@ -71,11 +71,11 @@ The complement of a set is everything which is not in that set.
 .EQ C (P4)
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
-Popper admits himself that Eq. (4) is somewhat unusual.\**
+Popper admits himself that Eq. (P4) is somewhat unusual.\**
 I will not use it in this note, kept it here for the sake of completeness.
 .FS
 This is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
-The probability of anything given something certain (a tautology) is 1 and Eq. (4) would become
+The probability of anything given something certain (a tautology) is 1 and Eq. (P4) would become
 .EQ
 1 = 1 - 1
 .EN
@@ -98,7 +98,7 @@ Mendels most important observation was that both parents contribute equally to t
 Each individual contains two copies of the genome,
 one from each parent.
 In turn each individual passes on one such copy to each of their own offspring.
-A gene are the genetic contribution to a trait,
+A gene is the genetic contribution to a trait,
 usually called a phenotype after the environment (the nurture) has had its impact.
 He was the first to prove this.
 From (at least) Aristotle to Mendel the accepted truth was that the man's seed contained everything needed to make a little child.
@@ -109,7 +109,7 @@ and
 .I qualitative
 inheritance.
 In the former case there are a (possibly large) number of genes contributing to a single character.
-In the latter we a single gene leading to qualitative characters,
+In the latter we have a single gene leading to qualitative characters,
 such as red and white pea flowers.
 .PP
 In the formation of germ cells the two parts of the genome separates randomly.
@@ -163,11 +163,11 @@ orcasitas
 .LP
 In the perhaps best known experiment in Mendel's study was his crosses between $RW  \[mu] RW$.
 This is basically a classic urn experiment.
-The anther's produce pollen, $R$ and $W$ each with probability $1 smallover 2$.
+The anthers produce pollen, $R$ and $W$ each with probability $1 smallover 2$.
 The pistil makes ovules in the same proportions.
 .PP
-The pollen and ovules combine into offspring, cygotes. They do so in the proportions $1 smallover 4$  $RR$, which follows from Popper's multiplication theorem Eq. (P3).
-$1 smallover 2$ $RW$ = $1 smallover 4$ $RW$ + $1 smallover 4$ $WR$, by Popper's addition theorem Eq (P2), since they are are genotypically and phenotypically identical.
+The pollen and ovules combine into offspring, zygotes. They do so in the proportions $1 smallover 4$  $RR$, which follows from Popper's multiplication theorem Eq. (P3).
+$1 smallover 2$ $RW$ = $1 smallover 4$ $RW$ + $1 smallover 4$ $WR$, by Popper's addition theorem Eq (P2), since they are genotypically and phenotypically identical.
 Finally we get $1 smallover 4$ $WW$, again by Eq (P3).
 Now, we mentioned dominance above.
 The $R$ allele is dominant over $W$ so, again by Popper's addition theorem we get $3 smallover 4$ = $1 smallover 4 + 1 smallover 2$ red pea flowers and $1 smallover 4$ in the offspring from  $RW  \[mu] RW$.
@@ -179,7 +179,7 @@ one phenotype produced by two genotypes.
 The formation of germ cells through meiosis is not always simple and peaceful as they are in red and white peas in Fra Gregor's Monastery Garden.
 All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomena called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
 An allele $A sub d$ can be capable of pushing for itself when germ cells are formed.
-That is, when individuals with genotype $A sub d A sub x$ ratio between $A sub d$ and $A sub x$ will be larger than unity.
+That is, individuals with genotype $A sub d A sub x$ produce more gametes with $A sub d$ than with $A sub x$.
 This can be caused by purely cellular mechanisms,
 but there are also known examples where sperms or eggs (in males and females, respectively) actually attack and kill each other in \[oq]The Battle for Transmission\[cq].
 .[

@@ -33,7 +33,7 @@ Later the curves decline almost linearly till we reach perhaps 55\[en]60 years o
 After that bend the decline is again almost linear,
 but very much more rapid.
 That final bend marks the onset of senescence.
-Note that the curves become linear on an ordinate logarithmic scale is significant.\**
+That the curves become linear on an ordinate logarithmic scale is significant.\**
 .FS
 Assume that at some moment in time we see the birth of $N sub 0$ infants.
 Then, if a proportion $c$ of them dies per year, $x$ years later $N sub x = N sub 0 c sup x$ are still alive.
@@ -43,7 +43,7 @@ that is, a straight line with the slope $ln c$.
 When the curve is linear the yearly death rate is constant,
 which means that a small fixed proportion of the population of one age die \f[I]per annum.\f[P]
 .PP
-During a such a period the constancy of the force of mortality is significant.
+During such a period the constancy of the force of mortality is significant.
 It implies that the mortality rates are fairly constant during periods of life.
 The significance of this was pointed out by Peter
 .[  
