@@ -1,5 +1,5 @@
 .LP
-The Price equation leads us to dynamical systems modelling the change in gene frequencies between generations.
+The Price equation has lead us to a dynamical systems modelling the change in gene frequencies between generations.
 I discuss them briefly from the point of the modal spaces by.
 .[\
 #
