@@ -94,7 +94,7 @@ Ilona Miko Mendel
 .]\ 
 for a popular description of the achievements of Mendel.
 .FE
-Mendels most important observation was that both parents contribute equally to the genome of their offspring.
+Mendel's most important observation was that both parents contribute equally to the genome of their offspring.
 Each individual contains two copies of the genome,
 one from each parent.
 In turn each individual passes on one such copy to each of their own offspring.
@@ -138,7 +138,7 @@ A locus may have two alleles (for a diploid organism like me), as we saw above.
 An individual which is $WW$ giving white pea flowers is referred to as a
 .I homozygote,
 whereas if we have two different alleles, $RW$, we have an \f[I]heterozygote\f[P].
-Brown and blue eyes have in the simplest case similar inheritance but in general does the colour of the  iris of genes in at least three loci with several alleles in each of them.
+Brown and blue eyes have in the simplest case similar inheritance. However, in general the colour of the  iris depend on genes in at least three loci with several alleles in each of them.
 .[
 eye color
 .]
