@@ -8,7 +8,7 @@ probability statistics truth 1957
 We are all mutants, and each of us will die.
 There is a connection between the deaths and the mutations,
 and that is
-.I "Natural Selection."
+.I "natural selection."
 We start with mortality.
 .PP
 When discussing such probabilities we need a kind of data usually referred to as
