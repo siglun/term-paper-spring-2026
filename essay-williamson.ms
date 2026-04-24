@@ -1,7 +1,9 @@
 .LP
 The Price equation has lead us to a dynamical systems modelling the change in gene frequencies between generations.
+Such systems are, at a conceptual level, essential for the understanding of all that we see as changes out in nature;
+dynamicity is at the core of evolution albeit .
 I discuss them briefly from the point of the modal spaces by.
-.[\
+.[\ 
 #
 Williamson spaces possibility
 .]
@@ -15,3 +17,13 @@ Here we see how the properties of few individuals are having crucial importance 
 Or in terms of a dynamic system,
 is the equlibrium state of the system invasible or susceptibility to change.
 Here is where dynamical systems theory meets modalities such as possibility and necessity.
+.QS
+.LP
+.vs 12
+.ps 10
+A \[oq]strategy\[cq] is a behavioural phenotype;
+i.e., it is a specification of what an individual will do in any situation in which it may find itself.
+An ESS is a strategy such that,
+if all members of a population adopt it,
+then no mutant strategy could invide the population under the influence of natural selection.
+.QE

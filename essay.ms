@@ -22,8 +22,8 @@ if someone is born or is dead.
 .section
 .so natural-selection/the-price-formula.ms
 .section
-.so essay-williamson.ms
 .so natural-selection/evolutionarily-stable-strategy.ms
+.so essay-williamson.ms
 .section
 .so essay-historicism.ms
 .section
@@ -31,10 +31,10 @@ if someone is born or is dead.
 Natural selection works on the individual level,
 hence the probabilities that matters for Evolution out there in Nature must be for singular events.
 Furthermore,
-Natural Selection is not looking at your CV and past merits.
+Natural selection is not looking at your CV and past merits.
 It looks at your next achievements.
 Do you survive and reproduce the next year?
-Natural Selection is not induction,
+Natural selection is not induction,
 it is falsification.
 .ig
 https://tegen-beeld.nl/muurgedichten/stjarnorna-kvittar-det-lika

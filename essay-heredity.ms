@@ -1,8 +1,8 @@
 .LP
-All this raises the question how the theories of Heredity and Natural Selection  as we know them impact our understanding of probability.
+All this raises the question how the theories of heredity and natural selection  as we know them impact our understanding of probability.
 First, however, we must make two excursions into some theories.
 We need to take a look at how Karl Popper handles probability and use that to analyse Frater Gregor Mendel's (OSA)\** laws of heredity.
-Then I return to Natural Selection in a section of its own below. 
+Then I return to natural selection in a section of its own below. 
 .FS
 Frater Gregor belonged to \fIOrdo Fratrum Sancti Augustini\fP.
 .br
