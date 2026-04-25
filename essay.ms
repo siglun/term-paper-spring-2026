@@ -7,7 +7,7 @@ Sigfrid Lundberg
 .vs 12
 .ps 10
 widows I heard wailing wildly
-and children sobbing for bread –
+and children sobbing for bread \[em]
 Stars do not care even mildly
 if someone is born or is dead.
 (Nils Ferlin)
@@ -22,6 +22,7 @@ if someone is born or is dead.
 .section
 .so natural-selection/the-price-formula.ms
 .section
+.so essay-stochasticity.ms
 .so natural-selection/evolutionarily-stable-strategy.ms
 .so essay-williamson.ms
 .section

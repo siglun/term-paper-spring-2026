@@ -1,5 +1,4 @@
 .LP
-The Price equation has lead us to a dynamical systems modelling the change in gene frequencies between generations.
 This is, when individual propensities are manifesting themselves.
 In evoluation we can see this in evolution in the theory of Evolutionarily Stable Strategies (ESS).
 .PP
