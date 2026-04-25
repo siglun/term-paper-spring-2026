@@ -23,6 +23,7 @@ if someone is born or is dead.
 .so natural-selection/the-price-formula.ms
 .section
 .so essay-stochasticity.ms
+.section
 .so natural-selection/evolutionarily-stable-strategy.ms
 .so essay-williamson.ms
 .section
