@@ -1,0 +1,31 @@
+.LP
+In this notation the mean value of the number of successful gamets from parents with different genotypes is $z bar = p sup 2 z sub AA + 2 p ( 1 - p ) z sub Aa + ( 1 - p ) sup 2 z sub aa$.
+The Equation (1\[aq]) gives us three possible equilibria when $Delta p = 0$:
+.EQ 
+p hat ~=~ left { cpile { { 0 } above { 1 } above { z sub aa - z sub Aa } over { z sub AA - 2 Z sub Aa + z sub aa } }
+.EN
+.KF
+.G1
+size = 1.8
+coord x 0,1.7 y 0,1.7
+frame invis ht 9 wid 9 left solid color "black" bot solid color "black"
+label bot "$z sub aa$" down 1
+label left "$z sub Aa$" left 1.2
+line from 0,0 to 1.5,1.5
+"$z sub Aa = z sub aa$" at 1.5,1.5
+for zwild = 0 to 1.4 by 0.2 do {
+    for zmut = 0 to 1.4 by 1.4 do {
+        line from 0,zwild/2 to zmut,(zmut + zwild)/2
+    }
+}
+for zwild = 0.7 to 1.4 by 0.2 do {
+    zmut = 1.6
+    "$z sub AA =^ $" rjust at zmut,zwild
+    sprintf("%1.1f", zwild ) ljust at zmut,zwild
+}
+.G2
+.QP
+.vs 12
+.ps 10
+Figure 3.
+.KE

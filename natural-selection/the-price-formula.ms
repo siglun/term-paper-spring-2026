@@ -135,8 +135,10 @@ Substituting this into Equation (1) (using the $p$ rather than $Q$) we get
 .EQ  C (1\[aq])
 Delta p = { p sup 2 z sub AA + p ( 1-p ) z sub Aa } over z bar - p
 .EN
-which is derived from the Price equation rather than the conventional way.
-.[
+which is derived from the Price equation rather than the conventional way,
+as
+.[ 
+#
 Okasha 2024
 .]
-In this notation the mean value of the number of successful gamets from parents with different genotypes is $z bar = p sup 2 z sub AA + 2 p ( 1 - p ) z sub Aa + ( 1 - p ) sup 2 z sub aa$.
+does it.

@@ -21,11 +21,12 @@ if someone is born or is dead.
 .so essay-heredity.ms
 .section
 .so natural-selection/the-price-formula.ms
+.\" so natural-selection/polymorphism.grap
 .section
-.so essay-stochasticity.ms
+.so essay-williamson.ms
+.\" so essay-stochasticity.ms
 .section
 .so natural-selection/evolutionarily-stable-strategy.ms
-.so essay-williamson.ms
 .section
 .so essay-historicism.ms
 .section
