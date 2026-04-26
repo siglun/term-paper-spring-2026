@@ -41,7 +41,9 @@ essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	life-tables/life-tables-females.text  \
 	life-tables/survivorship-curves.ms \
 	dna/Aminoacids_table.eps \
-	dna/mutations.ms natural-selection/the-price-formula.ms $(OTHERS)
+	dna/mutations.ms natural-selection/the-price-formula.ms \
+	natural-selection/polymorphism.grap \
+	essay-stochasticity.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
 dna/Aminoacids_table.eps: dna/Aminoacids_table.svg 

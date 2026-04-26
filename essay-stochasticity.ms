@@ -1,7 +1,6 @@
-.LP
-The Price equation has lead us to a dynamical system that models the change in gene frequencies between generations.
-In general, all these probabilities will have an impact on that change.
-We can distinguish between different kinds of such effects.
+.PP
+The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.
+There will be three kinds of such effects.
 We have two that we may refer to as
 .I internal:
 (i) There could be sampling errors in the mating process causing genetic drift.
@@ -12,8 +11,12 @@ Crow Kimura
 .[
 Pielou
 .]
-and a third which is
-.I external:
-Environmental stochasticity,
-involving everything from harsh weather to asteroids and the Cretaceous–Paleogene extinction event.
-Usually this is guaussian (normally distributed) disturbances.
+The internal stochasticities are superimposed on selection pressures and effects like sexual selection, meiotic drive etc mentioned above.
+In addition we have (iii)
+.I external
+stochasitity caused by the environmental,
+which involves everything from harsh weather to asteroids and the Cretaceous\[en]Paleogene extinction event.
+However, mathematically these are guaussian (normally distributed) disturbances.
+.[ (
+Robert May 1974
+.], p. 109\[en]139
