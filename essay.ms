@@ -25,8 +25,8 @@ if someone is born or is dead.
 .section
 .so essay-williamson.ms
 .\" so essay-stochasticity.ms
-.section
-.so natural-selection/evolutionarily-stable-strategy.ms
+.\" section
+.\" so natural-selection/evolutionarily-stable-strategy.ms
 .section
 .so essay-historicism.ms
 .section
