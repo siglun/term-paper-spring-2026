@@ -18,7 +18,6 @@ An ESS is a strategy such that,
 if all members of a population adopt it,
 then no mutant strategy could invide the population under the influence of natural selection.
 .QE
-
 .PP
 Causation is causal dependence with transitivity.
 .[\& (

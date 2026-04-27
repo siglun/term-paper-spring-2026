@@ -59,7 +59,7 @@ Q sub 1 = { 2 Q sub 1 sup 2 N + 2 Q sub 1 ( 1 - Q sub 1 ) N } over { 2  N } = q 
 Here we have used 2 for $g sub i $ for all those that are homozygous and 1 for those that are heterozygous.
 This way to go from gene frequencies to genotype ones is called Hardy-Weinberg's law:
 .EQ
-lpile { { AA: Q sup 2 } above { Aa: 2Q(1-Q) } above { aa: (1-Q) sup 2 }}
+rpile { { AA:~~ } above { Aa:~~ } above { aa:~~ }} rpile { { Q sup 2 } above { 2Q(1-Q) } above { (1-Q) sup 2 }}
 .EN
 There is nothing more than Popper's theorems (or the corresponding traditional ones), behind this exercise.
 .PP
@@ -129,11 +129,11 @@ where we assume Hardy-Weinberg equilibrium and remember the definition of $q sub
 Also we replace the index $i$ on the $z sub i$ (the number of successful gametes from individual $i$) with their genotypes.
 I also replace $Q sub 1$ and $q bar$ with the letter $p$ (they are equal under the given assumptions)
 .EQ
-lineup = { p sup 2 z sub AA + p  ( 1 - p ) z sub Aa } - z bar ^^ q bar
+roman cov(z,q) lineup = { p sup 2 z sub AA + p  ( 1 - p ) z sub Aa } - z bar ^^ q bar
 .EN
 Substituting this into Equation (1) (using the $p$ rather than $Q$) we get
 .EQ  C (1\[aq])
-Delta p = { p sup 2 z sub AA + p ( 1-p ) z sub Aa } over z bar - p
+Delta p lineup = { p sup 2 z sub AA + p ( 1-p ) z sub Aa } over z bar - p
 .EN
 which is derived from the Price equation rather than the conventional way,
 as

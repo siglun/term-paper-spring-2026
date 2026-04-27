@@ -979,6 +979,15 @@
 %P 587-608
 %O https://doi.org/10.1017/S0022172400065177
 
+%J Journal of theoretical Biology
+%D 2000
+%V 203
+%N 51\[en]61
+%O https://doi.org/10.1006/jtbi.1999.1064
+%T Individual-based Perspectives on $R sub 0$
+%A Keeling, Matt J.
+%A Grenfell, Bryan T.
+
 %J Theoretical Population Biology
 %V 52
 %P 155-163
@@ -1680,3 +1689,11 @@
 %S Monographs in Population Biology
 %V 6
 %D 1974
+
+%T The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary
+%A Schulte, Peter\ et\ al
+%D 2010
+%V 327
+%J Science
+%P 1214\[en]1218
+%O https://doi.org/10.1126/science.1177265
