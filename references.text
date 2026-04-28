@@ -63,12 +63,22 @@
 %D 2021
 
 %A Roy M. Anderson
-%A Robert M. May
+%A May, Robert M.
 %D 1979
 %T Population biology of infectious diseases: Part I.
 %J Nature
 %V 280
 %P 361\-367
+
+%A Anderson, Roy M.
+%A May, Robert M.
+%T Vaccination and herd immunity to infectious diseases
+%J Nature
+%V 318
+%N 6044
+%D 1985
+%P 323\[en]329
+
 
 %Q Development Core Team
 %D 2010
@@ -823,6 +833,21 @@
 %D 1994
 %P 473-490
 %O https://www.jstor.org/stable/2254396
+
+%T A Subjectivist's Guide to Objective Chance
+%A Lewis, David
+%O https://doi.org/10.1093/0195036468.003.0004
+%P 83\[en]132
+%D 1987
+%B Philosophical Papers Volume II
+
+%J Harvard Data Science Review
+%V 6
+%N 3
+%D 2024
+%T To Be a Frequentist or Bayesian? Five Positions in a Spectrum
+%A Lin, Hanti
+%O https://doi.org/10.1162/99608f92.9a53b923
 
 %A Sellars, Wilfrid
 %D 1954
