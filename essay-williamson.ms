@@ -19,18 +19,14 @@ Finally (iii)  it can be chaotic.
 .PP
 The trajectories of a dynamical system have one important feature.
 They are uniquely determined by their initial conditions, they can diverge from or converge to but never intersect with each other.
-The equation Equation (1\[aq]) is of simple kind.
-Its dynamics converges one of three equlibrium points.
-Then the trajectories approaches what is referred to as a \f[I]strange attractor\f[P] where the time series appear to be chaotic,
-but in reality it has an intricate structure.
-In the case of a chaotic system this dependency on the initial conditions is extreme;
-a minor change can have huge effects on the dynamics.
+The Equation (1\[aq]) is of simple kind.
+Its dynamics converges one of three equilibrium points.
 .PP
 The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.
 There will be three kinds of such effects.
 We have two that we may refer to as
 .I internal,
-because the do actually belong to the dynical systems itself:
+because they do actually belong to the dynamical systems itself:
 (i) There could be sampling errors in the mating process causing genetic drift.
 .[ (
 Crow Kimura
@@ -47,7 +43,7 @@ In addition we have (iii)
 .I external
 stochasticity caused by the environment.
 .PP
-Mathematically, the environmental impact is usually guaussian (normally distributed) disturbances.
+Mathematically, the environmental impact is usually Gaussian (normally distributed) disturbances.
 .[ (
 Robert May 1974
 .], p. 109\[en]139)
@@ -126,16 +122,18 @@ Obviously, Anscombe's doctor would modify the judgement as to the likelyhood tha
 However the actual cause would still be undetermined.
 The models describing the population-wide epidemiologies of these infections are as deterministic as any other system of differential equations in a constant environment.
 Note that the definition of $R sub 0$ is often given as the number of secondary infections caused by a single infected individual in an otherwise healthy population.
+When $R sub 0 < 1$ the population has \f[I]herd immunity\f[P].
+.[
+may anderson herd immunity
+.]
 Again we have a situation where the probability of singular events are essential for the understanding of an entire class of phenomena.
 .PP
-This is, when individual propensities are manifesting themselves.
-In evoluation we can see this in evolution in the theory of Evolutionarily Stable Strategies (ESS).
-.PP
-An ESS is characterised by that when a strategy is adopted by a majority of a population no rare mutant is able to invade that population.
-Here we see how the properties of few individuals are having crucial importance of the fate of the many.
-Or in terms of a dynamic system,
-is the equlibrium state of the system invasible or susceptibility to change.
-Here is where dynamical systems theory meets modalities such as possibility and necessity.
+The invasibility is actually an extremely useful property in the study of ecological or evolutionary processes.
+There are a large number of processes where we have no idea on how, or even if,
+a certain trait is heritable,
+but we know for sure that there are modifier genes that may cause minor changes  and that we can study the early fate of such mutants.
+This enables to model how evolution would mould such traits.
+This is the idea behind the theory of Evolutionarily Stable Strategies (ESS) developed for that purpose.
 .QS
 .LP
 .vs 12
@@ -145,4 +143,13 @@ i.e., it is a specification of what an individual will do in any situation in wh
 An ESS is a strategy such that,
 if all members of a population adopt it,
 then no mutant strategy could invide the population under the influence of natural selection.
+.[
+evolution games 1982
+.]
 .QE
+.PP
+Here we see how the properties of few individuals are having crucial importance of the fate of the many,
+exactly as .
+Or in terms of a dynamic system,
+is the equilibrium state of the system invasible or susceptibility to change.
+Here is where dynamical systems theory meets modalities such as possibility and necessity.
