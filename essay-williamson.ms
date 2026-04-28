@@ -10,7 +10,7 @@ Luenberger 1979
 .FE
 Dynamical systems are typically sets of difference or differential equations, one equation per variable under study.
 These variables are usually referred to as state variables.
-A dynimacal system can be solved analytically or numerically to yield time series of the states.
+A dynamical system can be solved analytically or numerically to yield time series of the states.
 The solutions are typically of three kinds.
 (i) Convergence to a point,
 where state variables move along trajectories towards a point often referred to as an attractor.
@@ -120,7 +120,6 @@ Individual-based Perspectives
 .]
 Obviously, Anscombe's doctor would modify the judgement as to the likelyhood that she had contracted the disease from the contact event based on the $R sub 0$ value.
 However the actual cause would still be undetermined.
-The models describing the population-wide epidemiologies of these infections are as deterministic as any other system of differential equations in a constant environment.
 Note that the definition of $R sub 0$ is often given as the number of secondary infections caused by a single infected individual in an otherwise healthy population.
 When $R sub 0 < 1$ the population has \f[I]herd immunity\f[P].
 .[
@@ -148,8 +147,7 @@ evolution games 1982
 .]
 .QE
 .PP
-Here we see how the properties of few individuals are having crucial importance of the fate of the many,
-exactly as .
-Or in terms of a dynamic system,
-is the equilibrium state of the system invasible or susceptibility to change.
+Here we see again how the properties of few individuals are having crucial importance for the fate of the many.
+Or in terms of a dynamic system;
+is the equilibrium state of the system invasible or susceptibility to change?
 Here is where dynamical systems theory meets modalities such as possibility and necessity.

@@ -1,7 +1,7 @@
 .LP
 All this raises the question how the theories of heredity and natural selection  as we know them impact our understanding of probability.
-First, however, we must make two excursions into some theories.
-We need to take a look at how Karl Popper handles probability and use that to analyse Frater Gregor Mendel's (OSA)\** laws of heredity.
+However, we must make two excursions into some theories.
+First, we need to take a look at how Karl Popper handles probability and, secondly, use that to analyse Frater Gregor Mendel's (OSA)\** laws of heredity.
 Then I return to natural selection in a section of its own below. 
 .FS
 Frater Gregor belonged to \fIOrdo Fratrum Sancti Augustini\fP.
@@ -167,7 +167,7 @@ The anthers produce pollen, $R$ and $W$ each with probability $1 smallover 2$.
 The pistil makes ovules in the same proportions.
 .PP
 The pollen and ovules combine into offspring, zygotes. They do so in the proportions $1 smallover 4$  $RR$, which follows from Popper's multiplication theorem Eq. (P3).
-$1 smallover 2$ $RW$ = $1 smallover 4$ $RW$ + $1 smallover 4$ $WR$, by Popper's addition theorem Eq (P2), since they are genotypically and phenotypically identical.
+$1 smallover 2$ $RW$ = $1 smallover 4$ $RW$ + $1 smallover 4$ $WR$, by Popper's addition theorem Eq (P2), since $RW$ and $WR$ are genotypically and phenotypically identical.
 Finally we get $1 smallover 4$ $WW$, again by Eq (P3).
 Now, we mentioned dominance above.
 The $R$ allele is dominant over $W$ so, again by Popper's addition theorem we get $3 smallover 4$ = $1 smallover 4 + 1 smallover 2$ red pea flowers and $1 smallover 4$ in the offspring from  $RW  \[mu] RW$.

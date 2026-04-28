@@ -50,12 +50,12 @@ The significance of this was pointed out by Peter
 #
 Medawar problem biology 
 .]  
-who was one who first discussed ageing as an evolutionary point of view.
+who was one who first discussed ageing as an evolutionary problem.
 The problem is to give evolutionary explanations to the shapes of the survivorship curves.
 Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
 Genes that enhance reproduction, or raises the survival rate up to and including the reproductive period,
 will have a chance to spread.
-However, there are no way a living being can improve in that way.
+However, there is no way a living being can improve in that way.
 Any improvement comes at a cost.
 Or as Williams puts it in his seminal paper:
 .QS
@@ -95,5 +95,5 @@ So are the deaths of individuals\[em]each of which is a mutant\[em]in a populati
 The additional feature is that these
 .I individual
 deaths contribute to the moulding of the survivorship curve for the population.
-The mutation pressure provides a variation that enables evolution,
+The mutation pressure provides the variation that enables evolution,
 the selection pressure determines what changes occur in the population.
