@@ -1,6 +1,4 @@
 .LP
-Can vi overcome the persistence forcast\[em]and how poor is historicism?
-.PP
 A second aspect of how Popper presents his theory is that he sees the frequency interpretation as an example how we get knowledge through induction,
 whereas his propensity theory is forward looking where a setup is evaluated in an experiment.
 This mirrors his falsification theory.
@@ -58,3 +56,12 @@ An individual has a gene,
 a population has a gene frequency.
 Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
+.PP
+Natural selection works on the individual level,
+hence the probabilities that matters for Evolution out there in Nature must be for singular events.
+Furthermore,
+Natural selection is not looking at your CV and past merits.
+It looks at your next achievements.
+Do you survive and reproduce the next year?
+Natural selection is not induction,
+it is falsification.

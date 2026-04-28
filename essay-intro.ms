@@ -90,5 +90,5 @@ Lewis debugged
 .]
 .PP
 It is just that this note is not about that.
-Natural selection is not operating by Bayesian inference,
-and it does not use any principles.
+I will try to show that natural selection is not operating through induction or Bayesian inference.
+
