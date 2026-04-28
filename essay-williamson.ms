@@ -8,7 +8,7 @@ I learned it from.
 Luenberger 1979
 .]
 .FE
-Dynamical systems are typically sets of defference or differential equations, one equation per variable under study.
+Dynamical systems are typically sets of difference or differential equations, one equation per variable under study.
 These variables are usually referred to as state variables.
 A dynimacal system can be solved analytically or numerically to yield time series of the states.
 The solutions are typically of three kinds.
