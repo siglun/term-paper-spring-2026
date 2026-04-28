@@ -114,7 +114,7 @@ For instance,
 assume that Anscombe had not contracted any childhood diseases when young.
 Now, when a parent, she was sitting by the bed when her children had
 Measles, Chickenpox and Mumps.
-These infections has basic reproductive rate $R sub 0$, 11\[en]15, 7\[en]12 and 11\[en]14, respectively.
+These infections have basic reproductive rates $R sub 0$, 11\[en]15, 7\[en]12 and 11\[en]14, respectively.
 .[
 Individual-based Perspectives
 .]
@@ -141,7 +141,7 @@ A \[oq]strategy\[cq] is a behavioural phenotype;
 i.e., it is a specification of what an individual will do in any situation in which it may find itself.
 An ESS is a strategy such that,
 if all members of a population adopt it,
-then no mutant strategy could invide the population under the influence of natural selection.
+then no mutant strategy could invade the population under the influence of natural selection.
 .[
 evolution games 1982
 .]

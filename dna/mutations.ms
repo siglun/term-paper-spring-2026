@@ -142,7 +142,7 @@ Last: H: atom("H", 0.12, 0.16, 0.06, 0.16, 0.12, 0.015) with .C.n at Last.end
 ] with .w at TOP.se
 
 #"Cytocine" with .s at CYTOCINE.ne + (0.4,0.1)
-Last: "Cytocine" with .s at CYTOCINE.ne + (0.4,0.1)
+Last: "Cytosine" with .s at CYTOCINE.ne + (0.4,0.1)
 
 #GUANINE: [
 GUANINE: [
@@ -343,7 +343,7 @@ More than you ever wanted to know about mutations.
 There are two types of DNA substitution mutations.
 .I Transitions
 refer to substitutions between two-ring purines, i.e., an Adenine replaces Guanine (or vice versa),
-or an one-ring pyrimidine is replaced by another one-ring pyrimidine.
+or a one-ring pyrimidine is replaced by another one-ring pyrimidine.
 That is Cytosine is replaced with a  Thymine (or vice versa).
 One base is replaced with another with a similar shape.
 .I Transversions

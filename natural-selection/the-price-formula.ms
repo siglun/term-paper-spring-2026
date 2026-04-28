@@ -105,7 +105,7 @@ Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from
 All this was an exercise to derive Equation (1).
 The second term in Equation (6) is not a bug but a feature.
 It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
-One reason for this term being is genetic drift,
+Another factor that will make it non-zero is genetic drift,
 also known as sampling error.
 There are also a range of other factors,
 like sexual selection.

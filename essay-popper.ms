@@ -117,4 +117,4 @@ the concept of a field of forces\[em]introduces a dispositional physical entity 
 in observable accelerations.
 Similarly, the concept of propensity,
 or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
-of events\[em]in order to explain observable frequencies in sequences repetitions of these events.
+of events\[em]in order to explain observable frequencies in sequences of repetitions of these events.
