@@ -161,7 +161,7 @@ orcasitas
 .]
 .QE
 .LP
-In the perhaps best known experiment in Mendel's study was his crosses between $RW  \[mu] RW$.
+The perhaps best known experiment in Mendel's study was his crosses between $RW  \[mu] RW$.
 This is basically a classic urn experiment.
 The anthers produce pollen, $R$ and $W$ each with probability $1 smallover 2$.
 The pistil makes ovules in the same proportions.

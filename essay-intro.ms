@@ -42,7 +42,7 @@ Namely the propensity interpretation proposed by.
 Popper 1959 propensity
 .]
 .PP
-This is a ontological claim.
+This is an ontological claim.
 When modelling natural processes we need quantities,
 variables or constants,
 that we refer to as probabilities since they are about the likelihood that something happens out there.
@@ -62,7 +62,7 @@ You have no other relevant information.
 Consider the proposition that the coin tossed at noon today falls heads.
 To what degree would you now believe that proposition?
 .LP
-He give the answer \[oq]50%, of course.\[cq]
+He gives the answer \[oq]50%, of course.\[cq]
 I agree, could not do anything else.
 \
 .[ 

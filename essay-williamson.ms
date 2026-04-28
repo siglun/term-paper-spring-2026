@@ -20,7 +20,7 @@ Finally (iii)  it can be chaotic.
 The trajectories of a dynamical system have one important feature.
 They are uniquely determined by their initial conditions, they can diverge from or converge to but never intersect with each other.
 The Equation (1\[aq]) is of simple kind.
-Its dynamics converges one of three equilibrium points.
+Its dynamics converges to one of three equilibrium points.
 .PP
 The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.
 There will be three kinds of such effects.
@@ -64,7 +64,7 @@ Williamson modal science
 .]
 Williamson shows that there is an important class of modalities emerging in the theory of dynamical systems.
 .PP
-The trajectories in a dynamical system are deterministic in exactly the sense Lewis foresee
+The trajectories in a dynamical system are deterministic in exactly the sense Lewis foresaw
 .QP
 .vs 12
 .ps 10
@@ -113,12 +113,12 @@ different diseases have different propensities for spreading.
 For instance,
 assume that Anscombe had not contracted any childhood diseases when young.
 Now, when a parent, she was sitting by the bed when her children had
-Measels, Chickenpox and Mumps.
+Measles, Chickenpox and Mumps.
 These infections has basic reproductive rate $R sub 0$, 11\[en]15, 7\[en]12 and 11\[en]14, respectively.
 .[
 Individual-based Perspectives
 .]
-Obviously, Anscombe's doctor would modify the judgement as to the likelyhood that she had contracted the disease from the contact event based on the $R sub 0$ value.
+Obviously, Anscombe's doctor would modify the judgement as to the likelihood that she had contracted the disease from the contact event based on the $R sub 0$ value.
 However the actual cause would still be undetermined.
 Note that the definition of $R sub 0$ is often given as the number of secondary infections caused by a single infected individual in an otherwise healthy population.
 When $R sub 0 < 1$ the population has \f[I]herd immunity\f[P].
@@ -149,5 +149,5 @@ evolution games 1982
 .PP
 Here we see again how the properties of few individuals are having crucial importance for the fate of the many.
 Or in terms of a dynamic system;
-is the equilibrium state of the system invasible or susceptibility to change?
+is the equilibrium state of the system invasible or susceptible to change?
 Here is where dynamical systems theory meets modalities such as possibility and necessity.

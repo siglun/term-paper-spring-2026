@@ -74,7 +74,7 @@ Williams Pleiotropy 1957
 This is the gist of the socalled
 .I pleiotropy
 theory of senescence.
-Pleiotropy is the condition arising when one or a small group genes have multiple phenotypic manifestations.
+Pleiotropy is the condition arising when one or a small group of genes have multiple phenotypic manifestations.
 The phenotype is jargon for what the genes do to their carriers.
 In this case the pleiotropy is stretching across time in a favourable way.
 You live through your youth and then you reproduce,

@@ -43,9 +43,9 @@ where we take the sums over all members of population $P sub 1$.
 .PP
 In traditional population genetics you do this differently.
 Here you assume (i) Mendel's law of inheritance and (ii) random mating.
-(Price assume nothing of this when deriving his equation.)
+(Price assumes nothing of this kind when deriving his equation.)
 Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$ (basically this is what Price does).
-From those data we can easily calculate the gene frequence.
+From those data we can easily calculate the gene frequency.
 Now we use the traditional assumptions and Equation (2) to calculate $q bar$.
 We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
 Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.

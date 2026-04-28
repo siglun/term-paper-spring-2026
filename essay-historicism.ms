@@ -21,12 +21,12 @@ that his view of probabilities should be valid at a metaphysical level.
 .[
 popper 1978 natural selection
 .]
-Such systems are, at a conceptual level,
+The propensities as forces are, at a conceptual level,
 essential for the understanding of all that we see as changes out in nature.
 Dynamicity is at the core of evolution.
 .PP
 Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
-Just for that reason we have to flip the coin and look upon how individual properties manifest themelves at the level of the population.
+Just for that reason we have to flip the coin and look upon how individual properties manifest themselves at the level of the population.
 For instance:
 An individual has a gene,
 a population has a gene frequency.
@@ -34,7 +34,7 @@ Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
 .PP
 Natural selection works on the individual level,
-hence the probabilities that matters for Evolution out there in Nature must be for singular events.
+hence the probabilities that matter for Evolution out there in Nature must be for singular events.
 Furthermore,
 Natural selection is not looking at your CV and past merits.
 It looks at your next achievements.
