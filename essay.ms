@@ -29,16 +29,6 @@ if someone is born or is dead.
 .\" so natural-selection/evolutionarily-stable-strategy.ms
 .section
 .so essay-historicism.ms
-.section
-.LP
-Natural selection works on the individual level,
-hence the probabilities that matters for Evolution out there in Nature must be for singular events.
-Furthermore,
-Natural selection is not looking at your CV and past merits.
-It looks at your next achievements.
-Do you survive and reproduce the next year?
-Natural selection is not induction,
-it is falsification.
 .ig
 https://tegen-beeld.nl/muurgedichten/stjarnorna-kvittar-det-lika
 
