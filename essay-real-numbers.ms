@@ -17,11 +17,11 @@ This is even more relevant for populations.
 Ten billion human carriers of mutations is countable,
 and so is the number of genes.
 Hence, the number of individuals of any species on earth is natural,
-$\[mo]^N$,
-therefore frequencies of genes and genotypes have to be rational, $\[mo]^Z$.
+$\[mo]^\[natnums]$,
+therefore frequencies of genes and genotypes have to be rational, $\[mo]^\[rationals]$.
 The mathematics we use for dynamical systems are real numbers,
 and Karl Popper's theorems are based on
 .EQ C (P1)
-p(a,b)=r,  roman where ~  r\[mo]^\[u211D]
+p(a,b)=r,  roman where ~  r\[mo]^\[reals]
 .EN
-The the $p$ in Equation (1\[aq]) is also $\[mo]^\[u211D]$.
+The the $p$ in Equation (1\[aq]) is also $\[mo]^\[reals]$.
