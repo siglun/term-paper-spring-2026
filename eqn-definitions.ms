@@ -4,6 +4,9 @@
 .char \[ulcorner] \[u231C]
 .char \[urcorner] \[u231D]
 .char \[strictif] \[u297D]
+.char \[natnums]  \[u2115]
+.char \[reals]    \[u211D]
+.char \[rationals] \[u211A]
 .\" char \[ca]	\[u2229]
 \" \[turn] \[dturn]
 .EQ

@@ -26,7 +26,7 @@ popper discovery
 Therefore any probability requires an interpretation,
 and by that he means that statements like
 .IP
-\[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[u211D]$)\[cq]
+\[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[reals]$)\[cq]
 .LP
 implies, for example, that $a$ can be a hypothesis which is studied in an experimental design $b$.
 That is,
