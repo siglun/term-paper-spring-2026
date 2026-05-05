@@ -7,6 +7,7 @@
 .char \[natnums]  \[u2115]
 .char \[reals]    \[u211D]
 .char \[rationals] \[u211A]
+.char \[integers] \[u2124]
 .\" char \[ca]	\[u2229]
 \" \[turn] \[dturn]
 .EQ
