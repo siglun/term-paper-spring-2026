@@ -125,7 +125,7 @@ When $R sub 0 < 1$ the population has \f[I]herd immunity\f[P].
 .[
 may anderson herd immunity
 .]
-Again we have a situation where the probability of singular events are essential for the understanding of an entire class of phenomena.
+Again we have a situation where the probabilities of singular events are essential for the understanding of an entire class of phenomena.
 .PP
 The invasibility is actually an extremely useful property in the study of ecological or evolutionary processes.
 There are a large number of processes where we have no idea on how, or even if,
