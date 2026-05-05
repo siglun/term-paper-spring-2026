@@ -348,7 +348,7 @@ That is Cytosine is replaced with a  Thymine (or vice versa).
 One base is replaced with another with a similar shape.
 .I Transversions
 are more complicated interchanges of a purine for a pyrimidine, or vice versa.
-They implies exchanges one-ring and two-ring bases.
+They imply exchanges one-ring and two-ring bases.
 The frequency of transitions is in the order magnitude $10 sup -8$ whereas transversions occur at a rate $10 sup -9$ per gene per generation.
 .[
 nucleotide humans
