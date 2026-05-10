@@ -78,7 +78,7 @@ Pleiotropy is the condition arising when one or a small group of genes have mult
 The phenotype is jargon for what the genes do to their carriers.
 In this case the pleiotropy is stretching across time in a favourable way.
 You live through your youth and then you reproduce,
-but then you pay with arthritis, senility and stroke when after your offspring has fledged.
+but then you pay with arthritis, senility and stroke once your offspring has fledged.
 .PP
 For such an organism to evolve,
 in which individuals can be vigorous at for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot deaths and survivals to fine tune the balance between reproduction, senescence and mortality.

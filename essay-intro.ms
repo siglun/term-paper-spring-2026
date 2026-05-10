@@ -27,7 +27,7 @@ probability alan 2023
 Little has changed during the century that has passed since Russell held that lecture.
 We have now sophisticated theories on probability,
 statistical inference and big data.
-I assume that all of these mentions Kolmogorov's axioms,
+I assume that all of them mention Kolmogorov's axioms,
 flipping coins
 and fair dice.
 However, I do not think any of these theories dispute Russell.
@@ -46,7 +46,7 @@ This is an ontological claim.
 When modelling natural processes we need quantities,
 variables or constants,
 that we refer to as probabilities since they are about the likelihood that something happens out there.
-They are objective in the sense that they exist regardless or not we observe or estimate them.
+They are objective in the sense that they exist, whether or not we observe or estimate them.
 David Lewis writes a questionnaire for the readers of his paper \[oq]A Subjectivist's Guide to Objective Chance\[cq].
 .[
 Lewis Objective Chance 1987
@@ -63,7 +63,7 @@ Consider the proposition that the coin tossed at noon today falls heads.
 To what degree would you now believe that proposition?
 .LP
 He gives the answer \[oq]50%, of course.\[cq]
-I agree, could not do anything else.
+I agree, could not do otherwise.
 \
 .[ 
 #
@@ -90,5 +90,5 @@ Lewis debugged
 .]
 .PP
 It is just that this note is not about that.
-I will try to show that natural selection is not operating through induction or Bayesian inference.
-
+I will try to show that natural selection is not operating through induction but falsification.
+.\" or Bayesian inference,

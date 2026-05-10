@@ -50,7 +50,7 @@ Now we use the traditional assumptions and Equation (2) to calculate $q bar$.
 We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
 Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.
 This is an urn experiment.
-We pick up two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Equation (P3).
+We draw two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Equation (P3).
 Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1)$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Equation (P3) and then we sum them together per Equation (P2).
 Since the two are identical, sum them together and get $2 Q sub 1 (1 - Q sub 1 )$.
 .EQ C (2\[aq])
@@ -102,7 +102,7 @@ Subtract Equation (2) from (5c)
 Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
 .LP
-All this was an exercise to derive Equation (1).
+All this was to derive Equation (1) from first principles.
 The second term in Equation (6) is not a bug but a feature.
 It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
 Another factor that will make it non-zero is genetic drift,
