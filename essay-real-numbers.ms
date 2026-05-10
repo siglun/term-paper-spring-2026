@@ -17,14 +17,14 @@ This is even more relevant for populations.
 Ten billion human carriers of mutations is countable,
 and so is the number of genes.
 Hence, the number of individuals of any species on earth is natural,
-it is $\[mo]^\[natnums]$,
+it is member of $\[natnums]$,
 therefore frequencies of genes and genotypes have to be rational, they must $\[mo]^\[rationals]$.
 The mathematics we use for dynamical systems are real numbers,
 and Karl Popper's theorems are based on his expression (reiterated here):
 .EQ
 p(a,b)=r,  roman where ~  r\[mo]^\[reals]
 .EN
-The $p$ in Equation (1\[aq]) is also $\[mo]^\[reals]$.
+The $p$ in Equation (1\[aq]) is also member of $\[reals]$.
 We naturally accept the real numbers,
 as probabilities, gene frequencies, population densities and so forth.
 This attitude comes easily as long as we accept the platonic view of mathematics.

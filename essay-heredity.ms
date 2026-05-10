@@ -137,7 +137,7 @@ Each gene that may occupy a locus is called an
 A locus may have two alleles (for a diploid organism like me), as we saw above.
 An individual which is $WW$ giving white pea flowers is referred to as a
 .I homozygote,
-whereas if we have two different alleles, $RW$, we have an \f[I]heterozygote\f[P].
+whereas if we have two different alleles, $RW$, we have a \f[I]heterozygote\f[P].
 Brown and blue eyes have in the simplest case similar inheritance. However, in general the colour of the  iris depend on genes in at least three loci with several alleles in each of them.
 .[
 eye color

@@ -61,7 +61,7 @@ under certain circumstances (coherence), interfere with one another.
 Popper propensity 1959 
 .], p. 28)
 .LP
-That is, the key property of a propensity is that it behaves like a force.
+That is, the key property of a propensity is that it behaves analogously to a force.
 Mutations are such forces.
 One opponent to Popper's idea of the assignment of probabilities to single events was.
 .[ 

@@ -25,7 +25,7 @@ The propensities as forces are, at a conceptual level,
 essential for the understanding of all that we see as changes out in nature.
 Dynamicity is at the core of evolution.
 .PP
-Organisms are individuals and each of them have unique properties while propagating genetic information to future generations.
+Organisms are individuals and each of them has unique properties while propagating genetic information to future generations.
 Just for that reason we have to flip the coin and look upon how individual properties manifest themselves at the level of the population.
 For instance:
 An individual has a gene,

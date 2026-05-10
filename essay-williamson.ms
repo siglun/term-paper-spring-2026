@@ -18,7 +18,8 @@ where state variables move along trajectories towards a point often referred to 
 Finally (iii)  it can be chaotic.
 .PP
 The trajectories of a dynamical system have one important feature.
-They are uniquely determined by their initial conditions, they can diverge from or converge to but never intersect with each other.
+They are uniquely determined by their initial conditions,
+they can diverge from, or converge, to one another, but never intersect.
 The Equation (1\[aq]) is of simple kind.
 Its dynamics converges to one of three equilibrium points.
 .PP
@@ -118,7 +119,8 @@ These infections have basic reproductive rates $R sub 0$, 11\[en]15, 7\[en]12 an
 .[
 Individual-based Perspectives
 .]
-Obviously, Anscombe's doctor would modify the judgement as to the likelihood that she had contracted the disease from the contact event based on the $R sub 0$ value.
+Obviously, Anscombe's doctor would modify the judgement as to the likelihood that she contracted the disease from that contact event,
+based on the $R sub 0$ value.
 However the actual cause would still be undetermined.
 Note that the definition of $R sub 0$ is often given as the number of secondary infections caused by a single infected individual in an otherwise healthy population.
 When $R sub 0 < 1$ the population has \f[I]herd immunity\f[P].
