@@ -24,7 +24,7 @@ if someone is born or is dead.
 .\" so natural-selection/polymorphism.grap
 .section
 .so essay-williamson.ms
-.section
+.\" section
 .\" so essay-real-numbers.ms
 .\" so essay-stochasticity.ms
 .\" section

@@ -25,6 +25,32 @@ The propensities as forces are, at a conceptual level,
 essential for the understanding of all that we see as changes out in nature.
 Dynamicity is at the core of evolution.
 .PP
+The past and induction can explain the present.
+However,
+to use them to predict the future is what
+.[ 
+#
+Popper historicism
+.]
+refers to as historicism.
+This was the reason he initially rejected the theory of Natural Selection.
+He did eventually endorse it again 1978 when he was invited to give the first Darwin lecture at Darwin College, Cambridge.
+He proposed that 
+.QP
+.vs 12
+.ps 10
+Ecological conditions like those that favour the evolution of open behavioural programmes sometimes also favour the evolution of the beginnings of
+consciousness,
+by favouring conscious choices.
+.[
+popper 1978 natural selection
+.]
+.LP
+By \[oq]open behavioural programmes\[cq] he refers to behaviours that are not in detail coded for by the DNA,
+but were moulded by learning.
+He suggested that individuals had probabilities or propensities for acquiring them,
+that had evolved through natural selection.
+.PP
 Organisms are individuals and each of them has unique properties while propagating genetic information to future generations.
 Just for that reason we have to flip the coin and look upon how individual properties manifest themselves at the level of the population.
 For instance:
