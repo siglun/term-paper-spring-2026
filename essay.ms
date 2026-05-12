@@ -25,7 +25,7 @@ if someone is born or is dead.
 .section
 .so essay-williamson.ms
 .section
-.so essay-real-numbers.ms
+.\" so essay-real-numbers.ms
 .\" so essay-stochasticity.ms
 .\" section
 .\" so natural-selection/evolutionarily-stable-strategy.ms
