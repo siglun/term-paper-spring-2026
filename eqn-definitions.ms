@@ -48,4 +48,8 @@ sdefine notmember   %{type "operator" vcenter \[nm]}%
 sdefine subset      %{type "operator" vcenter \[ib]}%
 sdefine powerset    %{type "operator" vcenter \[wp]}%
 sdefine identicalto %{type "operator" vcenter \[==]}%
+
+sdefine union %{type "operator" \[cu]}%
+sdefine intersect  %{type "operator" \[ca]}%
+sdefine inter  %{type "operator" \[ca]}%
 .EN

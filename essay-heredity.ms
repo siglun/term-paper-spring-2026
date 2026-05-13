@@ -37,7 +37,7 @@ p(a,b)=r
 .EN
 That probability (for $a$ given $b$ to be pedagogically redundant), can be written in a more conventional notation
 .EQ C (P1\[aq])
-P( a | b ) = { P(a inter b ) } over P(b)
+P( a | b ) = { P(a intersect b ) } over P(b)
 .EN
 using the more common set theoretical notation rather than Popper's logical one.
 The two equations say the same things,
@@ -54,13 +54,31 @@ p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
 This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
 When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P1) will be zero.
+See Figure 3 for a graphic interpretation of Eq. (P2).
+.KF
+.PS
+copy "kolmogorov.pic"
+.PE
+.QP
+.vs 12
+.ps 10
+Figure 3. The two events $a$ and $b$ are represented as two sets.
+The intersection is the event $a and b$ and the even $a or b$ must not contain the overlapping area.
+Hence the third term in Eq. (P2).
+The event $c$ is the whole background area.
+Kolmogorovs version is
+.EQ
+P ( A union  B ) = P(A) + P(B) - P( A intersect B)
+.EN
+.sp
+.KE
 His multiplication theorem
 .EQ C (P3)
 p(a and b, c) = p(a , b and c) p(b,c)
 .EN
 is really the same as
 .EQ C (P3\[aq])
-P(a inter b | c) = P( a | b inter c) P( b |c ) 
+P(a intersect b | c) = P( a | b inter c) P( b |c ) 
 .EN
 i.e., it comes from Eq. (P1\[aq]).
 You cannot see that from Eq. (P1), though.
@@ -72,7 +90,8 @@ The complement of a set is everything which is not in that set.
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
 Popper admits himself that Eq. (P4) is somewhat unusual.\**
-I will not use it in this note, kept it here for the sake of completeness.
+I will not use it in this note,
+kept it here for the sake of completeness.
 .FS
 This is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
 The probability of anything given something certain (a tautology) is 1 and Eq. (P4) would become

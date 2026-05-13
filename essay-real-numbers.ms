@@ -24,11 +24,19 @@ and Karl Popper's theorems are based on his expression (reiterated here):
 .EQ
 p(a,b)=r,  roman where ~  r\[mo]^\[reals]
 .EN
-The $p$ in Equation (1\[aq]) is also member of $\[reals]$.
+The $P( a | b )$ in Equation (1\[aq]) is also member of $\[reals]$.
 We naturally accept the real numbers,
 as probabilities, gene frequencies, population densities and so forth.
 This attitude comes easily as long as we accept the platonic view of mathematics.
 Then mathematical objects do not have real world counterparts requiring ontological commitments.
-.[ (
-Alyssa Ney Metaphysics  2023
-.], p. 76\[en]81)
+.[
+Leon Horsten Mathematics
+.]
+.PP
+However,
+if the members of $\[reals]$ exist and their properties should have meaning for objects in the physical or biological world, then this raises problems.
+What does it even mean that variables would have values that would take an infinite amount of time to calculate (if we were to calculate them with all their infinite decimals)?
+This is one of the reasons intuitionistic mathematics does not accept them as such objects.
+.[
+Gisin indeterminism 
+.]

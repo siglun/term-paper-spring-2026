@@ -42,7 +42,7 @@ essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	life-tables/survivorship-curves.ms \
 	dna/Aminoacids_table.eps \
 	dna/mutations.ms natural-selection/the-price-formula.ms \
-	natural-selection/polymorphism.grap \
+	natural-selection/polymorphism.grap kolmogorov.pic \
 	essay-real-numbers.ms $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem

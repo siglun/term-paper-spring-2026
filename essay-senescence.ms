@@ -50,7 +50,7 @@ The significance of this was pointed out by Peter
 #
 Medawar problem biology 
 .]  
-who was one who first discussed ageing as an evolutionary problem.
+who was one of the first to discuss ageing as an evolutionary problem.
 The problem is to give evolutionary explanations to the shapes of the survivorship curves.
 Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
 Genes that enhance reproduction, or raises the survival rate up to and including the reproductive period,
@@ -65,7 +65,8 @@ Or as Williams puts it in his seminal paper:
 The selective value of a gene depends on how it affects the total reproductive probability.
 Selection of a gene that confers an advantage at one age and a disadvantage at another will depend not only on the magnitudes of the effects themselves, but also on the times of the effects.
 An advantage during the period of maximum reproductive probability would increase the total reproductive probability more than a proportionately similar disadvantage later on would decrease it.
-So natural selection will frequently maximize vigor in youth at the expense of vigor later on and thereby produce a declining vigor (senescence) during adult life.
+So natural selection will frequently maximize vigour in youth at the expense of vigour later on.
+It will therefore produce a declining health (senescence) during late adult life.
 .[
 Williams Pleiotropy 1957
 .]
