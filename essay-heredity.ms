@@ -66,7 +66,7 @@ Figure 3. The two events $a$ and $b$ are represented as two sets.
 The intersection is the event $a and b$ and the even $a or b$ must not contain the overlapping area.
 Hence the third term in Eq. (P2).
 The event $c$ is the whole background area.
-Kolmogorovs version is
+Kolmogorov's version is
 .EQ
 P ( A union  B ) = P(A) + P(B) - P( A intersect B)
 .EN
@@ -146,6 +146,18 @@ The white gene is \f[I]recessive\f[P].
 .[
 arne 1971
 .]
+.KF
+.PS
+copy "mendels-laws.pic"
+.PE
+.QP
+.vs 12
+.ps 10
+Figure 4. Diagram showing the crossing $RW \[mu] RW$ studied by Mendel and discussed in the main text.
+The shaded area shows offspring with red pea flowers,
+the open square with white flowers.
+.sp
+.KE
 .PP
 The place for a gene within the genome is called a
 .I locus.
@@ -194,6 +206,7 @@ The $R$ allele is dominant over $W$ so, again by Popper's addition theorem we ge
 The dominance of red over white is similar to the kind of propensity for individual events like the case with two dice, one loaded and the other fair, where  it is impossible to separate one die from the other.
 Just as it is impossible to tell the difference between $RW$ and $RR$,
 one phenotype produced by two genotypes.
+This crossing is illustrated in Figure 4.
 .PP
 The formation of germ cells through meiosis is not always simple and peaceful as they are in red and white peas in Fra Gregor's Monastery Garden.
 All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomena called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
