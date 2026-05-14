@@ -3,7 +3,7 @@
 use strict;
 
 my @frequencies = (0, 0.5, 1);
-my @fitdif = (0, 0.1, 0.3);
+my @fitdif = (1.0, 1.2, 1.6);
 
 foreach my $f (@frequencies) {
     my $d = shift @fitdif;

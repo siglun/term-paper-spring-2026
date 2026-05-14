@@ -19,6 +19,9 @@ if someone is born or is dead.
 .so essay-senescence.ms
 .section
 .so essay-heredity.ms
+.KF
+.so natural-selection/price-example.grap
+.KE
 .section
 .so natural-selection/the-price-formula.ms
 .\" so natural-selection/polymorphism.grap

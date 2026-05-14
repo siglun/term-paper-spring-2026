@@ -43,7 +43,9 @@ essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	dna/Aminoacids_table.eps \
 	dna/mutations.ms natural-selection/the-price-formula.ms \
 	natural-selection/polymorphism.grap kolmogorov.pic \
-	mendels-laws.pic essay-real-numbers.ms $(OTHERS)
+	mendels-laws.pic essay-real-numbers.ms \
+	natural-selection/price-example.text \
+	natural-selection/price-example.grap $(OTHERS)
 
 dna/mutations.ms: dna/mutations.chem
 dna/Aminoacids_table.eps: dna/Aminoacids_table.svg 
