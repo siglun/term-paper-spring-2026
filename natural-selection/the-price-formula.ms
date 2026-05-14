@@ -51,7 +51,7 @@ We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
 Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.
 This is an urn experiment.
 We draw two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Equation (P3).
-Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1)$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Equation (P3) and then we sum them together per Equation (P2).
+Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1 )$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Equation (P3) and then we sum them together per Equation (P2).
 Since the two are identical, sum them together and get $2 Q sub 1 (1 - Q sub 1 )$.
 .EQ C (2\[aq])
 Q sub 1 = { 2 Q sub 1 sup 2 N + 2 Q sub 1 ( 1 - Q sub 1 ) N } over { 2  N } = q bar
@@ -105,6 +105,14 @@ Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from
 All this was to derive Equation (1) from first principles.
 The second term in Equation (6) is not a bug but a feature.
 It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
+This is a gross simplification;
+we assume that all individuals with the same genotype are exactly the same in all other aspects.
+We assume that all those other aspects somehow even out.
+The genotypes have become what von Mises refer to as \f[I]classes\f[P] or \f[I]collectives\f[P].
+.[
+probability statistics truth 1957
+.]
+.PP
 Another factor that will make it non-zero is genetic drift,
 also known as sampling error.
 There are also a range of other factors,

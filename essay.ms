@@ -31,6 +31,10 @@ if someone is born or is dead.
 .\" so natural-selection/evolutionarily-stable-strategy.ms
 .section
 .so essay-historicism.ms
+.LP
+\f[BI]Acknowledgements\f[P]:
+This note is dedicated to my grandchildren.
+I thank Gertrud for her understanding with my absentmindedness when I was thinking of probabilities.
 .[
 $LIST$
 .]
