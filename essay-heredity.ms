@@ -52,7 +52,7 @@ for calculating the probability of $a or b$ given $c$
 .EQ C (P2)
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
-This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
+This theorem does not assume that $a$ and $b$ are disjoint, Kolmogorov's first axiom does that.
 When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P1) will be zero.
 See Figure 3 for a graphic interpretation of Eq. (P2).
 .KF
@@ -63,13 +63,22 @@ copy "kolmogorov.pic"
 .vs 12
 .ps 10
 Figure 3. The two events $a$ and $b$ are represented as two sets.
-The intersection is the event $a and b$ and the even $a or b$ must not contain the overlapping area.
+The intersection is the event $a and b$ and the event $a or b$ must not double-count the overlapping area.
 Hence the third term in Eq. (P2).
 The event $c$ is the whole background area.
-Kolmogorov's version is
+In a more modern notation this would be
 .EQ
-P ( A union  B ) = P(A) + P(B) - P( A intersect B)
+P ( a union  b ) = P(a) + P(b) - P( a intersect b)
 .EN
+.vs 12
+.ps 10
+Kolmogorov's third axion states 
+.EQ
+P ( a union  b ) = P(a) + P(b)
+.EN
+.vs 12
+.ps 10
+and does not allow for the $a$ and $b$ overlapping as depicted.
 .sp
 .KE
 His multiplication theorem
@@ -156,6 +165,8 @@ copy "mendels-laws.pic"
 Figure 4. Diagram showing the crossing $RW \[mu] RW$ studied by Mendel and discussed in the main text.
 The shaded area shows offspring with red pea flowers,
 the open square with white flowers.
+This is due to $R$ being dominant,
+and $W$ recessive.
 .sp
 .KE
 .PP
