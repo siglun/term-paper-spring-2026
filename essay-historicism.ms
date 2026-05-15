@@ -35,8 +35,9 @@ Popper historicism
 refers to as historicism.
 This was the reason he initially rejected the theory of Natural Selection.
 He did eventually endorse it again 1978 when he was invited to give the first Darwin lecture at Darwin College, Cambridge.
-He proposed that 
-.QP
+He proposed that
+.QS
+.LP
 .vs 12
 .ps 10
 Ecological conditions like those that favour the evolution of open behavioural programmes sometimes also favour the evolution of the beginnings of
@@ -45,6 +46,7 @@ by favouring conscious choices.
 .[
 popper 1978 natural selection
 .]
+.QE
 .LP
 By \[oq]open behavioural programmes\[cq] he refers to behaviours that are not in detail coded for by the DNA,
 but were moulded by learning.
