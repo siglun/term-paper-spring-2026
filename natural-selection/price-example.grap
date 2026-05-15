@@ -4,7 +4,7 @@ graph Price
 coord x 0,1 y 0, 75
 frame invis ht 8 wid 10 left solid color "black" bot solid color "black"
 label bot "Within individual gene frequency $q sub i$" down 1
-label left "Number of successful gamets $z sub i$" left 1.2
+label left "Number of successful gametes $z sub i$" left 1.2
 copy "natural-selection/price-example-0.75.text" thru {
      "\[bu]" at $1,$2
 }

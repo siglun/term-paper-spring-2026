@@ -24,10 +24,15 @@ if someone is born or is dead.
 .QP
 .vs 12
 .ps 10
-Figure 5. Two hypothetical regression analyses where the number of successful gamets for each individual in the population of 50 individuals assigned to the genotypes $aa$, $Aa$ and $AA$ randomly but in approximately Hardy-Weinberg proportions (see main text).
-It is assumed that also assumed that there is an advantage for the heterozygotes ($Aa$) such they have the highest reproductive success (their mean values are assigned  15, 45 and 30 with some random variation for $aa$, $Aa$ and $AA$, respectively).
-The open rings and dashed line represent the situation where the $q bar = 0.25$ and the $A$ will increase the next year.
-The bullets and solid line shows the situation where the $q bar = 0.75$ and the $A$ will therefore decrease the following year.
+Figure 5. Two hypothetical regression analyses where the number of successful gametes for each member of a population of 50.
+The two analyses share the same parameters;
+they assume that there is an advantage for the heterozygotes ($Aa$) such they have the highest reproductive success.
+The values assigned  are 15 for $aa$, 45 for $Aa$ and 30 for $AA$ with some random variation.
+The heterozygote advantage pulls the frequency toward an internal equilibrium ($0 < q hat < 1$).
+The difference between the two analyses is in the gene frequencies.
+The individuals are assigned to the genotypes $aa$, $Aa$ and $AA$ in approximately Hardy-Weinberg proportions (see main text).
+The open rings and dashed line represent the situation where the $q bar = 0.25$ and the $A$ will increase the next year, because the slope $beta sub zq$ of the regression is positive.
+The bullets and solid line with negative slope $beta sub zq$ shows the situation where the $q bar = 0.75$ and the $A$ will therefore decrease the following year.
 .sp
 .KE
 .section
