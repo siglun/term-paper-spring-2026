@@ -1,0 +1,14 @@
+.PS
+scale=2.54
+CROSS: box invis "$RW \[mu] RW$"
+POLLEN1: box invis "$R$" with .ne at CROSS.s
+POLLEN2: box invis "$W$" with .nw at CROSS.s
+"Pollen" with .nw at POLLEN1.nw
+B11: box fill 0.2 "$1 smallover 4 RR$" with .ne at POLLEN1.se
+B12: box fill 0.2 "$1 smallover 4 RW$" with .nw at POLLEN2.sw
+B21: box fill 0.2 "$1 smallover 4 WR$" with .ne at B11.se
+B22: box "$1 smallover 4 WW$" with .nw at B12.sw
+OVULE1: box invis "$R$" with .e at B11.w
+OVULE2: box invis "$W$" with .e at B21.w
+"Ovules" with .nw at OVULE1.nw
+.PE

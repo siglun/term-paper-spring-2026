@@ -37,7 +37,7 @@ p(a,b)=r
 .EN
 That probability (for $a$ given $b$ to be pedagogically redundant), can be written in a more conventional notation
 .EQ C (P1\[aq])
-P( a | b ) = { P(a inter b ) } over P(b)
+P( a | b ) = { P(a intersect b ) } over P(b)
 .EN
 using the more common set theoretical notation rather than Popper's logical one.
 The two equations say the same things,
@@ -52,15 +52,42 @@ for calculating the probability of $a or b$ given $c$
 .EQ C (P2)
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
-This is equivalent with Kolmogorov's first axiom for the case $a$ and $b$ are disjoint.
+This theorem does not assume that $a$ and $b$ are disjoint, Kolmogorov's first axiom does that.
 When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P1) will be zero.
+See Figure 3 for a graphic interpretation of Eq. (P2).
+.KF
+.PS
+copy "kolmogorov.pic"
+.PE
+.QP
+.vs 12
+.ps 10
+Figure 3. The two events $a$ and $b$ are represented as two sets.
+The intersection is the event $a and b$ and the event $a or b$ must not double-count the overlapping area.
+Hence the third term in Eq. (P2).
+The event $c$ is the whole background area.
+In a more modern notation this would be
+.EQ
+P ( a union  b ) = P(a) + P(b) - P( a intersect b)
+.EN
+.vs 12
+.ps 10
+Kolmogorov's third axion states 
+.EQ
+P ( a union  b ) = P(a) + P(b)
+.EN
+.vs 12
+.ps 10
+and does not allow for the $a$ and $b$ overlapping as depicted.
+.sp
+.KE
 His multiplication theorem
 .EQ C (P3)
 p(a and b, c) = p(a , b and c) p(b,c)
 .EN
 is really the same as
 .EQ C (P3\[aq])
-P(a inter b | c) = P( a | b inter c) P( b |c ) 
+P(a intersect b | c) = P( a | b inter c) P( b |c ) 
 .EN
 i.e., it comes from Eq. (P1\[aq]).
 You cannot see that from Eq. (P1), though.
@@ -72,7 +99,8 @@ The complement of a set is everything which is not in that set.
 p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
 .EN
 Popper admits himself that Eq. (P4) is somewhat unusual.\**
-I will not use it in this note, kept it here for the sake of completeness.
+I will not use it in this note,
+kept it here for the sake of completeness.
 .FS
 This is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
 The probability of anything given something certain (a tautology) is 1 and Eq. (P4) would become
@@ -82,8 +110,8 @@ The probability of anything given something certain (a tautology) is 1 and Eq. (
 which is necessarily false.
 Requiring $p( c bar , c ) \[!=] 0$ precludes this.
 .FE
-.separator
-.LP
+.\" separator
+.PP
 Let us return to Fra Gregor Mendel and his laws.
 In a series of experiments with crossings of peas he could demonstrate the principles of inheritance.\**
 .FS
@@ -127,6 +155,20 @@ The white gene is \f[I]recessive\f[P].
 .[
 arne 1971
 .]
+.KF
+.PS
+copy "mendels-laws.pic"
+.PE
+.QP
+.vs 12
+.ps 10
+Figure 4. Diagram showing the crossing $RW \[mu] RW$ studied by Mendel and discussed in the main text.
+The shaded area shows offspring with red pea flowers,
+the open square with white flowers.
+This is due to $R$ being dominant,
+and $W$ recessive.
+.sp
+.KE
 .PP
 The place for a gene within the genome is called a
 .I locus.
@@ -175,6 +217,7 @@ The $R$ allele is dominant over $W$ so, again by Popper's addition theorem we ge
 The dominance of red over white is similar to the kind of propensity for individual events like the case with two dice, one loaded and the other fair, where  it is impossible to separate one die from the other.
 Just as it is impossible to tell the difference between $RW$ and $RR$,
 one phenotype produced by two genotypes.
+This crossing is illustrated in Figure 4.
 .PP
 The formation of germ cells through meiosis is not always simple and peaceful as they are in red and white peas in Fra Gregor's Monastery Garden.
 All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomena called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
