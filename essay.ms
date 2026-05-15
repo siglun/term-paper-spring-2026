@@ -41,11 +41,12 @@ The bullets and solid line with negative slope $beta sub zq$ shows the situation
 .\" so natural-selection/polymorphism.grap
 .section
 .so essay-williamson.ms
-.section
+.\" section
 .so essay-real-numbers.ms
 .\" so essay-stochasticity.ms
 .\" section
 .\" so natural-selection/evolutionarily-stable-strategy.ms
+.bp
 .section
 .so essay-historicism.ms
 .LP
