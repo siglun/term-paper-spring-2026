@@ -2,31 +2,61 @@
 
 use strict;
 
-my $q=0.6;
-my $N=100;
+my $q=0.25;
+
+$q=$ARGV[0] if $ARGV[0];
+my $N=50;
 
 my $f_within_aa = 0;
 my $f_within_Aa = 0.5;
 my $f_within_AA = 1.0;
-my @fit = (10,50,40);
+my @fit = (15,45,30);
 my @frequency;
 
 my $frequency_aa = $N*(1-$q)**2;
 my $frequency_Aa = $N*2*$q*(1-$q);
 my $frequency_AA = $N*$q**2;
 
-# print STDERR "$frequency_aa\t$frequency_Aa\t$frequency_AA\n";
+my $sigmaX=0;
+my $sigmaXsquare=0;
+my $sigmaY=0;
+
+my $sigmaXY=0;
 
 for(my $i=1;$i<=$N;$i++) {
-    print $i ." ";
+    my $xval=0;
+    my $fitness=0;
     if($i <= $frequency_aa) {
-	my $fitness = $fit[0] * (1.5 - rand());
-	print "aa $f_within_aa " . sprintf("%.0f",$fitness)."\n";
+	$fitness = $fit[0] * (1.5 - rand());
+	$xval = $f_within_aa;
     } elsif($i > $frequency_aa && $i <= $frequency_Aa + $frequency_aa) {
-	my $fitness = $fit[1] * (1.5 - rand());
-	print "Aa $f_within_Aa " . sprintf("%.0f",$fitness)."\n";
+	$fitness = $fit[1] * (1.5 - rand());
+	$xval = $f_within_Aa;
     } else {
-	my $fitness = $fit[2] * (1.5 - rand());
-	print  "AA $f_within_AA " . sprintf("%.0f",$fitness)."\n";
+	$fitness = $fit[2] * (1.5 - rand());
+	$xval = $f_within_AA;
     }
+    print "$xval " . sprintf("%.0f",$fitness)."\n";
+    $sigmaX += $xval;
+    $sigmaXsquare += $xval**2;
+    $sigmaY += sprintf("%.0f",$fitness);
+
+    $sigmaXY +=  $xval*sprintf("%.0f",$fitness);
 }
+
+
+# print "sigma x = " . $sigmaX ."\n";
+# print "sigma x**2 = " . $sigmaXsquare ."\n";
+# print "sigma y = " . $sigmaY ."\n";
+# print "sigma x*y = " . $sigmaXY ."\n";
+
+my $intercept = ($sigmaY * $sigmaXsquare - $sigmaX * $sigmaXY)/($N * $sigmaXsquare - $sigmaX**2);
+
+# print $intercept . "\n";
+
+my $slope  = ( $N * $sigmaXY - $sigmaX * $sigmaY)/($N * $sigmaXsquare - $sigmaX**2);
+
+# print $slope . "\n";
+
+print STDERR "0 " .  $intercept          . "\n";
+print STDERR "1 " . ($intercept + $slope) . "\n";

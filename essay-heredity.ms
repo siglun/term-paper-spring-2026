@@ -110,8 +110,8 @@ The probability of anything given something certain (a tautology) is 1 and Eq. (
 which is necessarily false.
 Requiring $p( c bar , c ) \[!=] 0$ precludes this.
 .FE
-.separator
-.LP
+.\" separator
+.PP
 Let us return to Fra Gregor Mendel and his laws.
 In a series of experiments with crossings of peas he could demonstrate the principles of inheritance.\**
 .FS

@@ -15,6 +15,12 @@ OTHERS =  ../references.text ../tmac/dropcap.tmac \
 	-k  ${PAPER} -Tps  parameters.ms  $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
+price-example-0.75.text:
+	./price-example.pl 0.75 > price-example-0.75.text 2> regression-0.75.text
+
+price-example-0.25.text:
+	./price-example.pl 0.25 > price-example-0.25.text 2> regression-0.25.text
+
 # -m refspec  -m refspec
 
 qr.eps:
@@ -23,7 +29,12 @@ qr.eps:
 clean:
 	rm -f *~ *.eps
 
-the-price-formula.pdf: the-price-formula.ms  $(OTHERS)
+the-price-formula.pdf: the-price-formula.ms price-example.grap \
+	price-example-0.75.text price-example-0.25.text $(OTHERS) 
+
+price-example-0.75.text: price-example.pl
+price-example-0.25.text: price-example.pl
+
 evolutionarily-stable-strategy.pdf: evolutionarily-stable-strategy.ms $(OTHERS)
 
 

@@ -27,6 +27,13 @@ Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 .
 $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes and frequencies of $A$ over all the $N$
 .I individuals
 in the population, respectively.
+Note that Price adds an alternative formulation
+.EQ C (1a)
+Delta Q ^ = ^ { beta sub zq sigma sub q sup 2 } over z bar
+.EN
+Here $beta sub zq$ is the slope of a regression of $z sub i$, the succesful games on $q sub i$, the frequency of gen $A$ in individual $i$.
+Here we can see how natural selection operates using standard statistical analysis.
+I give a hypothetical example in Figure 5.
 .PP
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter their offspring.
