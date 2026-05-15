@@ -24,8 +24,9 @@ if someone is born or is dead.
 .QP
 .vs 12
 .ps 10
-Figure 5. Two hypothetical regression analyses where the number of successful gametes for each member of a population of 50.
-The two analyses share the same parameters;
+Figure 5. Two hypothetical regression analyses showing how the direction of selection depends on the relation between the number of successful gametes and individual gene frequency.
+The two analyses share the same parameters.
+They both have a population of 50 individuals;
 they assume that there is an advantage for the heterozygotes ($Aa$) such they have the highest reproductive success.
 The values assigned  are 15 for $aa$, 45 for $Aa$ and 30 for $AA$ with some random variation.
 The heterozygote advantage pulls the frequency toward an internal equilibrium ($0 < q hat < 1$).

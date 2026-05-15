@@ -31,7 +31,7 @@ Note that Price adds an alternative formulation
 .EQ C (1a)
 Delta Q ^ = ^ { beta sub zq sigma sub q sup 2 } over z bar
 .EN
-Here $beta sub zq$ is the slope of a regression of $z sub i$, the succesful gametes on $q sub i$, the frequency of gen $A$ in individual $i$.
+Here $beta sub zq$ is the slope of a regression of $z sub i$, the successful gametes on $q sub i$, the frequency of gene $A$ in individual $i$.
 Here we can see how natural selection operates using standard statistical analysis.
 I give a hypothetical example in Figure 5.
 .PP
