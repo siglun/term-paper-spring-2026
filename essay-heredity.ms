@@ -72,7 +72,7 @@ P ( a union  b ) = P(a) + P(b) - P( a intersect b)
 .EN
 .vs 12
 .ps 10
-Kolmogorov's third axion states 
+Kolmogorov's third axiom states 
 .EQ
 P ( a union  b ) = P(a) + P(b)
 .EN
