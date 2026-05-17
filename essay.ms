@@ -46,13 +46,13 @@ The bullets and solid line with negative slope $beta sub zq$ shows the situation
 .\" so essay-stochasticity.ms
 .\" section
 .\" so natural-selection/evolutionarily-stable-strategy.ms
-.bp
 .section
 .so essay-historicism.ms
 .LP
 \f[BI]Acknowledgements\f[P]:
 This note is dedicated to my grandchildren.
 I thank Gertrud for her understanding with my absentmindedness when I was thinking of probabilities.
+.so natural-selection/appendix-a.ms
 .[
 $LIST$
 .]
