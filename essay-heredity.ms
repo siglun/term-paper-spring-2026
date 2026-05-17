@@ -42,7 +42,7 @@ P( a | b ) = { P(a intersect b ) } over P(b)
 using the more common set theoretical notation rather than Popper's logical one.
 The two equations say the same things,
 with one exception.
-Eq. 1 is valid even in the case that $P(b)=0$.
+Eq. (P1) is valid even in the case that $P(b)=0$.
 Otherwise, the textbook notation $P( a | b )$ is what Popper calls $r$.
 In this note I will use Popper's notation and logic rather than set theory.
 Popper has defined his own calculus of probability containing three theorems.
@@ -53,7 +53,7 @@ for calculating the probability of $a or b$ given $c$
 p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 .EN
 This theorem does not assume that $a$ and $b$ are disjoint, Kolmogorov's first axiom does that.
-When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P1) will be zero.
+When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P2) will be zero.
 See Figure 3 for a graphic interpretation of Eq. (P2).
 .KF
 .PS
