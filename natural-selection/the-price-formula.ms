@@ -27,9 +27,9 @@ $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes
 in the population, respectively.
 Note that Price adds an alternative formulation
 .EQ C (1\[aq])
-Delta Q ^ = ^ { beta sub zq sigma sub q sup 2 } over z bar
+Delta Q ^ = ^ { beta sub zq sigma  sub q sup 2 } over z bar
 .EN
-Here $beta sub zq$ is the slope of a regression of $z sub i$, the successful gametes on $q sub i$, the frequency of gene $A$ in individual $i$.
+Here $sigma sub q  sup 2$ is the variance of $q sub i$ and $beta sub zq$ is the slope of a regression of $z sub i$, the successful gametes on $q sub i$, the frequency of gene $A$ in individual $i$.
 Here we can see how natural selection operates using standard statistical analysis.
 The sign of the change in gene frequency $Delta Q$ is given by the slope $beta sub zq$.
 That is,
