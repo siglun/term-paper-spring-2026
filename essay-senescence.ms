@@ -72,7 +72,7 @@ Williams Pleiotropy 1957
 .]
 .QE
 .LP
-This is the gist of the socalled
+This is the gist of the
 .I pleiotropy
 theory of senescence.
 Pleiotropy is the condition arising when one or a small group of genes have multiple phenotypic manifestations.
