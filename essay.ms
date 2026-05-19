@@ -1,7 +1,10 @@
 .TL
 Probabilities and natural selection
 .AU
-Sigfrid Lundberg
+Sigfrid Lundberg\**
+.FS
+\f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
+.FE
 .LP
 .RD
 .vs 12

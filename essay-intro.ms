@@ -1,19 +1,20 @@
 .LP
-.dropcap Much 3 red4 R STIX 1n
-of what we notice around us are not things that are,
-but rather changes in what there is.
-We are desensitised to the common things,
-while the changes are something we need to notice and possibly evaluate.
+.dropcap We 3 red4 R STIX 1n
+are desensitised to the common things.
+We note the changes and evaluate possible threats.
+Changes we have seen before we regard as more probable.
+or so we believe.
+In this note I try to describe what kinds of probabilities that lie behind processes in nature.
+In particular, I concentrate on the kind of probabilities we can trace in the theory of evolution by natural selection.
+
 In philosophy,
 it is the other way around:
 Dynamicity is largely neglected by mainstream metaphysics.
 .[
 Johanna Seibt Process Philosophy
 .]
-All changes occur with some probability,
-or so we believe.
-In this note I try to describe what kinds of probabilities that lie behind processes in nature.
-In particular, I concentrate on the kind of probabilities we can trace in the theory of evolution by natural selection.
+
+
 There are problems connected with this goal;
 the most important one is, as pointed out by Bertrand Russell in a lecture 1929
 .QP
