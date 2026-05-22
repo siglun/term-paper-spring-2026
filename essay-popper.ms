@@ -1,5 +1,4 @@
-.LP
-.\" dropcap We 2 red4 R STIX 1n
+.PP
 We normally make a distinction between
 .I subjective
 and
@@ -32,7 +31,9 @@ Mutation occurs all over the human genome at a rate from about $10 sup -9$ to $1
 Still, the size of our genome $approx 3.055 \[mu] 10 sup 9$ ensures that all of us are mutants.
 It has been like that since long before we became \f[I]Homo sapiens\f[P].
 See Figure 1 for more information on mutations.
+There is a related concept, \f[I]wild type\f[P], which refers to the dominating variety in the population.
 .PP
+As we mentioned above,
 Popper makes further distinctions between two kinds of objective probabilities,
 namely frequency and propensity interpretations of probability.
 .[
@@ -40,7 +41,9 @@ Popper propensity
 .]
 The frequency interpretation claims that a probability can only be understood,
 and be estimated,
-through a series of measurements (possibly an infinitely long series).
+through a series of measurements.
+Mathematically, in such a series,
+we reach the probability in the limit when the series length approaches infinity.
 .PP
 A propensity should be understood as the probability for a single event.
 .[
@@ -102,19 +105,19 @@ The collective means in von Mises\[aq] vocabulary basically an experimental seri
 The adherent of the propensity theory does not dispute that a series of measurements is needed for estimating the value of a probability.
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
-Popper admits readily that from the point of view of a \[oq]purely statistical
-interpretation of probability\[cq].
-.[ (
-popper propensity interpretation 1959
-.], p. 30)
-the propensity interpretion is unacceptible.
-Still he maintains that it is useful.
+.PP
+Popper argues that von Mises position leads to a contradiction if there is a heterogeneity in such a series,
+for instance a series which includes throws of a homogenous and symmetrical die and a loaded one, with (say) a majority of throws made with a true one.
+Then the frequentist will need to introduce a new class or collective.
+.PP
+Thence, 
+the frequentist is forced to accept the propensity interpretation.
 .QP
 .vs 12
 .ps 10
-The concept of force\[em]or better still,
-the concept of a field of forces\[em]introduces a dispositional physical entity described by certain equations (rather than by metaphors),
-in observable accelerations.
-Similarly, the concept of propensity,
-or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
-of events\[em]in order to explain observable frequencies in sequences of repetitions of these events.
+All this means that the frequency theorist is forced to introduce a modification of his theory\[em]apparently a very slight one.
+He will now say that an admissible sequence of events (a reference sequence,
+a \[oq]collective\[cq]) must always be a sequence of repeated experiments.
+.LP
+In the following,
+when we talk about mutants and wild types think about heterogeneity and that individuals may have different propensities.

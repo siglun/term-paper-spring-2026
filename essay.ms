@@ -17,9 +17,11 @@ if someone is born or is dead.
 .DE
 .section
 .so essay-intro.ms
-.section
 .so essay-popper.ms
+.section
 .so essay-senescence.ms
+.section
+.so essay-being-bayesian.ms
 .section
 .so essay-heredity.ms
 .KF
