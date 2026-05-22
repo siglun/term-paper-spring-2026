@@ -1,5 +1,22 @@
 .so ./life-tables/survivorship-curves.ms
 .LP
+Popper admits readily that from the point of view of a \[oq]purely statistical
+interpretation of probability\[cq].
+.[ (
+popper propensity interpretation 1959
+.], p. 30)
+the propensity interpretion is unacceptible.
+Still he maintains that it is useful.
+.QP
+.vs 12
+.ps 10
+The concept of force\[em]or better still,
+the concept of a field of forces\[em]introduces a dispositional physical entity described by certain equations (rather than by metaphors),
+in observable accelerations.
+Similarly, the concept of propensity,
+or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
+of events\[em]in order to explain observable frequencies in sequences of repetitions of these events.
+.PP
 Let us return to the probability of death example raised by.
 .[ 
 #
@@ -55,6 +72,7 @@ The problem is to give evolutionary explanations to the shapes of the survivorsh
 Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
 Genes that enhance reproduction, or raises the survival rate up to and including the reproductive period,
 will have a chance to spread.
+.PP
 However, there is no way a living being can improve in that way.
 Any improvement comes at a cost.
 Or as Williams puts it in his seminal paper:
@@ -88,11 +106,12 @@ Evolutionary gerontology is now a science in its own right.
 The evolution of aging and lifespan
 .]
 .PP
-Popper provides arguments for allowing singular events having probabilities based on sequence of throws of two dice.
+Recall Popper's arguments concerning heterogeneity in frequentist sequences.
 One die is homogenous and symmetrical and contribute a few throws,
 and the other is loaded and contribute a majority.
-Each throw becomes an individual event.
-So are the deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
+Here we must return to the thinking of mutants and wild types.
+Each individual becomes a throw, an individual event.
+The deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
 The additional feature is that these
 .I individual
 deaths contribute to the moulding of the survivorship curve for the population.

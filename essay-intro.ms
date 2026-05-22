@@ -1,95 +1,25 @@
 .LP
-.dropcap We 3 red4 R STIX 1n
-are desensitised to the common things.
-We note the changes and evaluate possible threats.
-Changes we have seen before we regard as more probable.
-or so we believe.
-In this note I try to describe what kinds of probabilities that lie behind processes in nature.
-In particular, I concentrate on the kind of probabilities we can trace in the theory of evolution by natural selection.
-
-In philosophy,
-it is the other way around:
-Dynamicity is largely neglected by mainstream metaphysics.
-.[
-Johanna Seibt Process Philosophy
-.]
-
-
-There are problems connected with this goal;
-the most important one is, as pointed out by Bertrand Russell in a lecture 1929
-.QP
-.vs 12
-.ps 10
-Probability is the most important concept in modern science, especially as nobody has the slightest notion what it means.
-.[ (cited from \ 
-probability alan 2023
-.])
-.LP
-Little has changed during the century that has passed since Russell held that lecture.
-We have now sophisticated theories on probability,
-statistical inference and big data.
-I assume that all of them mention Kolmogorov's axioms,
-flipping coins
-and fair dice.
-However, I do not think any of these theories dispute Russell.
-Neither will I.
-However,
-in this note I argue that one
+.dropcap "There is," 3 red4 R STIX 1n
+I argue in this note, one
 .I interpretation
-of the concept has a better compatibility with the theory of evolution than the rest.
+of the probability concept that is more compatible with the theory of evolution than the rest.
 Namely the propensity interpretation proposed by.
 .[ 
 #
 Popper 1959 propensity
 .]
-.PP
-This is an ontological claim.
-When modelling natural processes we need quantities,
-variables or constants,
-that we refer to as probabilities since they are about the likelihood that something happens out there.
-They are objective in the sense that they exist, whether or not we observe or estimate them.
-David Lewis writes a questionnaire for the readers of his paper \[oq]A Subjectivist's Guide to Objective Chance\[cq].
-.[
-Lewis Objective Chance 1987
-.]
-His first question is:
-.QP
-.vs 12
-.ps 10
-A certain coin is scheduled to be tossed at noon today.
-You are sure that this chosen coin is fair:
-it has a 50% chance of falling heads and a 50% chance of falling tails.
-You have no other relevant information.
-Consider the proposition that the coin tossed at noon today falls heads.
-To what degree would you now believe that proposition?
+His theory is characterized by three important points:
+.IP 1.
+It uses conditional probabilities only.
+.IP 2.
+The theory is closely related to Karl Popper's theory of falsification.
+.IP 3.
+There is something that operates as probabilities, but are used for singular events.
+Popper calls them propensities.
 .LP
-He gives the answer \[oq]50%, of course.\[cq]
-I agree, could not do otherwise.
-\
-.[ 
-#
-Hanti Lin Frequentist Bayesian 2024
-.]
-asks the same question and writes then
-.QP
-.vs 12
-.ps 10
-According to the test,
-you are a Bayesian if your answer is \[lq]50%, because I am 50% sure that it landed heads, and equally sure that it didn't.\[rq]
-And you are a frequentist if your answer is \[lq]the probability is unknown but equals either 1 or 0, depending on whether the coin actually landed heads or tails, because probabilities are frequencies of events.\[rq]
-.LP
-So, I am a Bayesian;
-I feel a bit uneasy.
-Lin gives me a relief:
-\[oq][...] this test is too simplistic to reveal the complexity underlying the seemingly binary question.\[cq]
-I have no problems with David Lewis' \f[I]Principal Principle\f[P].
-.[
-Lewis Objective Chance 1987
-.]
-.[
-Lewis debugged
-.]
-.PP
-It is just that this note is not about that.
-I will try to show that natural selection is not operating through induction but falsification.
-.\" or Bayesian inference,
+Point 1 allows Popper to think of such a probability as the chance that a hypothesis is true given a certain experimental sitution.
+Point 2 is the obvious followup from point 1, that human knowledge is those hypotheses that survive falsification attempts.
+Point 3 is the ontological claim that probabilities are a part the real world, and singular events occur with their own individual probabilities.
+The opposite position holds that probabilities can only have meaning in long sequences of measurements.
+This view is referred to as frequentism.
+More about this below.

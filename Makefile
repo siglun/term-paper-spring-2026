@@ -44,6 +44,7 @@ essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	dna/mutations.ms natural-selection/the-price-formula.ms \
 	natural-selection/polymorphism.grap kolmogorov.pic \
 	mendels-laws.pic essay-real-numbers.ms \
+	essay-being-bayesian.ms \
 	natural-selection/price-example-0.75.text \
 	natural-selection/price-example-0.25.text \
 	natural-selection/price-example.grap $(OTHERS)
