@@ -1,11 +1,20 @@
 .LP
-When modelling natural processes we need quantities,
+When modelling natural processes mathematically we need quantities,
 variables or constants,
-that we refer to as probabilities since they are about the likelihood that something happens out there.
-They are objective in the sense that they exist, whether or not we observe or estimate them.
+that we refer to as probabilities since they are about the likelihood that something is in a given way, or that something happens out there.
+These probabilities are objective in the sense that they exist, whether or not we observe or estimate them.
+These are the forces envisaged by,
+.[
+#
+Popper propenisity interpretation
+.]
+and as all forces they are not only causing change but accelerations.
 .PP
-.PP
-David Lewis writes a questionnaire for the readers of his paper \[oq]A Subjectivist's Guide to Objective Chance\[cq].
+We passed by the view called subjectivism.
+The subjectivist rejects the idea that there are anything like such parameters,
+the only probabilities accepted are those expressing the strengs of our convictions.
+David Lewis regards himself a subjectivist.
+He writes a questionnaire for his readers of \[oq]A Subjectivist's Guide to Objective Chance\[cq].
 .[
 Lewis Objective Chance 1987
 .]
