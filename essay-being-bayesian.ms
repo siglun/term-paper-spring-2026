@@ -3,6 +3,8 @@ When modelling natural processes we need quantities,
 variables or constants,
 that we refer to as probabilities since they are about the likelihood that something happens out there.
 They are objective in the sense that they exist, whether or not we observe or estimate them.
+.PP
+.PP
 David Lewis writes a questionnaire for the readers of his paper \[oq]A Subjectivist's Guide to Objective Chance\[cq].
 .[
 Lewis Objective Chance 1987
