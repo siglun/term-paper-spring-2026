@@ -21,8 +21,8 @@ if someone is born or is dead.
 .section
 .so essay-senescence.ms
 .section
-.so essay-being-bayesian.ms
-.section
+.\" so essay-being-bayesian.ms
+.\" section
 .so essay-heredity.ms
 .KF
 .so natural-selection/price-example.grap
