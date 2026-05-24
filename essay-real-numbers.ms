@@ -1,5 +1,5 @@
 .PP
-There are a few issues related to numbers and mathematics.
+There are other issues related to numbers and mathematics.
 The first one is well described by David Lewis
 .QP
 .vs 12
@@ -18,7 +18,7 @@ Ten billion human carriers of mutations is countable,
 and so is the number of genes.
 Hence, the number of individuals of any species on earth is natural,
 it is member of $\[natnums]$,
-therefore frequencies of genes and genotypes have to be rational, they must $\[mo]^\[rationals]$.
+therefore frequencies of genes and genotypes have to be rational, they must be member of $\[rationals]$.
 The theories on genetic drift and demographic stochasticity can be seen as remedies from a practical point of view.
 They do not,
 however,

@@ -153,23 +153,77 @@ Here we see again how the properties of few individuals are having crucial impor
 Or in terms of a dynamic system;
 is the equilibrium state of the system invasible or susceptible to change?
 Here is where dynamical systems theory meets modalities such as possibility and necessity.
-.separator
+.\" separator
+.section
 .LP
-When modelling natural processes mathematically we need quantities,
+When modelling natural processes mathematically we use quantities,
 variables or constants,
-that we refer to as probabilities since they are about the likelihood that something is in a given way, or that something happens out there.
+that we refer to as probabilities.
+They are,
+somehow,
+about the likelihood that something is in a given way,
+or that something happens out there.
 These probabilities are objective in the sense that they exist, whether or not we observe or estimate them.
-These are the forces envisaged by,
+They are also the forces envisaged by,
 .[ 
 #
-popper propensity interpretation 1959
+Popper propensity interpretation 1959
 .]
 and as forces in physics they are not only causing change but accelerations.
 .PP
 We passed by the view called subjectivism.
 The subjectivist rejects the idea that there are anything like such parameters,
-the only probabilities accepted are those expressing the strengs of our convictions.
+the only probabilities accepted are those expressing the strengths of our convictions.
+Subjectivism often correlates with the acceptance of a strong determinism.
+.QS
+.LP
+.vs 12
+.ps 10
+Today I can see why so many determinists,
+and even ex-determinists who believe in the deterministic character of classical physics,
+seriously believe in a subjectivist interpretation of probability:
+it is in a way the only reasonable possibility which they can accept:
+for objective physical probabilities are incompatible with determinism.
+.[
+Popper schism
+.]
+.QE
+.PP
 David Lewis regards himself a subjectivist.
+In \[oq]A Subjectivist's Guide to Objective Chance\[cq] he writes
+.QS
+.LP
+.vs 12
+.ps 10
+The practice and the analysis of science require both concepts [credence and chance].
+Neither can replace the other.
+Among the propositions that deserve our credence we find,
+for instance,
+the proposition that (as a matter of contingent fact about our world) any tritium atom that now exists has a certain chance of decaying within a year.
+Why should we subjectivists be less able than other folk to make sense of that?
+.[
+Lewis Objective Chance 1987
+.]
+.QE
+.LP
+Half-life of tritium ($"" sub 1  sup 3 H$) is 12.32 years and radioactive decay is exponentially distributed.
+We discussed such distributions in relation to the evolution of senescence above.
+Human survivorship curves seem to be composed by at least two such distributions and subject to evolution, where initially rare random mutations are finetuned by natural selection to make us potential proud grandparents.
+.PP
+Strictly speaking,
+subjectivism precludes all objective probabilities,
+so Lewis' \[oq]why should we subjectivists be less able than other folk to make sense of that?\[cq] seems pretentious to me.
+He has chosen his position,
+and any problems are his to iron out.
+He hides behind what he calls the \f[I]principal principle\f[P] which allows him to say that the physical chance $Ch$ that an event $p$ occur is equal to the bayesian credence $C$ he assigns to it.
+$E$ is evidence
+.[
+Chance versus Randomness
+.]
+.EQ
+C(p | \[ulcorner] Ch ( p ) = x \[urcorner] and E ) = x
+.EN
+or, if the chance you get head when tossing a coin is $1 smallover 2$ then your credence should be the same.
 He writes a questionnaire for his readers of \[oq]A Subjectivist's Guide to Objective Chance\[cq].
 .[
 Lewis Objective Chance 1987
@@ -211,6 +265,3 @@ Lewis Objective Chance 1987
 .[
 Lewis debugged
 .]
-.PP
-It is just that this note is not about that.
-I will try to show that natural selection is not operating through induction but falsification.
