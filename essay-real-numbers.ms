@@ -17,8 +17,8 @@ This is even more relevant for populations.
 Ten billion human carriers of mutations is countable,
 and so is the number of genes.
 Hence, the number of individuals of any species on earth is natural,
-it is member of $\[natnums]$,
-therefore frequencies of genes and genotypes have to be rational, they must be member of $\[rationals]$.
+it is a member of $\[natnums]$,
+therefore frequencies of genes and genotypes have to be rational, they must belong to $\[rationals]$.
 The theories on genetic drift and demographic stochasticity can be seen as remedies from a practical point of view.
 They do not,
 however,
