@@ -112,7 +112,7 @@ Obviously this is undetermined.
 However,
 different diseases have different propensities for spreading.
 For instance,
-assume that Anscombe had not contracted any childhood diseases when young.
+assume that Anscombe had not contracted any childhood diseases during childhood.
 Now, when a parent, she was sitting by the bed when her children had
 Measles, Chickenpox and Mumps.
 These infections have basic reproductive rates $R sub 0$, 11\[en]15, 7\[en]12 and 11\[en]14, respectively.
@@ -172,9 +172,9 @@ Popper propensity interpretation 1959
 and as forces in physics they are not only causing change but accelerations.
 .PP
 We passed by the view called subjectivism.
-The subjectivist rejects the idea that there are anything like such parameters,
+The subjectivist rejects the idea that there are such parameters,
 the only probabilities accepted are those expressing the strengths of our convictions.
-Subjectivism often correlates with the acceptance of a strong determinism.
+Historically, subjectivism often been associated with deterministic interpretations of physics.
 .QS
 .LP
 .vs 12
@@ -208,11 +208,11 @@ Lewis Objective Chance 1987
 .LP
 Half-life of tritium ($"" sub 1  sup 3 H$) is 12.32 years and radioactive decay is exponentially distributed.
 We discussed such distributions in relation to the evolution of senescence above.
-Human survivorship curves seem to be composed by at least two such distributions and subject to evolution, where initially rare random mutations are finetuned by natural selection to make us potential proud grandparents.
+Human survivorship curves seem to be composed by at least two such distributions and subject to evolution, where initially rare random mutations are fine-tuned by natural selection to make us potentially proud grandparents.
 .PP
 Strictly speaking,
 subjectivism precludes all objective probabilities,
-so Lewis' \[oq]why should we subjectivists be less able than other folk to make sense of that?\[cq] seems pretentious to me.
+so Lewis' \[oq]why should we subjectivists be less able than other folk to make sense of that?\[cq] seems as if the subjectivists are not allowed to think about single atoms.
 He has chosen his position,
 and any problems are his to iron out.
 He hides behind what he calls the \f[I]principal principle\f[P] which allows him to say that the physical chance $Ch$ that an event $p$ occur is equal to the bayesian credence $C$ he assigns to it.

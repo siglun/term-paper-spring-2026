@@ -1,13 +1,13 @@
 .LP
-A second aspect of how Popper presents his theory is that he sees the frequency interpretation as an example how we get knowledge through induction,
-whereas his propensity theory is forward looking where a setup is evaluated in an experiment.
+Another aspect of how Popper presents his theory is that he sees the frequency interpretation as an example of how we get knowledge through induction,
+whereas his propensity theory is forward looking where a setup is tested experimentally.
 This mirrors his falsification theory.
 .[
 Popper magic 1957
 .]
 .PP
 The frequency theory is looking from some point backwards along a lineage.
-What worked in the past might be seen as inductive knowledge.
+What worked in the past may be seen as inductive knowledge.
 The propensity theory is looking forward from the same point.
 The future is always an experiment,
 a test that can falsify that knowledge in a changing environment.
