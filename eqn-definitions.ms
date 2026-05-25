@@ -7,7 +7,8 @@
 .char \[natnums]  \[u2115]
 .char \[reals]    \[u211D]
 .char \[rationals] \[u211A]
-.char \[integers] \[u2124]
+.char \[integers] \[u2124] 
+.char \[complement] \[u2201]
 .\" char \[ca]	\[u2229]
 \" \[turn] \[dturn]
 .EQ
@@ -49,7 +50,9 @@ sdefine subset      %{type "operator" vcenter \[ib]}%
 sdefine powerset    %{type "operator" vcenter \[wp]}%
 sdefine identicalto %{type "operator" vcenter \[==]}%
 
-sdefine union %{type "operator" \[cu]}%
+sdefine union      %{type "operator" \[cu]}%
 sdefine intersect  %{type "operator" \[ca]}%
-sdefine inter  %{type "operator" \[ca]}%
+sdefine inter      %{type "operator" \[ca]}%
+sdefine compl      %{type "operator"  \[complement]}%
+sdefine complement %{type "operator"  \[complement]}%
 .EN

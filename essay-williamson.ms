@@ -172,8 +172,8 @@ Popper propensity interpretation 1959
 and as forces in physics they are not only causing change but accelerations.
 .PP
 We passed by the view called subjectivism.
-The subjectivist rejects the idea that there are such parameters,
-the only probabilities accepted are those expressing the strengths of our convictions.
+The subjectivist rejects the idea that there are any such parameters,
+the only probabilities admitted are those expressing the strengths of our convictions.
 Historically, subjectivism has often been associated with deterministic interpretations of physics.
 .QS
 .LP
@@ -189,7 +189,7 @@ Popper schism
 .]
 .QE
 .PP
-David Lewis regards himself a subjectivist.
+David Lewis regarded himself a subjectivist.
 In \[oq]A Subjectivist's Guide to Objective Chance\[cq] he writes
 .QS
 .LP
@@ -215,7 +215,7 @@ subjectivism precludes all objective probabilities,
 so Lewis' \[oq]why should we subjectivists be less able than other folk to make sense of that?\[cq] seems as if the subjectivists are not allowed to think about single atoms.
 He has chosen his position,
 and any problems are his to iron out.
-He hides behind what he calls the \f[I]principal principle\f[P] which allows him to say that the physical chance $Ch$ that an event $p$ occur is equal to the bayesian credence $C$ he assigns to it.
+He hides behind what he calls the \f[I]principal principle\f[P] which allows him to say that the physical chance $Ch$ that an event $p$ occurs is equal to the Bayesian credence $C$ he assigns to it.
 $E$ is evidence,
 or (I suppose Popper had preferred this) the experimental context,
 .[
@@ -224,7 +224,7 @@ Chance versus Randomness
 .EQ
 C(p | \[ulcorner] Ch ( p ) = x \[urcorner] and E ) = x
 .EN
-or, if the chance you get head when tossing a coin is $1 smallover 2$ then your credence should be the same.
+or, if the chance of getting heads when tossing a coin is $1 smallover 2$ then your credence should be the same.
 He writes a questionnaire for his readers of \[oq]A Subjectivist's Guide to Objective Chance\[cq].
 .[
 Lewis Objective Chance 1987
@@ -241,7 +241,7 @@ Consider the proposition that the coin tossed at noon today falls heads.
 To what degree would you now believe that proposition?
 .LP
 He gives the answer \[oq]50%, of course.\[cq]
-I agree, could not do otherwise.
+I agree, I could not do otherwise.
 \
 .[ 
 #
@@ -334,13 +334,13 @@ For instance Alfred
 #
 Ayer probability
 .]
-discusses the probability for him to reach the venerable age of 80.
+discussed the probability that he would reach the venerable age of 80.
 .[ (
 Ayer probability
 .], p. 201)
 In doing that he notice that he could define an endless number of collectives,
 which would definitely complicate the estimation of the probability.
 Again an epistemic frequentist affliction given ontological status.
-I wish to point out that membership in such collectives is often not at all relative;
+I wish to point out that membership in such collectives is often not relative at all;
 it is heritable to be a white pea (Figure 4).
 .separator

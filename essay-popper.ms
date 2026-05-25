@@ -82,7 +82,7 @@ When we speak of \[oq]the probability of death\[cq],
 the exact meaning of this expression can be defined in the following way only.
 We must not think of an individual,
 but of a certain class as a whole, e.g.,
-\[oq]all insured men forty-one years old a given country and not engaged in certain dangerous occupations\[cq].
+\[oq]all insured men forty-one years old living in a given country and not engaged in certain dangerous occupations\[cq].
 A probability of death is attached to this class of men or to another class that can be defined in a similar way.
 .[
 probability statistics truth 1957
@@ -118,6 +118,9 @@ the frequentist is forced to accept the propensity interpretation.
 All this means that the frequency theorist is forced to introduce a modification of his theory\[em]apparently a very slight one.
 He will now say that an admissible sequence of events (a reference sequence,
 a \[oq]collective\[cq]) must always be a sequence of repeated experiments.
+.[ (
+Popper propensity 1959 
+.], p. 30)
 .LP
 In the following,
 when we talk about mutants and wild types think about heterogeneity and that individuals may have different propensities.
