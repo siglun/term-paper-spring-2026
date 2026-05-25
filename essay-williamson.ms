@@ -174,7 +174,7 @@ and as forces in physics they are not only causing change but accelerations.
 We passed by the view called subjectivism.
 The subjectivist rejects the idea that there are such parameters,
 the only probabilities accepted are those expressing the strengths of our convictions.
-Historically, subjectivism often been associated with deterministic interpretations of physics.
+Historically, subjectivism has often been associated with deterministic interpretations of physics.
 .QS
 .LP
 .vs 12
@@ -216,7 +216,8 @@ so Lewis' \[oq]why should we subjectivists be less able than other folk to make 
 He has chosen his position,
 and any problems are his to iron out.
 He hides behind what he calls the \f[I]principal principle\f[P] which allows him to say that the physical chance $Ch$ that an event $p$ occur is equal to the bayesian credence $C$ he assigns to it.
-$E$ is evidence
+$E$ is evidence,
+or (I suppose Popper had preferred this) the experimental context,
 .[
 Chance versus Randomness
 .]
@@ -271,5 +272,75 @@ A fair deal.
 Not all subjectivists share Lewis' acceptance of objective chance, among them are.
 .[ 
 #
-scientific reasoning bayesian approach
+howson urbach scientific reasoning bayesian approach
 .]
+They return to the reasoning by
+.[ 
+#
+von Mises
+.]
+who introduced collectives that were also accepted by Popper.
+Howson and Urbach state that since the collectives are defined by the investigator the corresponding probability is basically subjective,
+and the Principal Principle does not change a thing.
+They write:
+\[oq]Once the distinction is drawn, it becomes clear that single-case probabilities are really subjective probabilities which relative to the right sort of information are equal to probabilities in collectives\[cq].
+.[ (
+howson urbach scientific reasoning bayesian approach
+.], p. 228)
+That is, indeed, relevant if we discuss the epistemic problem of estimation of that probability.
+In spite of that,
+the introduction of a subjectivity in the definition of the collective is introducing a propensity just as argued by Popper in response to,
+.[ 
+#
+von Mises
+.]
+that the collective is basically an acceptance of a propensity.
+.QS
+.LP
+.vs 12
+.ps 10
+The [Principal]\** principle itself,
+.FS
+Added by the author.
+.FE
+though a synthetic one,
+stands unsupported,
+and according to its advocates necessarily stands unsupported by any empirical argument.
+The Kantian synthetic apriori has reappeared in the least likely of places.
+.[ (
+howson urbach scientific reasoning bayesian approach
+.], p. 227)
+.QE
+I beg to disagree.
+The problem caused by the principle is a problem for subjectivism,
+not for the propensity theory.
+The easiest way to justify philosophically that there is a probability that a given Tritium atom is still around in a year is to accept the propensity theory.
+Without objective chance,
+subjectivist probability still need to explain what it means that the half life of $"" sub 1  sup 3 H$ is 12.32 and $"" sub 94 sup 239 Pu$ is 24400 years.
+.ig
+In his paper,
+Lewis cleverly added the questionnaire before introducing his Principal principle,
+and therefore it is fair to say that there is at least some empirical support.
+I gave my subjective 50% credence for the coin flipping head with probability 50%.
+There are as far as I know, no indications that Lewis thinks of his principle to be synthetic \f[I]a priori\f[P] in my reading.
+I believe he included his questionnaire for pedagogical reasons;
+basically an intuition pump.
+Not as a help for him to gain empirical support from his readers.
+..
+.PP
+The classes (or collectives) introduced seem to cause tremendous problems for philosophers.
+For instance Alfred
+.[ 
+#
+Ayer probability
+.]
+discusses the probability for him to reach the venerable age of 80.
+.[ (
+Ayer probability
+.], p. 201)
+In doing that he notice that he could define an endless number of collectives,
+which would definitely complicate the estimation of the probability.
+Again an epistemic frequentist affliction given ontological status.
+I wish to point out that membership in such collectives is often not at all relative;
+it is heritable to be a white pea (Figure 4).
+.separator
