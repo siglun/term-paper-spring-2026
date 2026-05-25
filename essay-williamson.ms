@@ -11,11 +11,11 @@ Luenberger 1979
 Dynamical systems are typically sets of difference or differential equations, one equation per variable under study.
 These variables are usually referred to as state variables.
 A dynamical system can be solved analytically or numerically to yield time series of the states.
-The solutions are typically of three kinds.
-(i) Convergence to a point,
-where state variables move along trajectories towards a point often referred to as an attractor.
-(ii) An attractor can be a limit cycle when the trajectories, or orbits, returns over and over again to the same or similar states.
-Finally (iii)  it can be chaotic.
+The solutions are typically of three kinds:
+(i) They can converge to a single point, an equilibirium, in which there is no change.
+Then state variables move along trajectories towards the point which is often referred to as an attractor.
+(ii) An attractor can be a limit cycle when the trajectories, or orbits, returns cyclically over and over again to the same or similar states.
+Finally (iii) there are so-called strange attractors, in which case the behaviour is chaotic.
 .PP
 The trajectories of a dynamical system have one important feature.
 They are uniquely determined by their initial conditions,
@@ -206,7 +206,11 @@ Lewis Objective Chance 1987
 .]
 .QE
 .LP
-Half-life of tritium ($"" sub 1  sup 3 H$) is 12.32 years and radioactive decay is exponentially distributed.
+Half-life of tritium ($"" sub 1  sup 3 H$) is 12.26 years
+.[
+Weast handbook chemistry physics
+.]
+and radioactive decay is exponentially distributed.
 We discussed such distributions in relation to the evolution of senescence above.
 Human survivorship curves seem to be composed by at least two such distributions and subject to evolution, where initially rare random mutations are fine-tuned by natural selection to make us potentially proud grandparents.
 .PP
@@ -317,16 +321,9 @@ not for the propensity theory.
 The easiest way to justify philosophically that there is a probability that a given Tritium atom is still around in a year is to accept the propensity theory.
 Without objective chance,
 subjectivist probability still need to explain what it means that the half life of $"" sub 1  sup 3 H$ is 12.32 and $"" sub 94 sup 239 Pu$ is 24400 years.
-.ig
-In his paper,
-Lewis cleverly added the questionnaire before introducing his Principal principle,
-and therefore it is fair to say that there is at least some empirical support.
-I gave my subjective 50% credence for the coin flipping head with probability 50%.
-There are as far as I know, no indications that Lewis thinks of his principle to be synthetic \f[I]a priori\f[P] in my reading.
-I believe he included his questionnaire for pedagogical reasons;
-basically an intuition pump.
-Not as a help for him to gain empirical support from his readers.
-..
+.[
+Weast handbook chemistry physics
+.]
 .PP
 The classes (or collectives) introduced seem to cause tremendous problems for philosophers.
 For instance Alfred

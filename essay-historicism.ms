@@ -22,7 +22,7 @@ that his view of probabilities should be valid at a metaphysical level.
 popper 1978 natural selection
 .]
 The propensities-as-forces are, at a conceptual level,
-essential for the understanding of all that we see as changes out in nature.
+essential for the understanding of all that we see as changes in nature.
 Dynamicity is at the core of evolution.
 .PP
 The past and induction can explain the present.
@@ -33,7 +33,10 @@ to use them to predict the future is what
 Popper historicism
 .]
 refers to as historicism.
-This was the reason he initially rejected the theory of Natural Selection.
+This was the reason he initially refused to accept the theory of evolution as a general natural law.
+.[ (
+Popper historicism
+.], p. 106\[en]107)
 He did eventually endorse it again 1978 when he was invited to give the first Darwin lecture at Darwin College, Cambridge.
 He proposed that
 .QS
@@ -64,7 +67,7 @@ Populations grow, decline and go extinct.
 Natural selection works on differences between individuals,
 hence the probabilities that matter for evolution must be for singular events.
 Furthermore,
-Natural selection is not looking at your CV and past merits.
+natural selection is not looking at your CV and past merits.
 It looks at your next achievements.
 Do you survive and reproduce the next year?
 Natural selection is not induction,
