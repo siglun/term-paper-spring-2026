@@ -1,7 +1,8 @@
 .PP
 There are other issues related to numbers and mathematics.
-The first one is well described by David Lewis
-.QP
+There is an obvious one which was well described by David Lewis
+.QS
+.LP
 .vs 12
 .ps 10
 Another well-known problem for simple frequentism:
@@ -12,6 +13,7 @@ and we have no pre-philosophical reason to doubt that chances in a finite world 
 .[
 Humean Supervenience Debugged
 .]
+.QE
 .LP
 This is even more relevant for populations.
 Ten billion human carriers of mutations is countable,
