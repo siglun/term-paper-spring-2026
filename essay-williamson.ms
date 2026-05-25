@@ -265,3 +265,11 @@ Lewis Objective Chance 1987
 .[
 Lewis debugged
 .]
+Lewis accepted objective chance, I accept the Principal Principle.
+A fair deal.
+.PP
+Not all subjectivists share Lewis' acceptance of objective chance, among them are.
+.[ 
+#
+scientific reasoning bayesian approach
+.]
