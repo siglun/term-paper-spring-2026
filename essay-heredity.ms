@@ -16,7 +16,6 @@ That is,
 all probabilities are conditional on something.
 This is not incompatible with mainstream probability theory,
 he is just making it a bit more general.
-The notion that all probabilities are conditional is tightly connected to his theory on falsification.
 .[
 popper magic
 .]
@@ -27,14 +26,15 @@ Therefore any probability requires an interpretation,
 and by that he means that statements like
 .IP
 \[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[reals]$)\[cq]
-.LP
-implies, for example, that $a$ can be a hypothesis which is studied in an experimental design $b$.
-That is,
-anyone using probabilities is obliged to explain what they are conditional on.
 He uses his own notation for this:
 .EQ C (P1)
 p(a,b)=r
 .EN
+.LP
+This implies, for example,
+that $a$ can be a hypothesis which is studied in an experimental design $b$.
+Here we see how his notion that all probabilities are conditional is tightly connected to his theory on falsification.
+Anyone using probabilities has to explain if and what they are conditional on.
 That probability (for $a$ given $b$ to be pedagogically redundant), can be written in a more conventional notation
 .EQ C (P1\[aq])
 P( a | b ) = { P(a intersect b ) } over P(b)
@@ -93,16 +93,16 @@ i.e., it comes from Eq. (P1\[aq]).
 You cannot see that from Eq. (P1), though.
 .PP
 Finally,
-let $a bar$ be the complement of $a$.
+let $a sup c$ be the complement of $a$.
 The complement of a set is everything which is not in that set.
 .EQ C (P4)
-p( a bar , c ) = 1 - p (a,c) , roman " provided " p( c bar , c ) \[!=] 0 
+p( a sup c , c ) = 1 - p (a,c) , roman " provided " p( c sup c , c ) \[!=] 0 
 .EN
 Popper admits himself that Eq. (P4) is somewhat unusual.\**
 I will not use it in this note,
 kept it here for the sake of completeness.
 .FS
-This is because if $c$ is true, i.e, a tautology, then its complement $c bar$ has to be a contradiction.
+This is because if $c$ is true, i.e, a tautology, then its complement $c sup c$ has to be a contradiction.
 The probability of anything given something certain (a tautology) is 1 and Eq. (P4) would become
 .EQ
 1 = 1 - 1

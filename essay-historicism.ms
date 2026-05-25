@@ -6,9 +6,9 @@ This mirrors his falsification theory.
 Popper magic 1957
 .]
 .PP
-The frequency theory is looking from some point backwards along a lineage.
+The frequency theory is looks from some point backwards along a lineage.
 What worked in the past may be seen as inductive knowledge.
-The propensity theory is looking forward from the same point.
+The propensity theory looks forward from the same point.
 The future is always an experiment,
 a test that can falsify that knowledge in a changing environment.
 I have the impression that Karl
@@ -21,7 +21,7 @@ that his view of probabilities should be valid at a metaphysical level.
 .[
 popper 1978 natural selection
 .]
-The propensities as forces are, at a conceptual level,
+The propensities-as-forces are, at a conceptual level,
 essential for the understanding of all that we see as changes out in nature.
 Dynamicity is at the core of evolution.
 .PP
@@ -61,8 +61,8 @@ a population has a gene frequency.
 Individuals mate, give birth, survive and finally die.
 Populations grow, decline and go extinct.
 .PP
-Natural selection works on the individual level,
-hence the probabilities that matter for Evolution out there in Nature must be for singular events.
+Natural selection works on differences between individuals,
+hence the probabilities that matter for evolution must be for singular events.
 Furthermore,
 Natural selection is not looking at your CV and past merits.
 It looks at your next achievements.

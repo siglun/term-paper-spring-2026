@@ -1,11 +1,11 @@
 .so ./life-tables/survivorship-curves.ms
 .LP
 Popper admits readily that from the point of view of a \[oq]purely statistical
-interpretation of probability\[cq].
+interpretation of probability\[cq],
 .[ (
 popper propensity interpretation 1959
 .], p. 30)
-the propensity interpretion is unacceptible.
+the propensity interpretion is unacceptable.
 Still he maintains that it is useful.
 .QP
 .vs 12
@@ -16,6 +16,9 @@ in observable accelerations.
 Similarly, the concept of propensity,
 or a field of propensities, introduces a dispositional property of singular physical experimental arrangements\[em]that is to say,
 of events\[em]in order to explain observable frequencies in sequences of repetitions of these events.
+.[ (
+popper propensity interpretation 1959
+.], p. 31)
 .PP
 Let us return to the probability of death example raised by.
 .[ 
@@ -110,10 +113,9 @@ Recall Popper's arguments concerning heterogeneity in frequentist sequences.
 One die is homogenous and symmetrical and contribute a few throws,
 and the other is loaded and contribute a majority.
 Here we must return to the thinking of mutants and wild types.
-Each individual becomes a throw, an individual event.
-The deaths of individuals\[em]each of which is a mutant\[em]in a population of other mutants.
-The additional feature is that these
-.I individual
-deaths contribute to the moulding of the survivorship curve for the population.
+The wild type dominates the population.
+Each individual becomes a throw of die, an individual event.
+Mutants are initially so rare that they hardly ever meet each other.
+Their reproduction and deaths mould the survivorship curve for the population.
 The mutation pressure provides the variation that enables evolution,
 the selection pressure determines what changes occur in the population.
