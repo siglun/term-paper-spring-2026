@@ -20,9 +20,33 @@ if someone is born or is dead.
 .so essay-popper.ms
 .section
 .so essay-senescence.ms
+.KF
+.PS
+copy "kolmogorov.pic"
+.PE
+.QP
+.vs 12
+.ps 10
+Figure 3. The two events $a$ and $b$ are represented as two sets.
+The intersection is the event $a and b$ and the event $a or b$ must not double-count the overlapping area.
+Hence the third term in Eq. (P2).
+The event $c$ is the whole background area.
+In a more modern notation this would be
+.EQ
+P ( a union  b ) = P(a) + P(b) - P( a intersect b)
+.EN
+.vs 12
+.ps 10
+Kolmogorov's third axiom states 
+.EQ
+P ( a union  b ) = P(a) + P(b)
+.EN
+.vs 12
+.ps 10
+and does not allow for the $a$ and $b$ overlapping as depicted.
+.sp
+.KE
 .section
-.\" so essay-being-bayesian.ms
-.\" section
 .so essay-heredity.ms
 .KF
 .so natural-selection/price-example.grap
@@ -41,6 +65,7 @@ The open rings and dashed line represent the situation where the $q bar = 0.25$ 
 The bullets and solid line with negative slope $beta sub zq$ shows the situation where the $q bar = 0.75$ and the $A$ will therefore decrease the following year.
 .sp
 .KE
+.bp
 .section
 .so natural-selection/the-price-formula.ms
 .\" so natural-selection/polymorphism.grap
@@ -58,6 +83,7 @@ The bullets and solid line with negative slope $beta sub zq$ shows the situation
 This note is dedicated to my grandchildren.
 I thank Gertrud for her understanding with my absentmindedness when I was thinking of probabilities.
 .so natural-selection/appendix-a.ms
+.so natural-selection/appendix-b.ms
 .[
 $LIST$
 .]

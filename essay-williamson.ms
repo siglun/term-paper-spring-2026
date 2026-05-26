@@ -13,14 +13,15 @@ These variables are usually referred to as state variables.
 A dynamical system can be solved analytically or numerically to yield time series of the states.
 The solutions are typically of three kinds:
 (i) They can converge to a single point, an equilibirium, in which there is no change.
-Then state variables move along trajectories towards the point which is often referred to as an attractor.
+Then state variables move along trajectories converging towards the point which is often referred to as an attractor.
 (ii) An attractor can be a limit cycle when the trajectories, or orbits, returns cyclically over and over again to the same or similar states.
 Finally (iii) there are so-called strange attractors, in which case the behaviour is chaotic.
+Strange attractors are extremely sensitive to the initial conditions of the system.
 .PP
 The trajectories of a dynamical system have one important feature.
 They are uniquely determined by their initial conditions,
 they can diverge from, or converge, to one another, but never intersect.
-The Eq. (1\[aq]\[aq]) is of simple kind.
+The Eq. (1\[aq]\[aq]) is of a simple kind.
 Its dynamics converges to one of three equilibrium points.
 .PP
 The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.
@@ -49,6 +50,7 @@ Mathematically, the environmental impact is usually Gaussian (normally distribut
 Robert May 1974
 .], p. 109\[en]139)
 Concretely it involves everything from harsh weather to asteroids and the Cretaceous\[en]Paleogene extinction event.
+All dynamical systems restarted without the dinosaurs.
 .[
 asteroid
 .]
@@ -310,7 +312,7 @@ Added by the author.
 though a synthetic one,
 stands unsupported,
 and according to its advocates necessarily stands unsupported by any empirical argument.
-The Kantian synthetic apriori has reappeared in the least likely of places.
+The Kantian synthetic a priori has reappeared in the least likely of places.
 .[ (
 howson urbach scientific reasoning bayesian approach
 .], p. 227)

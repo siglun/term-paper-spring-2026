@@ -6,7 +6,7 @@ This mirrors his falsification theory.
 Popper magic 1957
 .]
 .PP
-The frequency theory is looks from some point backwards along a lineage.
+The frequency theory looks from some point backwards along a lineage.
 What worked in the past may be seen as inductive knowledge.
 The propensity theory looks forward from the same point.
 The future is always an experiment,

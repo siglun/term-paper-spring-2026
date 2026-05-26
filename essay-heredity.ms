@@ -55,32 +55,6 @@ p( a or b , c ) = p( a , c ) + p( b , c ) - p ( a and b , c)
 This theorem does not assume that $a$ and $b$ are disjoint, Kolmogorov's first axiom does that.
 When that is the case, the event $a and b$ given $c$ will never occur and the third term in Eq. (P2) will be zero.
 See Figure 3 for a graphic interpretation of Eq. (P2).
-.KF
-.PS
-copy "kolmogorov.pic"
-.PE
-.QP
-.vs 12
-.ps 10
-Figure 3. The two events $a$ and $b$ are represented as two sets.
-The intersection is the event $a and b$ and the event $a or b$ must not double-count the overlapping area.
-Hence the third term in Eq. (P2).
-The event $c$ is the whole background area.
-In a more modern notation this would be
-.EQ
-P ( a union  b ) = P(a) + P(b) - P( a intersect b)
-.EN
-.vs 12
-.ps 10
-Kolmogorov's third axiom states 
-.EQ
-P ( a union  b ) = P(a) + P(b)
-.EN
-.vs 12
-.ps 10
-and does not allow for the $a$ and $b$ overlapping as depicted.
-.sp
-.KE
 His multiplication theorem
 .EQ C (P3)
 p(a and b, c) = p(a , b and c) p(b,c)
