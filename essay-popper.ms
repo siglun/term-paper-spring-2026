@@ -15,7 +15,7 @@ That is,
 we make metaphysical claims when using that concept.
 For instance, each of us carries $approx 75.8$ new mutations.\**
 .FS
-The mutation rate for humans is in the order of magnitude $1.24 \[mu] 10 sup -8$ per base pairs per generation.
+The mutation rate for humans is in the order of magnitude $1.24 \[mu] 10 sup -8$ per base pair per generation.
 .[
 estimating mutation rate
 .]

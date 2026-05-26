@@ -16,12 +16,14 @@ Oren Harman 2011
 .]
 .FE
 .PP
-We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency of the gene $A$ from one generation to the next, $Delta Q$ .
+We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency $Q$ of the gene $A$ from one generation to the next, $Delta Q$ .
 In this case his equation looks like this:
 .EQ C (1)
 Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
 .EN
-Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in that individual, $q sub i = 0, 1/2, 1$.
+Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in
+.B that
+individual, $q sub i = 0, 1/2, 1$.
 $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes and frequencies of $A$ over all the $N$
 .I individuals
 in the population, respectively.
@@ -57,7 +59,7 @@ where we take the sums over all members of population $P sub 1$.
 In traditional population genetics you do this differently.
 Here you assume (i) Mendel's law of inheritance and (ii) random mating.
 (Price assumes nothing of this kind when deriving his equation.)
-Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$ (basically this is what Price does).
+Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$.
 From those data we can easily calculate the gene frequency.
 Now we use the traditional assumptions and Eq. (2) to calculate $q bar$.
 We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.

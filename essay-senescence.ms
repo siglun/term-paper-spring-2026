@@ -7,7 +7,8 @@ popper propensity interpretation 1959
 .], p. 30)
 the propensity interpretion is unacceptable.
 Still he maintains that it is useful.
-.QP
+.QS
+.LP
 .vs 12
 .ps 10
 The concept of force\[em]or better still,
@@ -19,6 +20,7 @@ of events\[em]in order to explain observable frequencies in sequences of repetit
 .[ (
 popper propensity interpretation 1959
 .], p. 31)
+.QE
 .PP
 Let us return to the probability of death example raised by.
 .[ 
@@ -26,10 +28,10 @@ Let us return to the probability of death example raised by.
 probability statistics truth 1957
 .]
 We are all mutants, and each of us will die.
-There is a connection between the deaths and the mutations,
+There is a connection between our eaths and the mutations we carry,
 and that is
 .I "natural selection."
-We start with mortality.
+We start with some reflections on our finitude.
 .PP
 When discussing such probabilities we need a kind of data usually referred to as
 .I "life table"
@@ -59,6 +61,8 @@ Assume that at some moment in time we see the birth of $N sub 0$ infants.
 Then, if a proportion $c$ of them dies per year, $x$ years later $N sub x = N sub 0 c sup x$ are still alive.
 Taking the logarithm ($ln$) of that we see $ln N sub x = x ln c + ln N sub 0$,
 that is, a straight line with the slope $ln c$.
+That kind of exponential distribution is used in many places.
+Two examples are radioactive decay and reliability theory.
 .FE
 When the curve is linear the yearly death rate is constant,
 which means that a small fixed proportion of the population of one age die \f[I]per annum.\f[P]
@@ -119,3 +123,5 @@ Mutants are initially so rare that they hardly ever meet each other.
 Their reproduction and deaths mould the survivorship curve for the population.
 The mutation pressure provides the variation that enables evolution,
 the selection pressure determines what changes occur in the population.
+Over time,
+the mutant will overcome and eventually become the next wild type.
