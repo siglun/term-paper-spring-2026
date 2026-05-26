@@ -1,7 +1,7 @@
 .SH
 Appendix B
 .LP
-The script generating data for Figure 5.
+The script for generating Figure 5 Monte Carlo simulation.
 It writes the data for reproductive success to STDOUT and for the regression lines to STDERR.
 We read the assumed gene frequency from command line,
 or we set it to 0.25 if absent.
