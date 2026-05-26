@@ -50,10 +50,12 @@ and does not allow for the $a$ and $b$ overlapping as depicted.
 .so essay-heredity.ms
 .KF
 .so natural-selection/price-example.grap
-.QP
+.QS
+.LP
 .vs 12
 .ps 10
 Figure 5. Two hypothetical regression analyses showing how the direction of selection depends on the relation between the number of successful gametes and individual gene frequency.
+The Monte Carlo simulation for generating this is described in Appendix B.
 The two analyses share the same parameters.
 They both have a population of 50 individuals;
 they assume that there is an advantage for the heterozygotes ($Aa$) such they have the highest reproductive success.
@@ -64,6 +66,7 @@ The individuals are assigned to the genotypes $aa$, $Aa$ and $AA$ in approximate
 The open rings and dashed line represent the situation where the $q bar = 0.25$ and the $A$ will increase the next year, because the slope $beta sub zq$ of the regression is positive.
 The bullets and solid line with negative slope $beta sub zq$ shows the situation where the $q bar = 0.75$ and the $A$ will therefore decrease the following year.
 .sp
+.QE
 .KE
 .bp
 .section

@@ -41,7 +41,7 @@ in observable accelerations\[cq].
 .[ (
 popper propensity interpretation 1959
 .], p. 30)
-I give a worked hypothetical example in Figure 5.
+I give a hypothetical example in Figure 5.
 .PP
 Price considers two populations $P sub 1$ and $P sub 2$,
 where the former represents the parents and the latter their offspring.
