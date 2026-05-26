@@ -54,7 +54,7 @@ and does not allow for the $a$ and $b$ overlapping as depicted.
 .LP
 .vs 12
 .ps 10
-Figure 5. Two hypothetical regression analyses showing how the direction of selection depends on the relation between the number of successful gametes and individual gene frequency.
+Figure 5. A hypothetical example of how regression analyses show the direction of selection, and how it depends on the relation between the number of successful gametes and individual gene frequency.
 The Monte Carlo simulation for generating this is described in Appendix B.
 The two analyses share the same parameters.
 They both have a population of 50 individuals;

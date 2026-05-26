@@ -5,7 +5,7 @@ interpretation of probability\[cq],
 .[ (
 popper propensity interpretation 1959
 .], p. 30)
-the propensity interpretion is unacceptable.
+the propensity interpretation is unacceptable.
 Still he maintains that it is useful.
 .QS
 .LP
@@ -28,10 +28,10 @@ Let us return to the probability of death example raised by.
 probability statistics truth 1957
 .]
 We are all mutants, and each of us will die.
-There is a connection between our eaths and the mutations we carry,
+There is a connection between our deaths and the mutations we carry,
 and that is
 .I "natural selection."
-We start with some reflections on our finitude.
+So we start with some reflections on our finitude.
 .PP
 When discussing such probabilities we need a kind of data usually referred to as
 .I "life table"
