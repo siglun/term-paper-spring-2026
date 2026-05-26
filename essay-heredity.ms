@@ -82,7 +82,7 @@ The probability of anything given something certain (a tautology) is 1 and Eq. (
 1 = 1 - 1
 .EN
 which is necessarily false.
-Requiring $p( c bar , c ) \[!=] 0$ precludes this.
+Requiring $p( c sup c , c ) \[!=] 0$ precludes this.
 .FE
 .\" separator
 .PP
