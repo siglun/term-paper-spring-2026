@@ -41,14 +41,14 @@ delim off
      my $xval=0;
      my $fitness=0;
      if($i <= $frequency_aa) {
- 	$fitness = $fit[0] * (1.5 - rand());
- 	$xval = $f_within_aa;
+        $fitness = $fit[0] * (1.5 - rand());
+        $xval = $f_within_aa;
      } elsif($i > $frequency_aa && $i <= $frequency_Aa + $frequency_aa) {
- 	$fitness = $fit[1] * (1.5 - rand());
- 	$xval = $f_within_Aa;
+        $fitness = $fit[1] * (1.5 - rand());
+        $xval = $f_within_Aa;
      } else {
- 	$fitness = $fit[2] * (1.5 - rand());
- 	$xval = $f_within_AA;
+        $fitness = $fit[2] * (1.5 - rand());
+        $xval = $f_within_AA;
      }
      print "$xval " . sprintf("%.0f",$fitness)."\n";
      $sigmaX += $xval;
@@ -57,8 +57,7 @@ delim off
  
      $sigmaXY +=  $xval*sprintf("%.0f",$fitness);
  }
- 
- 
+  
  # Calculate statistics. First intercept
  
  my $intercept = ($sigmaY * $sigmaXsquare - $sigmaX * $sigmaXY)/
@@ -73,5 +72,4 @@ delim off
  
  print STDERR "0 " .  $intercept          . "\n";
  print STDERR "1 " . ($intercept + $slope) . "\n";
-
 .DE
