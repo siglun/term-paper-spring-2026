@@ -1,7 +1,7 @@
 .SH
 Appendix A
 .LP
-Now, turn to the frequency of $A$ in the offspring population $P sub 2$ (the next generation).
+Consider the frequency of $A$ in the offspring population $P sub 2$ (the next generation).
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
 but also the number of $A$ genes $g prime sub i$.
 We also have to take into account the gametic ploidy $n sub G$.
