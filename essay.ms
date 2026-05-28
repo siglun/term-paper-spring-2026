@@ -68,7 +68,6 @@ The bullets and solid line with negative slope $beta sub zq$ shows the situation
 .sp
 .QE
 .KE
-.bp
 .section
 .so natural-selection/the-price-formula.ms
 .\" so natural-selection/polymorphism.grap

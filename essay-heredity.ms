@@ -158,8 +158,7 @@ Brown and blue eyes have in the simplest case similar inheritance. However, in g
 .[
 eye color
 .]
-.PP
-The Augustines themselves are justly proud of their Fra Gregor
+The Augustines themselves are justly proud of their Fra Gregor:
 .QS
 .LP
 .vs 12

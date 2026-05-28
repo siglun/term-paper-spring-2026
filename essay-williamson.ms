@@ -342,4 +342,3 @@ which would definitely complicate the estimation of the probability.
 Again an epistemic frequentist affliction given ontological status.
 I wish to point out that membership in such collectives is often not relative at all;
 it is heritable to be a white pea (Figure 4).
-.separator
