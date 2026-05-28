@@ -57,7 +57,7 @@ my $sigmaXY=0;
 			$fitness = $fit[2] * (1.5 - rand());
 			$xval = $f_within_AA;
 		}
-		print "$xval " . sprintf("%.0f",$fitness)."\n";
+		print "$xval " . sprintf("%.0f",$fitness)."\\n";
 		$sigmaX += $xval;
 		$sigmaXsquare += $xval**2;
 		$sigmaY += sprintf("%.0f",$fitness);
@@ -77,6 +77,6 @@ my $sigmaXY=0;
 	
 	# Print the two for the plot
 	
-	print STDERR "0 " .  $intercept          . "\n";
-	print STDERR "1 " . ($intercept + $slope) . "\n";
+	print STDERR "0 " .  $intercept          . "\\n";
+	print STDERR "1 " . ($intercept + $slope) . "\\n";
 .DE
