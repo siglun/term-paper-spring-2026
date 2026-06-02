@@ -29,11 +29,15 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 qr.eps:
 	qrencode -l H -v 1 -s 3 -d300 -t EPS -o qr.eps $(URI)
 
+essay-with-cover.pdf:
+	pdfunite cover-page.pdf essay.pdf essay-with-cover.pdf
+
 clean:
 	rm -f *~ *.eps
 
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
+essay-with-cover.pdf: cover-page.pdf essay.pdf 
 
 essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	essay-heredity.ms essay-historicism.ms  essay-williamson.ms \
