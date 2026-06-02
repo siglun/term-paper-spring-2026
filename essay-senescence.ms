@@ -119,7 +119,7 @@ One die is homogenous and symmetrical and contribute a few throws,
 and the other is loaded and contribute a majority.
 Here we must return to the thinking of mutants and wild types.
 The wild type dominates the population.
-Each individual becomes a throw of die, an individual event.
+Each individual becomes a throw of a die, an individual event.
 Mutants are initially so rare that they hardly ever meet each other.
 Their reproduction and deaths mould the survivorship curve for the population.
 The mutation pressure provides the variation that enables evolution,
