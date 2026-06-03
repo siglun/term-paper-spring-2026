@@ -1,5 +1,5 @@
 .LP
-The Price Eq. (1) and its traditional formulation in Eq (1\[aq]\[aq]\[aq]) has lead us to a dynamical system\** that models the change in gene frequencies between generations.
+The Price Eq. (1) and its traditional formulation in Eq (1\[aq]\[aq]) has lead us to a dynamical system\** that models the change in gene frequencies between generations.
 .FS
 A branch of mathematics, working with difference and differential equations to model processes.
 I learned it from.
@@ -21,7 +21,7 @@ Strange attractors are extremely sensitive to the initial conditions of the syst
 The trajectories of a dynamical system have one important feature.
 They are uniquely determined by their initial conditions,
 they can diverge from, or converge, to one another, but never intersect.
-The Eq. (1\[aq]\[aq]\[aq]) is of a simple kind.
+The Eq. (1\[aq]\[aq]) is of a simple kind.
 Its dynamics converges to one of three equilibrium points.
 .PP
 The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.

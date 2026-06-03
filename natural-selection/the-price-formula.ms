@@ -132,7 +132,7 @@ I also replace $Q sub 1$ and $q bar$ with the letter $p$ (they are equal under t
 roman cov(z,q) lineup = { p sup 2 z sub AA + p  ( 1 - p ) z sub Aa } - z bar ^^ q bar
 .EN
 Substituting this into Eq. (1) (using the $p$ rather than $Q$) we get
-.EQ  C (1\[aq]\[aq]\[aq])
+.EQ  C (1\[aq]\[aq])
 Delta p lineup = { p sup 2 z sub AA + p ( 1-p ) z sub Aa } over z bar - p
 .EN
 which is derived from the Price equation rather than the conventional way,
