@@ -135,7 +135,7 @@ The invasibility is actually an extremely useful property in the study of ecolog
 There are a large number of processes where we have no idea on how, or even if,
 a certain trait is heritable,
 but we know for sure that there are modifier genes that may cause minor changes  and that we can study the early fate of such mutants.
-This enables to model how evolution would mould such traits.
+This enables us to model how evolution would mould such traits.
 This is the idea behind the theory of Evolutionarily Stable Strategies (ESS) developed for that purpose.
 .QS
 .LP
