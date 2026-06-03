@@ -2,7 +2,7 @@
 .SUFFIXES: .pic .ms .pdf .ps .eps .chem .svg
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf .chem.ms .svg.eps
 
-default: essay.pdf
+default: essay.pdf essay-with-cover.pdf
 	cd natural-selection/ && $(MAKE)
 	cd too-much-modality && $(MAKE)
 

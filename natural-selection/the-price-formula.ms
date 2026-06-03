@@ -21,12 +21,22 @@ In this case his equation looks like this:
 .EQ C (1)
 Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
 .EN
-Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in
-.B that
-individual, $q sub i = 0, 1/2, 1$.
+Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in \f[B]that\f[P] individual,
+$q sub i = 0, 1/2, 1$.
+There is a significant part of individual $i$'s life embedded in the parameter $z sub i$.
+There first and formost the probability that he or she survives to breed,
+is fertile and finally the number of offspring.\**
 $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes and frequencies of $A$ over all the $N$
 .I individuals
 in the population, respectively.
+$roman cov (z,q)$ is the covariance beteen $z sub i$ and $q sub i$
+.EQ C (2)
+roman  cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar
+.EN
+.FS
+Personally I have produced just two successful gametes,
+in spite of the fact that there are millions of sperms per ejaculation.
+.FE
 Note that Price adds an alternative formulation
 .EQ C (1\[aq])
 Delta Q ^ = ^ { beta sub zq sigma  sub q sup 2 } over z bar
@@ -51,7 +61,7 @@ Further,
 let $n sub z$ the zygotic ploidy of the species.
 For a diploid species $n sub z = 2$.
 The frequency of the gene $A$ in $P sub 1$ is
-.EQ C (2)
+.EQ C (3)
 Q sub 1 = { sum from i=1 to i=N g sub i } over { n sub z N}  = { sum from i=1 to i=N { n sub z q sub i } } over { n sub z N}  = q bar
 .EN
 where we take the sums over all members of population $P sub 1$.
@@ -61,7 +71,7 @@ Here you assume (i) Mendel's law of inheritance and (ii) random mating.
 (Price assumes nothing of this kind when deriving his equation.)
 Imagine that we pick up each individual and take a note of its genotype, if it is $AA$, $Aa$ or $aa$.
 From those data we can easily calculate the gene frequency.
-Now we use the traditional assumptions and Eq. (2) to calculate $q bar$.
+Now we use the traditional assumptions and Eq. (3) to calculate $q bar$.
 We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
 Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.
 This is an urn experiment.
@@ -79,12 +89,12 @@ rpile { { AA:~~ } above { Aa:~~ } above { aa:~~ }} rpile { { Q sup 2 } above { 2
 There is nothing more than Popper's theorems (or the corresponding traditional ones), behind this exercise.
 In \f[B]Appendix A\f[P] we will derive Price's equation Eq. (1) from first principles.
 Also, we use Popper's theorems to derive a dynamical system which make it possible to calculate the change of gene frequencies over time.
-From Eq. (A4) in Appendix A.
-.EQ C (3)
+From Eq. (A3) in Appendix A.
+.EQ C (4)
 Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
 .EN
 .LP
-The second term in Eq. (3) is not a bug but a feature.
+The second term in Eq. (4) is not a bug but a feature.
 It is the mean value of the differences between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
 This is a gross simplification;
 we assume that all individuals with the same genotype are exactly the same in all other aspects.
@@ -110,10 +120,7 @@ rather than in improving survival and reproduction in general.
 That term is an argument for the propensity interpretation of probability.
 .PP
 The traditional population genetics use another formulation.
-Remember the definition of $roman cov$ and its variations, from Eq. (A2):
-.EQ 
-roman  cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar
-.EN
+Remember the definition of $roman cov$ and its variations, Eq. (2).
 From there we get
 .EQ
 roman  cov(z,q) mark = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar = { N Q sub 1 sup 2 z sub AA + N 2 Q sub 1 ( 1 - Q sub 1 ) z sub Aa 1 smallover 2 } over N - z bar ^^ q bar
@@ -125,7 +132,7 @@ I also replace $Q sub 1$ and $q bar$ with the letter $p$ (they are equal under t
 roman cov(z,q) lineup = { p sup 2 z sub AA + p  ( 1 - p ) z sub Aa } - z bar ^^ q bar
 .EN
 Substituting this into Eq. (1) (using the $p$ rather than $Q$) we get
-.EQ  C (1\[aq]\[aq])
+.EQ  C (1\[aq]\[aq]\[aq])
 Delta p lineup = { p sup 2 z sub AA + p ( 1-p ) z sub Aa } over z bar - p
 .EN
 which is derived from the Price equation rather than the conventional way,
