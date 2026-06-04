@@ -78,7 +78,7 @@ This is an urn experiment.
 We draw two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Eq. (P3).
 Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1 )$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Eq. (P3) and then we sum them together per Eq. (P2).
 Since the two are identical, sum them together and get $2 Q sub 1 (1 - Q sub 1 )$.
-.EQ C (2\[aq])
+.EQ C (3\[aq])
 Q sub 1 = { 2 Q sub 1 sup 2 N + 2 Q sub 1 ( 1 - Q sub 1 ) N } over { 2  N } = q bar
 .EN
 Here we have used 2 for $g sub i $ for all those that are homozygous and 1 for those that are heterozygous.

@@ -158,7 +158,11 @@ Brown and blue eyes have in the simplest case similar inheritance. However, in g
 .[
 eye color
 .]
-The Augustines themselves are justly proud of their Fra Gregor:
+The Augustines themselves are justly proud of their Fra Gregor.
+Fr. Miguel Angel Orcasitas\** writes:
+.FS
+former Prior General and Doctor of Church History
+.FE
 .QS
 .LP
 .vs 12
@@ -186,7 +190,6 @@ $1 smallover 2$ $RW$ = $1 smallover 4$ $RW$ + $1 smallover 4$ $WR$, by Popper's 
 Finally we get $1 smallover 4$ $WW$, again by Eq (P3).
 Now, we mentioned dominance above.
 The $R$ allele is dominant over $W$ so, again by Popper's addition theorem we get $3 smallover 4$ = $1 smallover 4 + 1 smallover 2$ red pea flowers and $1 smallover 4$ in the offspring from  $RW  \[mu] RW$.
-.PP
 The dominance of red over white is similar to the kind of propensity for individual events like the case with two dice, one loaded and the other fair, where  it is impossible to separate one die from the other.
 Just as it is impossible to tell the difference between $RW$ and $RR$,
 one phenotype produced by two genotypes.

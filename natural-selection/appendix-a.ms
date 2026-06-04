@@ -11,10 +11,15 @@ the ploidy is $n sub z = 2$ (see above) and consequently the gametic is $n sub G
 The frequency of $A$ in individual gametes produced by individual $i$ is then defined by
 .EQ C (A1)
 q prime sub i ^=^ left { lpile {
-{ {g prime sub i } / { z sub i n sub G } }
+{ {g prime sub i } over { z sub i n sub G } }
+above
+""
 above 
 { q sub i } }
-~~ lpile { { roman if ^ z sub i != 0 } above {roman if ^ z sub i = 0 } } 
+~~ lpile { { roman if ^ z sub i != 0 } above
+""
+above
+{roman if ^ z sub i = 0 } } 
 .EN
 Let $Delta q sub i = q prime sub i - q sub i$ for short.
 It is the difference between the frequency of $A$ genes per successful gamete from individual $i$ and the frequency of that gene in that individual.
