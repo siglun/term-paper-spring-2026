@@ -37,8 +37,9 @@ clean:
 
 squareroot-problem.pdf: squareroot-problem.ms $(OTHERS)
 
-essay-with-cover.pdf: cover-page.pdf essay.pdf 
+anti-vax-gettier-case.pdf: anti-vax-gettier-case.ms
 
+essay-with-cover.pdf: cover-page.pdf essay.pdf 
 essay.pdf: essay.ms essay-intro.ms essay-popper.ms essay-senescence.ms \
 	essay-heredity.ms essay-historicism.ms  essay-williamson.ms \
 	life-tables/life-tables-males.text \
