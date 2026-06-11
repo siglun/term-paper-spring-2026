@@ -1,5 +1,5 @@
 .LP
-The Price Eq. (1) and its traditional formulation in Eq (1\[aq]\[aq]) has lead us to a dynamical system\** that models the change in gene frequencies between generations.
+The Price Eq. (1) and its traditional formulation in Eq (1\[aq]\[aq]) have led us to a dynamical system\** that models the change in gene frequencies between generations.
 .FS
 A branch of mathematics, working with difference and differential equations to model processes.
 I learned it from.
@@ -12,9 +12,9 @@ Dynamical systems are typically sets of difference or differential equations, on
 These variables are usually referred to as state variables.
 A dynamical system can be solved analytically or numerically to yield time series of the states.
 The solutions are typically of three kinds:
-(i) They can converge to a single point, an equilibirium, in which there is no change.
+(i) They can converge to a single point, an equilibrium, in which there is no change.
 Then state variables move along trajectories converging towards the point which is often referred to as an attractor.
-(ii) An attractor can be a limit cycle when the trajectories, or orbits, returns cyclically over and over again to the same or similar states.
+(ii) An attractor can be a limit cycle when the trajectories, or orbits, return cyclically over and over again to the same or similar states.
 Finally (iii) there are so-called strange attractors, in which case the behaviour is chaotic.
 Strange attractors are extremely sensitive to the initial conditions of the system.
 .PP
@@ -24,11 +24,11 @@ they can diverge from, or converge, to one another, but never intersect.
 The Eq. (1\[aq]\[aq]) is of a simple kind.
 Its dynamics converges to one of three equilibrium points.
 .PP
-The change predicted by dynamical systems are in reality affected by various kinds of stochasticities.
+The changes predicted by dynamical systems are in reality affected by various kinds of stochasticities.
 There will be three kinds of such effects.
 We have two that we may refer to as
 .I internal,
-because they do actually belong to the dynamical systems itself:
+because they do actually belong to the dynamical system itself:
 (i) There could be sampling errors in the mating process causing genetic drift.
 .[ (
 Crow Kimura
@@ -151,7 +151,7 @@ evolution games 1982
 .]
 .QE
 .PP
-Here we see again how the properties of few individuals are having crucial importance for the fate of the many.
+Here we see again how the properties of a few individuals are having crucial importance for the fate of the many.
 Or in terms of a dynamic system;
 is the equilibrium state of the system invasible or susceptible to change?
 Here is where dynamical systems theory meets modalities such as possibility and necessity.
@@ -191,7 +191,7 @@ Popper schism
 .]
 .QE
 .PP
-David Lewis regarded himself a subjectivist.
+David Lewis regarded himself as a subjectivist.
 In \[oq]A Subjectivist's Guide to Objective Chance\[cq] he writes
 .QS
 .LP
@@ -214,7 +214,7 @@ Weast handbook chemistry physics
 .]
 and radioactive decay is exponentially distributed.
 We discussed such distributions in relation to the evolution of senescence above.
-Human survivorship curves seem to be composed by at least two such distributions and subject to evolution, where initially rare random mutations are fine-tuned by natural selection to make us potentially proud grandparents.
+Human survivorship curves seem to be composed of at least two such distributions and subject to evolution, where initially rare random mutations are fine-tuned by natural selection to make us potentially proud grandparents.
 .PP
 Strictly speaking,
 subjectivism precludes all objective probabilities,
@@ -322,7 +322,7 @@ The problem caused by the principle is a problem for subjectivism,
 not for the propensity theory.
 The easiest way to justify philosophically that there is a probability that a given Tritium atom is still around in a year is to accept the propensity theory.
 Without objective chance,
-subjectivist probability still need to explain what it means that the half life of $"" sub 1  sup 3 H$ is 12.32 and $"" sub 94 sup 239 Pu$ is 24400 years.
+the subjectivist needs to explain the meaning of probabilities in relation to the half-lives of $"" sub 1  sup 3 H$ (12.26 years) and $"" sub 94 sup 239 Pu$ (24400 years).
 .[
 Weast handbook chemistry physics
 .]
@@ -337,7 +337,7 @@ discussed the probability that he would reach the venerable age of 80.
 .[ (
 Ayer probability
 .], p. 201)
-In doing that he notice that he could define an endless number of collectives,
+In doing that he noted that he could define an endless number of collectives,
 which would definitely complicate the estimation of the probability.
 Again an epistemic frequentist affliction given ontological status.
 I wish to point out that membership in such collectives is often not relative at all;

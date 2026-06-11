@@ -3,7 +3,7 @@ Appendix B
 .LP
 The Monte Carlo simulation script for Figure 5.
 It writes the data for reproductive success to STDOUT and for the regression lines to STDERR.
-We read the assumed gene frequency from command line,
+We read the assumed gene frequency from the command line,
 or we set it to 0.25 if absent.
 .EQ
 delim off 
@@ -28,8 +28,8 @@ my $f_within_aa = 0;
 my $f_within_Aa = 0.5;
 my $f_within_AA = 1.0;
 
-# Fitness
-my @fit = (15,45,30);
+# Success
+my @suc = (15,45,30);
 	
 my @frequency;
 	
@@ -45,24 +45,24 @@ my $sigmaXY=0;
 	
 	for(my $i=1;$i<=$N;$i++) {
 		my $xval=0;
-		my $fitness=0;
+		my $success=0;
 		if($i <= $frequency_aa) {
-			$fitness = $fit[0] * (1.5 - rand());
+			$success = $suc[0] * (1.5 - rand());
 			$xval = $f_within_aa;
 		} elsif($i > $frequency_aa && $i <=
 			$frequency_Aa + $frequency_aa) {
-			$fitness = $fit[1] * (1.5 - rand());
+			$success = $suc[1] * (1.5 - rand());
 			$xval = $f_within_Aa;
 		} else {
-			$fitness = $fit[2] * (1.5 - rand());
+			$success = $suc[2] * (1.5 - rand());
 			$xval = $f_within_AA;
 		}
-		print "$xval " . sprintf("%.0f",$fitness)."\\n";
+		print "$xval " . sprintf("%.0f",$success)."\\n";
 		$sigmaX += $xval;
 		$sigmaXsquare += $xval**2;
-		$sigmaY += sprintf("%.0f",$fitness);
+		$sigmaY += sprintf("%.0f",$success);
 	
-		$sigmaXY +=  $xval*sprintf("%.0f",$fitness);
+		$sigmaXY +=  $xval*sprintf("%.0f",$success);
 	}
 	 
 	# Calculate statistics. First intercept

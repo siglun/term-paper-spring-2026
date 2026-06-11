@@ -37,7 +37,7 @@ This was the reason he initially refused to accept the theory of evolution as a 
 .[ (
 Popper historicism
 .], p. 106\[en]107)
-He did eventually endorse it again 1978 when he was invited to give the first Darwin lecture at Darwin College, Cambridge.
+He did eventually endorse it again in 1978 when he was invited to give the first Darwin lecture at Darwin College, Cambridge.
 He proposed that
 .QS
 .LP

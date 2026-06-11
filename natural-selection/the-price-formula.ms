@@ -24,12 +24,12 @@ Delta Q ^ = ^ { roman cov (z,q) } over { z bar }
 Here $z sub i$ is the number of successful gametes from individual $i$ ($i = 1 ... N$ where $N$ is the population size) and $q sub i$ is the frequency of $A$ in \f[B]that\f[P] individual,
 $q sub i = 0, 1/2, 1$.
 There is a significant part of individual $i$'s life embedded in the parameter $z sub i$.
-There first and formost the probability that he or she survives to breed,
+There is first and foremost the probability that he or she survives to breed,
 is fertile and finally the number of offspring.\**
 $z bar$ and $q bar$ are the arithmetic means of the number of successful gametes and frequencies of $A$ over all the $N$
 .I individuals
 in the population, respectively.
-$roman cov (z,q)$ is the covariance beteen $z sub i$ and $q sub i$
+$roman cov (z,q)$ is the covariance between $z sub i$ and $q sub i$
 .EQ C (2)
 roman  cov(z,q) = { sum from i=1 to N ( z sub i - z bar )( q sub i - q bar )} over N = { sum from i=1 to N z sub i q sub i } over N - z bar ^^ q bar
 .EN
@@ -45,7 +45,7 @@ Here $sigma sub q  sup 2$ is the variance of $q sub i$ and $beta sub zq$ is the 
 Here we can see how natural selection operates using standard statistical analysis.
 The sign of the change in gene frequency $Delta Q$ is given by the slope $beta sub zq$.
 That is,
-when the composition of the population is such that $z sub i$ decreasing with $q sub i$ ($beta sub zq < 0$) the gene frequency declines and the opposite is the case when $beta sub zq > 0$.
+when the composition of the population is such that $z sub i$ decreases with $q sub i$ ($beta sub zq < 0$) the gene frequency declines and the opposite is the case when $beta sub zq > 0$.
 I cannot think of a more clear example of \[oq]the concept of a field of forces\[em]introduces a dispositional physical entity described by certain equations (rather than by metaphors),
 in observable accelerations\[cq].
 .[ (
@@ -58,7 +58,7 @@ where the former represents the parents and the latter their offspring.
 We first consider the  $P sub 1$.
 Let $g sub i$ be the dose of the gene $A$ in individual $i$. $g = 0, 1, 2$ for a diploid species.
 Further,
-let $n sub z$ the zygotic ploidy of the species.
+let $n sub z$ be the zygotic ploidy of the species.
 For a diploid species $n sub z = 2$.
 The frequency of the gene $A$ in $P sub 1$ is
 .EQ C (3)
@@ -73,7 +73,7 @@ Imagine that we pick up each individual and take a note of its genotype, if it i
 From those data we can easily calculate the gene frequency.
 Now we use the traditional assumptions and Eq. (3) to calculate $q bar$.
 We knew the frequency $Q sub 1$ of $A$ in the population $P sub 1$.
-Let us now form the population $P sub 1$ as zygotes from the gametes from their parents.
+Let us now form the population $P sub 1$ as zygotes from their parents' gametes.
 This is an urn experiment.
 We draw two $A$ with probability $Q sub 1 sup 2$, it follows from the multiplication theorem, Eq. (P3).
 Likewise, we pick up one $A$ followed by a $a$ with the probability $Q sub 1 (1 - Q sub 1 )$ and one $a$ followed by a $A$ with probability $( 1 - Q sub 1 ) Q sub 1$\[em]both using the multiplication theorem Eq. (P3) and then we sum them together per Eq. (P2).
@@ -86,9 +86,9 @@ This way to go from gene frequencies to genotype ones is called Hardy-Weinberg's
 .EQ
 rpile { { AA:~~ } above { Aa:~~ } above { aa:~~ }} rpile { { Q sup 2 } above { 2Q(1-Q) } above { (1-Q) sup 2 }}
 .EN
-There is nothing more than Popper's theorems (or the corresponding traditional ones), behind this exercise.
+There is nothing more than Popper's theorems (or the corresponding traditional ones) behind this exercise.
 In \f[B]Appendix A\f[P] we will derive Price's equation Eq. (1) from first principles.
-Also, we use Popper's theorems to derive a dynamical system which make it possible to calculate the change of gene frequencies over time.
+Also, we use Popper's theorems to derive a dynamical system which makes it possible to calculate the change of gene frequencies over time.
 From Eq. (A3) in Appendix A.
 .EQ C (4)
 Delta Q = Q sub 2 - Q sub 1 lineup = { roman cov (z,q) } over z bar + { sum from i=1 to N z sub i Delta q sub i } over { N z bar }
@@ -99,27 +99,27 @@ It is the mean value of the differences between the frequency of $A$ genes per s
 This is a gross simplification;
 we assume that all individuals with the same genotype are exactly the same in all other aspects.
 We assume that all those other aspects somehow even out.
-The genotypes have become what von Mises refer to as \f[I]classes\f[P] or \f[I]collectives\f[P].
+The genotypes have become what von Mises refers to as \f[I]classes\f[P] or \f[I]collectives\f[P].
 .[
 probability statistics truth 1957
 .]
 .PP
 Another factor that will make it non-zero is genetic drift,
 also known as sampling error.
-There are also a range of other factors,
+There are also a number of other factors,
 like sexual selection.
 .[ (
 Fisher selection
 .], p. 146\[en]156)
 Selection can also operate through meiotic drive and segregation distortion,
-when a gene is trying to get an upper hand in the Battle of Transmission
+when a gene is trying to get an upper hand in the Battle for Transmission
 .[
 Lindholm 2016
 .]
 rather than in improving survival and reproduction in general.
 That term is an argument for the propensity interpretation of probability.
 .PP
-The traditional population genetics use another formulation.
+The traditional population genetics uses another formulation.
 Remember the definition of $roman cov$ and its variations, Eq. (2).
 From there we get
 .EQ

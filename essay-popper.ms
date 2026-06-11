@@ -106,7 +106,7 @@ The adherent of the propensity theory does not dispute that a series of measurem
 However, he or she regard the frequency approach as a method,
 and its interpretation as an epistemic problem.
 .PP
-Popper argues that von Mises position leads to a contradiction if there is a heterogeneity in such a series,
+Popper argues that von Mises' position leads to a contradiction if there is a heterogeneity in such a series,
 for instance a series which includes throws of a homogenous and symmetrical die and a loaded one, with (say) a majority of throws made with a true one.
 Then the frequentist will need to introduce a new class or collective.
 .PP
