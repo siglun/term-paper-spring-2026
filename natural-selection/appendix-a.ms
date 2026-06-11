@@ -3,11 +3,11 @@ Appendix A
 .LP
 Consider the frequency of $A$ in the offspring population $P sub 2$ (the next generation).
 That frequency is determined by the number of successful gametes $z sub i$ from each individual $i$,
-but also the number of $A$ genes $g prime sub i$.
+but also by the number of $A$ genes $g prime sub i$.
 We also have to take into account the gametic ploidy $n sub G$.
 For a diploid species,
 like us humans,
-the ploidy is $n sub z = 2$ (see above) and consequently the gametic is $n sub G = 1$.
+the ploidy is $n sub z = 2$ (see above) and consequently the gametic ploidy is $n sub G = 1$.
 The frequency of $A$ in individual gametes produced by individual $i$ is then defined by
 .EQ C (A1)
 q prime sub i ^=^ left { lpile {
@@ -26,7 +26,7 @@ It is the difference between the frequency of $A$ genes per successful gamete fr
 This quantity is very important,
 and I will return to its significance below.
 .PP
-Also, recall that the population covariance between two stochastic variables, lets call them $z$ and $q$, are defined in Eq. (2)
+Also, recall that the population covariance between two stochastic variables, let us call them $z$ and $q$, is defined in Eq. (2)
 Let $Q sub 2$ be the frequency of $A$ in the offspring population $P sub 2$.
 Then
 .EQ C (A2a)

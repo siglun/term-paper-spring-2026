@@ -77,7 +77,7 @@ Medawar problem biology
 who was one of the first to discuss ageing as an evolutionary problem.
 The problem is to give evolutionary explanations to the shapes of the survivorship curves.
 Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
-Genes that enhance reproduction, or raises the survival rate up to and including the reproductive period,
+Genes that enhance reproduction, or raise the survival rate up to and including the reproductive period,
 will have a chance to spread.
 .bp
 .PP
@@ -108,15 +108,15 @@ You live through your youth and then you reproduce,
 but then you pay with arthritis, senility and stroke once your offspring has fledged.
 .PP
 For such an organism to evolve,
-in which individuals can be vigorous at for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot deaths and survivals to fine tune the balance between reproduction, senescence and mortality.
+in which individuals can be vigorous for a time period long enough for allowing them to help their grandchildren requires a lot of mutations to generate variation needed, and a lot of deaths and survivals to fine tune the balance between reproduction, senescence and mortality.
 Evolutionary gerontology is now a science in its own right.
 .[
 The evolution of aging and lifespan
 .]
 .PP
 Recall Popper's arguments concerning heterogeneity in frequentist sequences.
-One die is homogenous and symmetrical and contribute a few throws,
-and the other is loaded and contribute a majority.
+One die is homogenous and symmetrical and contributes a few throws,
+and the other is loaded and contributes a majority.
 Here we must return to the thinking of mutants and wild types.
 The wild type dominates the population.
 Each individual becomes a throw of a die, an individual event.

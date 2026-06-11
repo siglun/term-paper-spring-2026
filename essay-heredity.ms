@@ -22,11 +22,11 @@ popper magic
 .[
 popper discovery
 .]
-Therefore any probability requires an interpretation,
-and by that he means that statements like
+Therefore any use of the word probability requires an interpretation.
+Such use could, according to him, be statements like
 .IP
-\[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[reals]$)\[cq]
-He uses his own notation for this:
+\[oq]The probability of $a$ given $b$ is equal to $r$ (where $r\[mo]^\[reals]$).\[cq]
+He has his own notation for this:
 .EQ C (P1)
 p(a,b)=r
 .EN
@@ -74,7 +74,7 @@ p( a sup c , c ) = 1 - p (a,c) , roman " provided " p( c sup c , c ) \[!=] 0
 .EN
 Popper admits himself that Eq. (P4) is somewhat unusual.\**
 I will not use it in this note,
-kept it here for the sake of completeness.
+but kept it here for the sake of completeness.
 .FS
 This is because if $c$ is true, i.e, a tautology, then its complement $c sup c$ has to be a contradiction.
 The probability of anything given something certain (a tautology) is 1 and Eq. (P4) would become
@@ -114,7 +114,7 @@ In the former case there are a (possibly large) number of genes contributing to 
 In the latter we have a single gene leading to qualitative characters,
 such as red and white pea flowers.
 .PP
-In the formation of germ cells the two parts of the genome separates randomly.
+In the formation of germ cells the two parts of the genome separate randomly.
 That process is referred to as meiosis.
 (The division of cells in the body in general is called mitosis).
 For the male function it is formed sperms for animals as well as in pollen for flowering plants.
@@ -154,7 +154,7 @@ A locus may have two alleles (for a diploid organism like me), as we saw above.
 An individual which is $WW$ giving white pea flowers is referred to as a
 .I homozygote,
 whereas if we have two different alleles, $RW$, we have a \f[I]heterozygote\f[P].
-Brown and blue eyes have in the simplest case similar inheritance. However, in general the colour of the  iris depend on genes in at least three loci with several alleles in each of them.
+Brown and blue eyes have in the simplest case similar inheritance. However, in general the colour of the  iris depends on genes in at least three loci with several alleles in each of them.
 .[
 eye color
 .]
@@ -195,7 +195,7 @@ Just as it is impossible to tell the difference between $RW$ and $RR$,
 one phenotype produced by two genotypes.
 This crossing is illustrated in Figure 4.
 .PP
-The formation of germ cells through meiosis is not always simple and peaceful as they are in red and white peas in Fra Gregor's Monastery Garden.
+The formation of germ cells through meiosis is not always as simple and peaceful as it is in red and white peas in Fra Gregor's Monastery Garden.
 All over the living world one can find disturbances from Mendel's law of equal segregation that are due to phenomena called \f[I]segregation distortion\f[P] or \f[I]meiotic drive\f[P].
 An allele $A sub d$ can be capable of pushing for itself when germ cells are formed.
 That is, individuals with genotype $A sub d A sub x$ produce more gametes with $A sub d$ than with $A sub x$.
