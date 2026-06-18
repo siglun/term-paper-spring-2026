@@ -1,16 +1,18 @@
 .TL
 Probabilities and natural selection
 .AU
-Sigfrid Lundberg\**
-.FS
+Sigfrid Lundberg\[dg]
+.FS \[dg]
+The author is a retired scientist and software engineer,
+but currently postgraduate student in theoretical philosophy at Lund University, Sweden.
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
 .AB
 .LP
-.fs 10
+.ps 10
 .vs 12
 I argue that of the available interpretations of probability,
-Popper's propensity interpretation is the one most compatible with — and perhaps the only one coherent with — the theory of natural selection.
+Popper's propensity interpretation is the one most compatible with\[em]and perhaps the only one coherent with\[em]the theory of natural selection.
 Selection acts on singular events: whether a given individual survives and reproduces,
 not on frequencies accumulated along a lineage's past.
 Single-case probabilities of this kind are precisely what frequentism (von Mises) denies and what propensities supply.
