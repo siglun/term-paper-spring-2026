@@ -5,6 +5,22 @@ Sigfrid Lundberg\**
 .FS
 \f[CR]https://orcid.org/0009-0006-2612-3203\f[P]
 .FE
+.AB
+.LP
+.fs 10
+.vs 12
+I argue that of the available interpretations of probability,
+Popper's propensity interpretation is the one most compatible with — and perhaps the only one coherent with — the theory of natural selection.
+Selection acts on singular events: whether a given individual survives and reproduces,
+not on frequencies accumulated along a lineage's past.
+Single-case probabilities of this kind are precisely what frequentism (von Mises) denies and what propensities supply.
+Drawing on survivorship curves,
+Mendelian segregation,
+the Price equation,
+and the modal structure of dynamical systems,
+I conclude that natural selection is forward-looking and falsificationist rather than backward-looking and inductivist.
+.AE
+.ig
 .LP
 .RD
 .vs 12
@@ -15,6 +31,7 @@ Stars do not care even mildly
 if someone is born or is dead.
 (Nils Ferlin)
 .DE
+..
 .section
 .so essay-intro.ms
 .so essay-popper.ms

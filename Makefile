@@ -16,7 +16,7 @@ OTHERS =  ./references.text ./tmac/dropcap.tmac \
 	pdfroff -U -R  -sGtep   -m s -m pdfmark \
 	-mdecorations -m dropcap -M ./tmac   \
 	-k  ${PAPER} -Tps  parameters.ms $<  > $*.pdf
-	pdftotext $*.pdf ; wc -wc $*.txt ; rm  $*.txt
+	pdftotext $*.pdf ; wc -w $*.txt ; rm  $*.txt
 
 .chem.ms:
 	soelim $< | chem  > $*.ms

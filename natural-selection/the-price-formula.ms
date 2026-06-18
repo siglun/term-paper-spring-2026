@@ -16,7 +16,7 @@ Oren Harman 2011
 .]
 .FE
 .PP
-We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency $Q$ of the gene $A$ from one generation to the next, $Delta Q$ .
+We assume a single locus with two alleles, $A$ and $a$, and calculate the change in frequency $Q$ of the gene $A$ from one generation to the next, $Delta Q$.
 In this case his equation looks like this:
 .EQ C (1)
 Delta Q ^ = ^ { roman cov (z,q) } over { z bar }

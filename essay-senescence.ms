@@ -79,7 +79,6 @@ The problem is to give evolutionary explanations to the shapes of the survivorsh
 Genes that are favourable after the end of the reproductive phase of our lives will not spread in the next generation.
 Genes that enhance reproduction, or raise the survival rate up to and including the reproductive period,
 will have a chance to spread.
-.bp
 .PP
 However, there is no way a living being can improve in that way.
 Any improvement comes at a cost.
