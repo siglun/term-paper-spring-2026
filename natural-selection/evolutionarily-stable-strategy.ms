@@ -17,6 +17,9 @@ i.e., it is a specification of what an individual will do in any situation in wh
 An ESS is a strategy such that,
 if all members of a population adopt it,
 then no mutant strategy could invide the population under the influence of natural selection.
+.[
+Maynard Smith evolution theory games
+.]
 .QE
 .PP
 Causation is causal dependence with transitivity.
@@ -24,8 +27,8 @@ Causation is causal dependence with transitivity.
 Lewis causation
 .], p. 563)
 Assume that we have a population growing according to some law $f$ and that its population changes from $N sub t$ one year to $N sub t+x$ the year after.
-.EQ
-N sub t+1 = N sub t left ( 1 + f (x , N sub t ) right )
+.EQ I (1)
+N sub t+1 = N sub t left ( 1 + f ( x , N sub t ) right )
 .EN
 Further,
 let $AA$ the dominating genotype in the population,
@@ -34,14 +37,14 @@ This $A$ gene manifests itself on some trait called $x$.
 In particular, let the $AA$ have the specific value of $x = x hat$,
 and that the growth rate is affected by the value of $x$
 .PP
-Consider the following series of events:
-.IP \f[B]M\f[P]
-\f[I]A rare mutation occurs\f[P]
-.br
 Assume that the $A$ gene occasionally mutates $A -> a$ and that the bearers of the allele $a$ ($Aa$) have a phenotype that deviates from $x$.
-Also, if the frequence of the $a$ allele $q$ is small in comparison with that of the $A$ allele which is $p = 1 -q$ and that, according to Hardy-Weinberg law the frequencies of $AA$ is $p sup 2 approx 1$, $Aa$ is $2 p q << 1$ and $aa$ is negligible $q sup 2 approx 0$.
-.IP \f[B]P\f[P]
-\f[I]The muation has a phenotypic effect\f[P]
-.br
-Assume that the mutants with genotype ($Aa$) have a modified trait where $x = 
-x hat + delta x$
+Assume that the mutants with genotype ($Aa$) have a modified trait where $x = x hat + delta x$
+Also, if the frequence of the $a$ allele $q$ is small in comparison with that of the $A$ allele which is $p = 1 - q$ and that,
+according to Hardy-Weinberg law the frequencies of $AA$ is $p sup 2 approx 1$,
+$Aa$ is $2 p q approx 2 q << 1$ and $aa$ is negligible $q sup 2 approx 0$.
+.EQ I (2a)
+N sub t+1 = N sub t left ( 1 + f ( x hat , N sub t , M sub t ) right )
+.EN
+.EQ I (2b)
+M sub t+1 = M sub t left ( 1 + f ( x hat + delta x , N sub t , M sub t ) right )
+.EN

@@ -6,7 +6,7 @@ default: essay.pdf
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/
 PAPER = -dpaper=a4 -P-pa4
-OTHERS =  ../references.text ../tmac/dropcap.tmac \
+OTHERS =  ../bib/references.text ../tmac/dropcap.tmac \
 	Makefile ../fitch-macros.pic parameters.ms ../back-matter.ms
 
 .ms.pdf:

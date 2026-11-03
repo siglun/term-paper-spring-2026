@@ -8,7 +8,7 @@ default: essay.pdf essay-with-cover.pdf
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/essay.pdf
 PAPER = -dpaper=a4 -P-pa4
-OTHERS =  ./references.text ./tmac/dropcap.tmac \
+OTHERS =  ./bib/references.text ./tmac/dropcap.tmac \
 	Makefile fitch-macros.pic  eqn-definitions.ms \
 	parameters.ms back-matter.ms 
 
